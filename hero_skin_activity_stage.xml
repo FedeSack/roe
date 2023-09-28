@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<Group id="hero_skin_activity_stage">
+  <ItemSpec id="1001" type="1" group="10001" name="zac55667790" desc="kk00109" />
+  <ItemSpec id="1002" type="2" group="10001" name="zac55667790" desc="kk00112" tips="kk00113" quest_alliance="50;1950002" quest_all="300000;1950001" quest_alliance_desc="kk00125" quest_all_desc="kk00124" />
+  <ItemSpec id="1003" type="3" group="10001" name="zac55667790" desc="kk00115" tips="kk00116" exchange_id="998000900" is_discount="1" operate="1" exchange_id_2="998000901" share_desc="kk00137" fake_discount="1" />
+  <ItemSpec id="2001" type="3" group="10002" name="ST91050836" desc="kk00138" exchange_id="998000902" is_discount="0" operate="0" />
+  <ItemSpec id="3001" type="3" group="10003" name="ST91050854" desc="kk00138" exchange_id="998001104" is_discount="0" operate="0" />
+  <ItemSpec id="4001" type="2" group="10040" name="TH000546" desc="kk00112" quest_alliance_desc="kk00125" quest_all_desc="kk00124" />
+<ItemSpec id="5001" type="3" group="10005" name="ST91050866" desc="kk00109" exchange_id="998001123" is_discount="0" operate="0" />
+<ItemSpec id="6001" type="3" group="10006" name="ST91050836" desc="kk00138" exchange_id="998001115" is_discount="0" operate="0" />
+<ItemSpec id="7001" type="3" group="10007" name="TH000004" desc="kk00109" exchange_id="998001127" is_discount="0" operate="0" />
+<ItemSpec id="8001" type="3" group="10008" name="ST91050869" desc="kk00109" exchange_id="998001131" is_discount="0" operate="0" />
+<ItemSpec id="9001" type="3" group="10009" name="TH000001" desc="kk00109" exchange_id="998001146" is_discount="0" operate="0" />
+<ItemSpec id="1101" type="3" group="10010" name="zac55667790" desc="kk00115" tips="kk00116" exchange_id="998001150" is_discount="1" operate="1" exchange_id_2="998001151" share_desc="kk00137" fake_discount="1" />
+<ItemSpec id="1201" type="3" group="10012" name="ST91050854" desc="kk00138" exchange_id="998001119" is_discount="0" operate="0" />
+<ItemSpec id="1301" type="3" group="10013" name="ST91050866" desc="kk00109" exchange_id="998001167" is_discount="0" operate="0" />
+<ItemSpec id="1401" type="3" group="10014" name="TH000010" desc="kk00109" exchange_id="998001189" is_discount="0" operate="0" />
+<ItemSpec id="1501" type="2" group="10015" name="TH000016" desc="kk00112" tips="kk00113" />
+<ItemSpec id="1502" type="3" group="10015" name="TH000016" desc="kk00109" exchange_id="998001193" />
+<ItemSpec id="1601" group="10016" name="TH000007" desc="kk00109" exchange_id="998001197" type="3" />
+<ItemSpec id="1701" type="3" group="10017" name="TH000022" desc="kk00109" exchange_id="998001301" />
+
+<ItemSpec id="2101" type="2" group="10021" name="TH000022" desc="kk00112" quest_alliance_desc="kk00125" quest_all_desc="kk00124" />
+<ItemSpec id="2102" type="3" group="10021" name="TH000022" desc="kk00109" exchange_id="998001383" />
+<ItemSpec id="2201" type="2" group="10022" name="88003061" desc="kk00112" quest_alliance_desc="kk00125" quest_all_desc="kk00124" />
+<ItemSpec id="2202" type="3" group="10022" name="88003061" desc="kk00109" exchange_id="998001386" />
+<ItemSpec id="2301" type="2" group="10022" name="TH000010" desc="kk00112" quest_alliance_desc="kk00125" quest_all_desc="kk00124" />
+<ItemSpec id="2302" type="3" group="10022" name="TH000010" desc="kk00109" exchange_id="998001394" />
+<ItemSpec id="2401" type="3" group="10013" name="TH000007" desc="kk00138" exchange_id="998001405" is_discount="0" operate="0" />
+<ItemSpec id="2501" type="2" group="10025" name="ST91050860" desc="kk00112" quest_alliance_desc="kk00125" quest_all_desc="kk00124" />
+<ItemSpec id="2502" type="3" group="10025" name="ST91050860" desc="kk00109" exchange_id="998001409" />
+<ItemSpec id="2601" type="3" group="10026" name="TH000045" desc="kk00138" exchange_id="998001412" is_discount="0" operate="0" />
+<ItemSpec id="2701" type="3" group="10027" name="TH000019" desc="kk00138" exchange_id="998001446" is_discount="0" operate="0" />
+<ItemSpec id="2801" type="3" group="10028" name="ST91050866" desc="kk00109" exchange_id="998001457" is_discount="0" operate="0" />
+<ItemSpec id="2901" type="2" group="10029" name="TH000256" desc="kk00112" quest_alliance_desc="kk00125" quest_all_desc="kk00124" />
+<ItemSpec id="2902" type="3" group="10029" name="TH000256" desc="kk00109" exchange_id="998001496" />
+<ItemSpec id="3101" type="2" group="10031" name="TH000126" desc="kk00112" quest_alliance_desc="kk00125" quest_all_desc="kk00124" />
+<ItemSpec id="3102" type="3" group="10031" name="TH000126" desc="kk00109" exchange_id="998001500" />
+<ItemSpec id="3201" type="2" group="10031" name="TH000281" desc="kk00112" quest_alliance_desc="kk00125" quest_all_desc="kk00124" />
+<ItemSpec id="3202" type="3" group="10032" name="TH000281" desc="kk00109" exchange_id="998001504" />
+<ItemSpec id="3401" type="2" group="10034" name="TH000062" desc="kk00112" quest_alliance_desc="kk00125" quest_all_desc="kk00124" />
+<ItemSpec id="3402" type="3" group="10034" name="TH000062" desc="kk00109" exchange_id="998001782" />
+<ItemSpec id="3301" type="3" group="10033" name="TH000001" desc="kk00109" exchange_id="998001800" />
+<ItemSpec id="3501" type="2" group="10035" name="TH000450" desc="kk00112" quest_alliance_desc="kk00125" quest_all_desc="kk00124" />
+<ItemSpec id="3502" type="3" group="10035" name="TH000450" desc="kk00109" exchange_id="998001848" />
+<ItemSpec id="3601" type="2" group="10036" name="TH000056" desc="kk00112" quest_alliance_desc="kk00125" quest_all_desc="kk00124" />
+<ItemSpec id="3602" type="3" group="10036" name="TH000056" desc="kk00109" exchange_id="998001852" />
+<ItemSpec id="3701" type="2" group="10037" name="TH000053" desc="kk00112" quest_alliance_desc="kk00125" quest_all_desc="kk00124" />
+<ItemSpec id="3702" type="3" group="10037" name="TH000053" desc="kk00109" exchange_id="998001870" />
+<ItemSpec id="3801" type="2" group="10038" name="TH000530" desc="kk00112" quest_alliance_desc="kk00125" quest_all_desc="kk00124" />
+<ItemSpec id="3802" type="3" group="10038" name="TH000530" desc="kk00109" exchange_id="998001900" />
+<ItemSpec id="3901" type="2" group="10039" name="TH000546" desc="kk00112" quest_alliance_desc="kk00125" quest_all_desc="kk00124" />
+<ItemSpec id="3902" type="3" group="10039" name="TH000546" desc="kk00109" exchange_id="998001904" />
+<ItemSpec id="4002" type="3" group="10040" name="TH000546" desc="kk00109" exchange_id="998001908" />
+<ItemSpec id="4101" type="2" group="10040" name="TH000019" desc="kk00112" quest_alliance_desc="kk00125" quest_all_desc="kk00124" />
+<ItemSpec id="4102" type="3" group="10040" name="TH000019" desc="kk00109" exchange_id="998001913" />
+<ItemSpec id="4201" type="2" group="10040" name="TH000546" desc="kk00112" quest_alliance_desc="kk00125" quest_all_desc="kk00124" />
+<ItemSpec id="4202" type="3" group="10040" name="TH000546" desc="kk00109" exchange_id="998001908" />
+<ItemSpec id="24301" type="2" group="10039" name="TH000556" desc="kk00112" quest_alliance_desc="kk00125" quest_all_desc="kk00124" />
+<ItemSpec id="24302" type="3" group="10039" name="TH000556" desc="kk00109" exchange_id="998001918" />
+<ItemSpec id="24401" type="2" group="10040" name="TH000556" desc="kk00112" quest_alliance_desc="kk00125" quest_all_desc="kk00124" />
+<ItemSpec id="24402" type="3" group="10040" name="TH000556" desc="kk00109" exchange_id="998001922" />
+</Group>
+
+</tns:database>

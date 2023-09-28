@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<Group id="new_heroes">
+  <ItemSpec id="10051" name="zac7720114" full_name="zac7720115" lore_desc="zac7720116" hero_combine="0:10051;10150;10054"/>
+  <ItemSpec id="10054" hero_combine="0:10051;10150;10054"/>
+  <ItemSpec id="10056" name="92000023" full_name="92000022" lore_desc="92000024"/>
+  <ItemSpec id="10057" name="qq000009" full_name="qq000010" lore_desc="qq000011"/>
+  <ItemSpec id="10060" name="qq000019" full_name="qq000018" lore_desc="qq000020"/>
+  <ItemSpec id="10096" name="qq000015" full_name="qq000016" lore_desc="qq000017"/>
+  <ItemSpec id="11004" state="1"/>
+</Group>
+
+</tns:database>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="new_hero_relations">
+
+    <ItemSpec id="20001" heroes="10026;10027;10028" need_num="3" effect="+5%|+100" name="90500044" effect_desc="90500049" relation_desc="90500045" order="4" effectPara="90700010;+100|90700006;+5%" />
+    <ItemSpec id="20002" heroes="10029;10030;10031" need_num="3" effect="+5%|+5%" name="90500042" effect_desc="90500048" relation_desc="90500043" order="3" effectPara="90700008;+10%" />
+    <ItemSpec id="20003" heroes="10032;10033;10034" need_num="3" effect="+5%|+5%" name="90500046" effect_desc="90500050" relation_desc="90500047" order="2" effectPara="90700005;+5%|90700011;+5%" />
+    <ItemSpec id="20004" heroes="10062;10063;10064" need_num="3" name="90460151" relation_desc="90460152" order="2" effectPara="90700004;+3%|90700008;+3%|90700006;+3%" />
+
+
+	</Group >
+
+</tns:database>

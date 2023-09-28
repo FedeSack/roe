@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="armyscore_skill">
+		<ItemSpec id="1010101" name="qq000324" description="qq000418" armytype="1" needId="101011401;301012201" des_value="1;1" skill="112111;112131"/>
+		<ItemSpec id="3010101" name="qq000336" description="qq000428" armytype="1" needId="301012201" des_value="1" skill="112131"/>
+		<ItemSpec id="2010102" name="qq000331" description="qq000424" armytype="1" des_value="1" skill="112125"/>
+		<ItemSpec id="4010102" name="qq000343" description="qq000408" armytype="1" des_value="1" skill="112145"/>
+		<ItemSpec id="1010202" name="qq000325" description="qq000401" armytype="1" des_value="1" skill="112215"/>
+		<ItemSpec id="2010202" name="qq000332" description="qq000425" armytype="1" des_value="1" skill="112225"/>
+		<ItemSpec id="3010202" name="qq000337" description="qq000424" armytype="1" des_value="1" skill="112235"/>
+		<ItemSpec id="4010202" name="qq000344" description="qq000430" armytype="1" des_value="1" skill="112245"/>
+		<ItemSpec id="1010301" name="qq000326" description="qq000419" armytype="1" needId="101031901" des_value="1" skill="112311"/>
+		<ItemSpec id="3010301" name="qq000338" description="qq000419" armytype="1" needId="301032601" des_value="1" skill="112331"/>
+		<ItemSpec id="1010302" name="qq000327" description="qq000420" armytype="1" des_value="1" skill="112315"/>
+		<ItemSpec id="2010302" name="qq000333" description="qq000408" armytype="1" des_value="1" skill="112325"/>
+		<ItemSpec id="3010302" name="qq000339" description="qq000420" armytype="1" des_value="1" skill="112335"/>
+		<ItemSpec id="4010302" name="qq000345" description="qq000422" armytype="1" des_value="1" skill="112345"/>
+		<ItemSpec id="1010401" name="qq000328" description="qq000421" armytype="1" needId="101042401" des_value="1" skill="112411"/>
+		<ItemSpec id="2010401" name="qq000334" description="qq000426" armytype="1" needId="201042801" des_value="1" skill="112421"/>
+		<ItemSpec id="3010401" name="qq000340" description="qq000421" armytype="1" needId="301043401" des_value="1" skill="112431"/>
+		<ItemSpec id="4010401" name="qq000346" description="qq000431" armytype="1" needId="401043501" des_value="1" skill="112441"/>
+		<ItemSpec id="1010402" name="qq000329" description="qq000422" armytype="1" des_value="1" skill="112415"/>
+		<ItemSpec id="3010402" name="qq000341" description="qq000401" armytype="1" des_value="1" skill="112435"/>
+		<ItemSpec id="1010501" name="qq000330" description="qq000423" armytype="1" des_value="1" skill="112519"/>
+		<ItemSpec id="2010501" name="qq000335" description="qq000427" armytype="1" des_value="1" skill="112529"/>
+		<ItemSpec id="3010501" name="qq000342" description="qq000429" armytype="1" des_value="1" skill="112539"/>
+		<ItemSpec id="4010501" name="qq000347" description="qq000417" armytype="1" des_value="1" skill="112549"/>
+		<ItemSpec id="1020101" name="qq000300" description="qq000400" armytype="2" needId="102011401;302012201" des_value="1;1" skill="111111;111131"/>
+		<ItemSpec id="3020101" name="qq000312" description="qq000411" armytype="2" needId="302012201" des_value="1" skill="111131"/>
+		<ItemSpec id="2020102" name="qq000307" description="qq000405" armytype="2" des_value="1" skill="111125"/>
+		<ItemSpec id="4020102" name="qq000319" description="qq000408" armytype="2" des_value="1" skill="111145"/>
+		<ItemSpec id="1020202" name="qq000301" description="qq000401" armytype="2" des_value="1" skill="111215"/>
+		<ItemSpec id="2020202" name="qq000308" description="qq000407" armytype="2" des_value="1" skill="111225"/>
+		<ItemSpec id="3020202" name="qq000313" description="qq000412" armytype="2" des_value="1" skill="111235"/>
+		<ItemSpec id="4020202" name="qq000320" description="qq000415" armytype="2" des_value="1" skill="111245"/>
+		<ItemSpec id="1020301" name="qq000302" description="qq000402" armytype="2" needId="102031901" des_value="1" skill="111311"/>
+		<ItemSpec id="3020301" name="qq000314" description="qq000402" armytype="2" needId="302032601" des_value="1" skill="111331"/>
+		<ItemSpec id="1020302" name="qq000303" description="qq000403" armytype="2" des_value="1" skill="111315"/>
+		<ItemSpec id="2020302" name="qq000309" description="qq000408" armytype="2" des_value="1" skill="111325"/>
+		<ItemSpec id="3020302" name="qq000315" description="qq000413" armytype="2" des_value="1" skill="111335"/>
+		<ItemSpec id="4020302" name="qq000321" description="qq000412" armytype="2" des_value="1" skill="111345"/>
+		<ItemSpec id="1020401" name="qq000304" description="qq000404" armytype="2" needId="102042401" des_value="1" skill="111411"/>
+		<ItemSpec id="2020401" name="qq000310" description="qq000409" armytype="2" needId="202042801" des_value="1" skill="111421"/>
+		<ItemSpec id="3020401" name="qq000316" description="qq000404" armytype="2" needId="302043401" des_value="1" skill="111431"/>
+		<ItemSpec id="4020401" name="qq000322" description="qq000416" armytype="2" needId="402043501" des_value="1" skill="111441"/>
+		<ItemSpec id="1020402" name="qq000305" description="qq000405" armytype="2" des_value="1" skill="111415"/>
+		<ItemSpec id="3020402" name="qq000317" description="qq000401" armytype="2" des_value="1" skill="111435"/>
+		<ItemSpec id="1020501" name="qq000306" description="qq000406" armytype="2" des_value="1" skill="111519"/>
+		<ItemSpec id="2020501" name="qq000311" description="qq000410" armytype="2" des_value="1" skill="111529"/>
+		<ItemSpec id="3020501" name="qq000318" description="qq000414" armytype="2" des_value="1" skill="111539"/>
+		<ItemSpec id="4020501" name="qq000323" description="qq000417" armytype="2" des_value="1" skill="111549"/>
+		<ItemSpec id="1030101" name="qq000348" description="qq000432" armytype="3" needId="103011401;303012201" des_value="1;1" skill="113111;113131"/>
+		<ItemSpec id="3030101" name="qq000360" description="qq000440" armytype="3" needId="303012201" des_value="1" skill="113131"/>
+		<ItemSpec id="2030102" name="qq000355" description="qq000436" armytype="3" des_value="1" skill="113125"/>
+		<ItemSpec id="4030102" name="qq000367" description="qq000408" armytype="3" des_value="1" skill="113145"/>
+		<ItemSpec id="1030202" name="qq000349" description="qq000401" armytype="3" des_value="1" skill="113215"/>
+		<ItemSpec id="2030202" name="qq000356" description="qq000415" armytype="3" des_value="1" skill="113225"/>
+		<ItemSpec id="3030202" name="qq000361" description="qq000441" armytype="3" des_value="1" skill="113235"/>
+		<ItemSpec id="4030202" name="qq000368" description="qq000444" armytype="3" des_value="1" skill="113245"/>
+		<ItemSpec id="1030301" name="qq000350" description="qq000433" armytype="3" needId="103031901" des_value="1" skill="113311"/>
+		<ItemSpec id="3030301" name="qq000362" description="qq000433" armytype="3" needId="303032601" des_value="1" skill="113331"/>
+		<ItemSpec id="1030302" name="qq000351" description="qq000434" armytype="3" des_value="1" skill="113315"/>
+		<ItemSpec id="2030302" name="qq000357" description="qq000408" armytype="3" des_value="1" skill="113325"/>
+		<ItemSpec id="3030302" name="qq000363" description="qq000434" armytype="3" des_value="1" skill="113335"/>
+		<ItemSpec id="4030302" name="qq000369" description="qq000441" armytype="3" des_value="1" skill="113345"/>
+		<ItemSpec id="1030401" name="qq000352" description="qq000435" armytype="3" needId="103042401" des_value="1" skill="113411"/>
+		<ItemSpec id="2030401" name="qq000358" description="qq000438" armytype="3" needId="203042801" des_value="1" skill="113421"/>
+		<ItemSpec id="3030401" name="qq000364" description="qq000442" armytype="3" needId="303043401" des_value="1" skill="113431"/>
+		<ItemSpec id="4030401" name="qq000370" description="qq000445" armytype="3" needId="403043501" des_value="1" skill="113441"/>
+		<ItemSpec id="1030402" name="qq000353" description="qq000436" armytype="3" des_value="1" skill="113415"/>
+		<ItemSpec id="3030402" name="qq000365" description="qq000401" armytype="3" des_value="1" skill="113435"/>
+		<ItemSpec id="1030501" name="qq000354" description="qq000437" armytype="3" des_value="1" skill="113519"/>
+		<ItemSpec id="2030501" name="qq000359" description="qq000439" armytype="3" des_value="1" skill="113529"/>
+		<ItemSpec id="3030501" name="qq000366" description="qq000443" armytype="3" des_value="1" skill="113539"/>
+		<ItemSpec id="4030501" name="qq000371" description="qq000446" armytype="3" des_value="1" skill="113549"/>
+	</Group>
+</tns:database>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<Group id="hero_skin_activity">
+  <ItemSpec id="10001" stage_id="1001|1002|1003" hero_skin_id="1008901" duration="2022-11-22-00-00;2022-11-23-00-00|2022-11-23-00-00;2022-11-24-00-00|2022-11-24-00-00;2022-11-27-00-00" recharge_id="60000300" function="hero_skin_activity_function_1" version="1.250.257" is_show="1" pic="Heroskin_icon_rukou" name="kk00107" />
+  <ItemSpec id="10002" stage_id="2001" hero_skin_id="1013302" duration="2022-11-24-00-00;2022-11-27-00-00" recharge_id="60000301" function="hero_skin_activity_function_2" version="1.250.257" is_show="1" pic="Heroskin_icon_rukou_2" name="kk00107" />
+  <ItemSpec id="10003" stage_id="3001" hero_skin_id="1009002" duration="2022-11-28-00-00;2022-12-01-00-00" recharge_id="60000302" function="hero_skin_activity_function_3" version="1.250.257" is_show="1" pic="Heroskin_icon_rukou_3" name="kk00107" />
+  <ItemSpec id="10004" stage_id="4001" hero_skin_id="1009102" duration="2022-12-27-00-00;2022-12-30-00-00" recharge_id="60000303" function="hero_skin_activity_function_4" version="1.250.257" is_show="1" pic="Heroskin_icon_rukou_4" name="kk00107" />
+<ItemSpec id="10005" stage_id="5001" hero_skin_id="1012802" duration="2023-03-07-00-00;2023-03-10-00-00" recharge_id="60000304" function="hero_skin_activity_function_5" version="1.250.257" is_show="1" pic="Heroskin_icon_rukou_5" name="kk00107" />
+<ItemSpec id="10006" stage_id="6001" hero_skin_id="1013302" duration="2022-12-05-00-00;2022-12-08-00-00" recharge_id="60000305" function="hero_skin_activity_function_6" version="1.250.257" is_show="1" pic="Heroskin_icon_rukou_2" name="kk00107" />
+<ItemSpec id="10007" stage_id="7001" hero_skin_id="1010302" duration="2023-02-09-00-00;2023-02-13-00-00" recharge_id="60000306" function="hero_skin_activity_function_7" version="1.250.257" is_show="1" pic="Heroskin_icon_rukou_6" name="kk00107" />
+<ItemSpec id="10008" stage_id="8001" hero_skin_id="1014402" duration="2022-12-19-00-00;2022-12-22-00-00" recharge_id="60000307" function="hero_skin_activity_function_8" version="1.250.257" is_show="1" pic="Heroskin_icon_rukou_7" name="kk00107" />
+<ItemSpec id="10009" stage_id="9001" hero_skin_id="1014602" duration="2022-12-27-00-00;2022-12-30-00-00" recharge_id="60000308" function="hero_skin_activity_function_9" version="1.250.257" is_show="1" pic="Heroskin_icon_rukou_9" name="kk00107" />
+<ItemSpec id="10010" stage_id="1101" hero_skin_id="1008901" duration="2022-12-27-00-00;2022-12-30-00-00" recharge_id="60000309" function="hero_skin_activity_function_10" version="1.250.257" is_show="1" pic="Heroskin_icon_rukou" name="kk00107" />
+<ItemSpec id="10012" stage_id="1201" hero_skin_id="1009002" duration="2023-03-10-00-00;2023-03-13-00-00" recharge_id="60000312" function="hero_skin_activity_function_12" version="1.250.257" is_show="1" pic="Heroskin_icon_rukou_3" name="kk00107" />
+<ItemSpec id="10013" stage_id="1301" hero_skin_id="1012802" duration="2023-01-07-00-00;2023-01-10-00-00" recharge_id="60000313" function="hero_skin_activity_function_13" version="1.250.257" is_show="1" pic="Heroskin_icon_rukou_5" name="kk00107" />
+<ItemSpec id="10014" stage_id="1401" hero_skin_id="1015203" duration="2023-01-12-00-00;2023-01-15-00-00" recharge_id="60000314" function="hero_skin_activity_function_14" version="1.250.257" is_show="1" pic="Heroskin_icon_rukou_12" name="kk00107" />
+<ItemSpec id="10015" stage_id="1501|1502" hero_skin_id="1003402" duration="2023-01-19-00-00;2023-01-20-00-00|2023-01-20-00-00;2023-01-27-00-00" recharge_id="60000315" function="hero_skin_activity_function_15" version="1.250.257" is_show="1" pic="Heroskin_icon_rukou_14" name="kk00107" />
+<ItemSpec id="10016" stage_id="1601" hero_skin_id="1009902" duration="2023-01-25-00-00;2023-01-28-00-00" recharge_id="60000316" function="hero_skin_activity_function_16" version="1.250.257" is_show="1" pic="Heroskin_icon_rukou_13" name="kk00107" />
+<ItemSpec id="10017" stage_id="1701" hero_skin_id="1014903" duration="2023-01-19-00-00;2023-01-22-00-00" recharge_id="60000317" function="hero_skin_activity_function_17" version="1.250.257" is_show="1" pic="Heroskin_icon_rukou_15" name="kk00107" />
+
+<ItemSpec id="10021" stage_id="2101|2102" hero_skin_id="1014903" duration="2023-03-07-00-00;2023-03-10-00-00|2023-03-07-00-00;2023-03-10-00-00" recharge_id="60000321" function="hero_skin_activity_function_21" version="1.250.265" is_show="1" pic="Heroskin_icon_rukou_15" name="kk00107" />
+<ItemSpec id="10022" stage_id="2201|2202" hero_skin_id="1014203" duration="2023-03-10-00-00;2023-03-13-00-00|2023-03-10-00-00;2023-03-13-00-00" recharge_id="60000322" function="hero_skin_activity_function_22" version="1.250.265" is_show="1" pic="Heroskin_icon_rukou_10" name="kk00107" />
+<ItemSpec id="10023" stage_id="2301|2302" hero_skin_id="1015203" recharge_id="60000322" function="hero_skin_activity_function_23" version="1.250.265" is_show="1" pic="Heroskin_icon_rukou_12" name="kk00107" />
+<ItemSpec id="10024" stage_id="2401" hero_skin_id="1009902" recharge_id="60000313" function="hero_skin_activity_function_13" version="1.250.257" is_show="1" pic="Heroskin_icon_rukou_13" name="kk00107" />
+<ItemSpec id="10025" stage_id="2501|2502" hero_skin_id="1013203" recharge_id="60000322" function="hero_skin_activity_function_25" version="1.250.265" is_show="1" pic="Heroskin_icon_rukou_8" name="kk00107" />
+<ItemSpec id="10026" stage_id="2601" hero_skin_id="1008302" recharge_id="60000313" function="hero_skin_activity_function_26" version="1.250.257" is_show="1" pic="Heroskin_icon_rukou_18" name="kk00107" />
+<ItemSpec id="10027" stage_id="2701" hero_skin_id="1002802" recharge_id="60000327" function="hero_skin_activity_function_27" version="1.250.257" is_show="1" pic="Heroskin_icon_rukou_16" name="kk00107" />
+<ItemSpec id="10028" stage_id="2801" hero_skin_id="1012802" recharge_id="60000304" function="hero_skin_activity_function_5" version="1.250.257" is_show="1" pic="Heroskin_icon_rukou_5" name="kk00107" />
+<ItemSpec id="10029" stage_id="2901|2902" hero_skin_id="1102602" recharge_id="60000329" function="hero_skin_activity_function_29" version="1.250.265" is_show="1" pic="Heroskin_icon_rukou_20" name="kk00107" />
+<ItemSpec id="10031" stage_id="3101|3102" hero_skin_id="1012302" recharge_id="60000331" function="hero_skin_activity_function_30" version="1.250.265" is_show="1" pic="Heroskin_icon_rukou_19" name="kk00107" />
+<ItemSpec id="10032" stage_id="3201|3202" hero_skin_id="1012402" recharge_id="60000332" function="hero_skin_activity_function_32" version="1.250.265" is_show="1" pic="Heroskin_icon_rukou_22" name="kk00107" />
+<ItemSpec id="10034" stage_id="3401|3402" hero_skin_id="1014302" recharge_id="60000334" function="hero_skin_activity_function_34" version="1.250.257" is_show="1" pic="Heroskin_icon_rukou_24" name="kk00107" />
+<ItemSpec id="10033" stage_id="3301" hero_skin_id="1014602" recharge_id="60000333" function="hero_skin_activity_function_33" version="1.250.257" is_show="1" pic="Heroskin_icon_rukou_9" name="kk00107" />
+<ItemSpec id="10035" stage_id="3501|3502" hero_skin_id="1015402" recharge_id="60000335" function="hero_skin_activity_function_35" version="1.250.257" is_show="1" pic="Heroskin_icon_rukou_25" name="kk00107" />
+<ItemSpec id="10036" stage_id="3601|3602" hero_skin_id="1015102" recharge_id="60000336" function="hero_skin_activity_function_36" version="1.250.257" is_show="1" pic="Heroskin_icon_rukou_26" name="kk00107" />
+<ItemSpec id="10037" stage_id="3701|3702" hero_skin_id="1014802" recharge_id="60000336" function="hero_skin_activity_function_37" version="1.250.257" is_show="1" pic="Heroskin_icon_rukou_27" name="kk00107" />
+<ItemSpec id="10038" stage_id="3801|3802" hero_skin_id="1012102" recharge_id="60000338" function="hero_skin_activity_function_38" version="1.250.257" is_show="1" pic="Heroskin_icon_rukou_28" name="kk00107" />
+<ItemSpec id="10039" stage_id="3901|3902" hero_skin_id="1007802" recharge_id="60000339" function="hero_skin_activity_function_39" version="1.250.257" is_show="1" pic="Heroskin_icon_rukou_29" name="kk00107" />
+<ItemSpec id="10040" stage_id="4001|4002" hero_skin_id="1200402" recharge_id="60000340" function="hero_skin_activity_function_40" version="1.250.257" is_show="1" pic="Heroskin_icon_rukou_29" name="kk00107" />
+<ItemSpec id="10041" stage_id="4101|4102" hero_skin_id="1200102" recharge_id="60000341" function="hero_skin_activity_function_41" version="1.250.257" is_show="1" pic="Heroskin_icon_rukou_16" name="kk00107" />
+<ItemSpec id="10042" stage_id="4201|4202" hero_skin_id="1200402" recharge_id="60000340" function="hero_skin_activity_function_40" version="1.250.257" is_show="1" pic="Heroskin_icon_rukou_29" name="kk00107" />
+<ItemSpec id="10043" stage_id="24301|24302" hero_skin_id="1003412" recharge_id="60000339" function="hero_skin_activity_function_43" version="1.250.257" is_show="1" pic="Heroskin_icon_rukou_30" name="kk00107" />
+<ItemSpec id="10044" stage_id="24401|24402" hero_skin_id="1200312" recharge_id="60000340" function="hero_skin_activity_function_44" version="1.250.257" is_show="1" pic="Heroskin_icon_rukou_30" name="kk00107" />
+</Group>
+
+</tns:database>

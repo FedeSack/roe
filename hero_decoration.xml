@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Group id="hero_decoration">
+    <ItemSpec id="100001" name="summer" nameBg_color="107,211,255" skinGuang_color="78,236,255" skinBian_color="129,255,254" skinKuang_color="176,254,255" skin_bg_color="118,89,70" />
+
+    </Group> 
+
+
+
+
+</tns:database>

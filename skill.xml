@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="skill">
+<ItemSpec id="101000"/>
+<ItemSpec id="101001"/>
+<ItemSpec id="101002"/>
+<ItemSpec id="101003"/>
+<ItemSpec id="101004" effect="911;0" effect_add="911;20"/>
+<ItemSpec id="101005" effect="911;0" effect_add="911;20"/>
+<ItemSpec id="101006"/>
+<ItemSpec id="101007"/>
+<ItemSpec id="101008" object="12" object_num="1" effect="151;0" effect_add="151;10" rate="400" rate_add="0"/>
+<ItemSpec id="101009" object="12" object_num="1" effect="151;0" effect_add="151;10" rate="400" rate_add="0"/>
+<ItemSpec id="101010" effect="151;2" effect_add="151;2"/>
+<ItemSpec id="101011" effect="151;2" effect_add="151;2"/>
+<ItemSpec id="101012" object="0" object_num="1" effect="151;50" effect_add="151;50" rate="300" rate_add="0"/>
+<ItemSpec id="101013" object="12" object_num="1" effect="151;20" effect_add="151;10" rate="300" rate_add="0"/>
+<ItemSpec id="101014" effect="151;0" effect_add="151;10"/>
+<ItemSpec id="101015"/>
+<ItemSpec id="101016" object="101" object_num="100" rate="200"/>
+<ItemSpec id="101017" object="12" object_num="1" effect="151;0" effect_add="151;20" rate="150" rate_add="0"/>
+<ItemSpec id="101018"/>
+<ItemSpec id="101019" effect="151;0" effect_add="151;20"/>
+<ItemSpec id="101020" object="100" object_num="1" rate="200"/>
+<ItemSpec id="101021" effect="151;50" effect_add="151;25"/>
+<ItemSpec id="101022" object="12" object_num="2" effect="151;0" effect_add="151;20" rate="200" rate_add="0"/>
+<ItemSpec id="101023" object="100" object_num="1" rate="200"/>
+<ItemSpec id="101024" object="16" object_num="1" effect="151;0" effect_add="151;20"/>
+<ItemSpec id="101025" object="16" object_num="1" effect="151;0" effect_add="151;20"/>
+<ItemSpec id="101026"/>
+<ItemSpec id="101027"/>
+<ItemSpec id="101028"/>
+<ItemSpec id="101029" object="12" object_num="1" rate="1000"/>
+<ItemSpec id="101030" object="16" object_num="1"/>
+<ItemSpec id="101031" object="16" object_num="1"/>
+<ItemSpec id="101032" object="16" object_num="1"/>
+<ItemSpec id="101033" object="16" object_num="1"/>
+<ItemSpec id="101034" object="12" object_num="1"/>
+<ItemSpec id="101035" object="12" object_num="1"/>
+<ItemSpec id="101036" object="12" object_num="1" effect="151;0" effect_add="151;20"/>
+<ItemSpec id="101037" object="12" object_num="1" effect="151;0" effect_add="151;20"/>
+<ItemSpec id="101038" object="12" object_num="1"/>
+<ItemSpec id="101039" object="12" object_num="1"/>
+<ItemSpec id="101040" object="17" object_num="1" rate="0"/>
+<ItemSpec id="101041" effect="151;-50"/>
+<ItemSpec id="101042"/>
+<ItemSpec id="101043"/>
+<ItemSpec id="101044" object="12" object_num="2" effect="151;30|685;1" effect_add="151;18" rate="88000670"/>
+<ItemSpec id="101045" effect="684;210" effect_add="684;110"/>
+<ItemSpec id="101100"/>
+<ItemSpec id="102000" name="161298" icon="FB_IC_3xingdantigongji_SKILL_01" aoe_animation="fire_arrow" range="1" object="1" object_num="1" effect="151;5" effect_add="151;5" effect_alv="151;0.5" rate="300"/>
+<ItemSpec id="102001" name="161160" icon="FB_IC_3xingdantigongji_SKILL_02" range="2" object="1" object_num="1" effect="151;4.5" effect_add="151;4" effect_alv="151;0.8" rate="300"/>
+<ItemSpec id="102002" name="161161" icon="FB_IC_3xingdantigongji_SKILL_03" aoe_animation="helicopter_shoot" range="3" object="1" object_num="1" effect="151;5" effect_add="151;2" effect_alv="151;1" rate="300"/>
+<ItemSpec id="102003" name="161299" icon="FB_IC_2xingdantigongji_SKILL_01" aoe_animation="fire_arrow" range="1" object="1" object_num="1" effect="151;1" effect_add="151;1" effect_alv="151;0.1" rate="300"/>
+<ItemSpec id="102004" name="161300" icon="FB_IC_2xingdantigongji_SKILL_02" range="2" object="1" object_num="1" effect="151;1.5" effect_add="151;0.5" effect_alv="151;0.12" rate="300"/>
+<ItemSpec id="102005" name="161159" icon="FB_IC_2xingdantigongji_SKILL_03" aoe_animation="fire_arrow" range="3" object="1" object_num="1" effect="151;5" effect_add="151;0.5" effect_alv="151;0.15" rate="300"/>
+<ItemSpec id="102006" name="88000530" icon="FB_IC_yazhi_SKILL" aoe_animation="hit_aoe" range="4" object="1" object_num="1" effect="151;100" effect_add="151;22" effect_alv="151;5.5" rate="300" status_rate="1000" status_times="1"/>
+<ItemSpec id="102007" name="88000582" icon="FB_IC_huolifugai_SKILL" aoe_animation="hit_aoe" range="5" ready="1" object="2" object_num="2" effect="151;26" effect_add="151;14" effect_alv="151;3.5" rate="500"/>
+<ItemSpec id="102008" name="88000528" icon="FB_IC_chedanti_SKILL" aoe_animation="hit_aoe" range="2" object="1" object_num="1" effect="151;66" effect_add="151;7" effect_alv="151;2" rate="400"/>
+<ItemSpec id="102010" name="88000555" icon="FB_IC_chequnti_SKILL" aoe_animation="hit_aoe" range="3" round="1;3;6" object="2" object_num="2" effect="151;56" effect_add="151;7" effect_alv="151;1.5" rate="600"/>
+<ItemSpec id="102011" name="88000529" icon="FB_IC_chedanti_SKILL" aoe_animation="hit_aoe" range="3" object="1" object_num="1" effect="151;48" effect_add="151;5" effect_alv="151;1.5" rate="300" status_rate="1000" status_times="1"/>
+<ItemSpec id="102012" name="88000556" icon="FB_IC_chequnti_SKILL" aoe_animation="hit_aoe" range="3" ready="1" object="2" object_num="2" effect="151;56" effect_add="151;7" effect_alv="151;1.5" rate="450"/>
+<ItemSpec id="102013" name="88000583" icon="FB_IC_tiesha_SKILL" aoe_animation="hit_aoe" range="5" round="2;5;7" object="2" object_num="3" effect="151;42" effect_add="151;16" effect_alv="151;4" rate="450"/>
+<ItemSpec id="102014" name="88000533" icon="FB_IC_xulidaji_SKILL" aoe_animation="helicopter_shoot" range="4" object="1" object_num="1" effect="151;55" effect_add="151;17" effect_alv="151;5" rate="400"/>
+<ItemSpec id="102015" name="88000531" icon="FB_IC_huolidakai_SKILL" aoe_animation="hit_aoe" range="3" ready="1" object="2" object_num="2" effect="151;61" effect_add="151;7" effect_alv="151;2" rate="450"/>
+<ItemSpec id="102016" name="88000532" icon="FB_IC_huoliquankai_SKILL" aoe_animation="helicopter_shoot" range="3" object="1" object_num="1" effect="151;48" effect_add="151;5" effect_alv="151;1.5" rate="500"/>
+<ItemSpec id="102017" name="88000558" icon="FB_IC_ruodiangongji_SKILL" aoe_animation="helicopter_shoot" range="3" object="1" object_num="1" effect="151;48" effect_add="151;5" effect_alv="151;1.5" rate="400" status_rate="1000" status_times="1"/>
+<ItemSpec id="102018" name="161162" icon="FB_IC_hengsao_SKILL" aoe_animation="helicopter_shoot" range="2" object="1" object_num="1" effect="151;18" effect_add="151;9" effect_alv="151;2" rate="400"/>
+<ItemSpec id="102020" name="88000584" icon="FB_IC_hengsao_SKILL" aoe_animation="hit_aoe" range="5" ready="1" object="2" object_num="3" effect="151;-25" effect_add="151;8" effect_alv="151;2" rate="600"/>
+<ItemSpec id="102021" name="88000536" icon="FB_IC_zhongquan_SKILL" aoe_animation="fire_arrow" range="5" object="1" object_num="1" effect="151;20" effect_add="151;15" effect_alv="151;5" rate="450"/>
+<ItemSpec id="102022" name="88000562" icon="FB_IC_yuanhu_SKILL" aoe_animation="fire_arrow" range="2" object="3" object_num="1" effect="151;0" effect_add="151;0" effect_alv="151;0" rate="300" rate_add="30" status_rate="1000" status_times="1"/>
+<ItemSpec id="102023" name="88000535" icon="FB_IC_kedi_SKILL" aoe_animation="hit_aoe" range="3" object="2" object_num="2" effect="151;29" effect_add="151;2" effect_alv="151;1" rate="300" status_rate="1000" status_times="1"/>
+<ItemSpec id="102024" name="88000561" icon="FB_IC_fanji_SKILL" aoe_animation="helicopter_shoot" range="2" object="1" object_num="1" effect="151;37" effect_add="151;4" effect_alv="151;1" rate="350" status_rate="1000" status_times="1"/>
+<ItemSpec id="102025" name="88000534" icon="FB_IC_tuji_SKILL" aoe_animation="fire_arrow" range="2" object="1" object_num="1" effect="151;57" effect_add="151;8" effect_alv="151;1.5" rate="450"/>
+<ItemSpec id="102026" name="83420013" icon="FB_IC_battle_headshot_SKILL" aoe_animation="fire_arrow" range="4" object="1" object_num="1" effect="152;0" effect_add="152;10" rate="300"/>
+<ItemSpec id="102031" name="88000539" icon="FB_IC_chequnti_SKILL" aoe_animation="helicopter_shoot" range="3" ready="1" object="1" object_num="1" effect="151;95" effect_add="151;21" effect_alv="151;5" rate="550"/>
+<ItemSpec id="102032" name="88000586" icon="FB_IC_chedanti_SKILL" aoe_animation="fire_arrow" range="3" object="1" object_num="1" effect="151;25" effect_add="151;5" effect_alv="151;5" rate="350" status_rate="1000" status_times="1"/>
+<ItemSpec id="102033" name="88000540" icon="FB_IC_daji_SKILL" aoe_animation="helicopter_shoot" range="5" object="1" object_num="1" effect="151;55" effect_add="151;5" effect_alv="151;5" rate="450"/>
+<ItemSpec id="102034" name="88000587" icon="FB_IC_tiesha_SKILL" aoe_animation="hit_aoe" range="5" round="3;5;8" object="2" object_num="2" effect="151;34" effect_add="151;8" effect_alv="151;6" rate="550"/>
+<ItemSpec id="102035" name="88000542" icon="FB_IC_juji_SKILL" aoe_animation="fire_arrow" range="2" object="1" object_num="1" effect="151;10" effect_add="151;5" effect_alv="151;5" rate="400" status_rate="1000" status_times="1"/>
+<ItemSpec id="102040" name="88000588" icon="FB_IC_huolidakai_SKILL" aoe_animation="fire_arrow" range="2" object="1" object_num="1" effect="151;96" effect_add="151;22" effect_alv="151;5" rate="300"/>
+<ItemSpec id="102041" name="88000543" icon="FB_IC_huoliquankai_SKILL" aoe_animation="hit_aoe" range="4" object="2" object_num="2" effect="151;13" effect_add="151;4" effect_alv="151;2" rate="400"/>
+<ItemSpec id="102042" name="88000589" icon="FB_IC_ruodiangongji_SKILL" aoe_animation="helicopter_shoot" range="5" ready="1" object="1" object_num="1" effect="151;110" effect_add="151;23" effect_alv="151;5" rate="500"/>
+<ItemSpec id="102043" name="88000545" icon="FB_IC_hengsao_SKILL" aoe_animation="fire_arrow" range="2" object="1" object_num="1" effect="151;40" effect_add="151;15" effect_alv="151;5" rate="400"/>
+<ItemSpec id="102044" name="88000590" icon="FB_IC_zhangwo_SKILL" aoe_animation="helicopter_shoot" range="2" object="1" object_num="1" effect="151;15" effect_add="151;14" effect_alv="151;4" rate="300" status_rate="1000" status_times="1"/>
+<ItemSpec id="102045" name="88000546" icon="FB_IC_zhongquan_SKILL" aoe_animation="hit_aoe" range="3" object="2" object_num="2" effect="151;20" effect_add="151;6" effect_alv="151;1" rate="500"/>
+<ItemSpec id="102050" name="88000591" icon="FB_IC_zhongji_SKILL" aoe_animation="fire_arrow" range="3" object="1" object_num="1" effect="151;5" effect_add="151;5" effect_alv="151;5" rate="300" status_rate="1000" status_times="1"/>
+<ItemSpec id="102051" name="88000541" icon="FB_IC_kedi_SKILL" aoe_animation="fire_arrow" range="2" object="1" object_num="1" effect="151;44" effect_add="151;4" effect_alv="151;1.5" rate="300" status_rate="1000" status_times="1"/>
+<ItemSpec id="102052" name="88000568" icon="FB_IC_fanji_SKILL" aoe_animation="hit_aoe" range="3" ready="1" object="2" object_num="2" effect="151;24" effect_add="151;3" effect_alv="151;.5" rate="400" status_rate="1000" status_times="1"/>
+<ItemSpec id="102053" name="88000544" icon="FB_IC_tuji_SKILL" aoe_animation="fire_arrow" range="2" object="1" object_num="1" effect="151;43" effect_add="151;6" effect_alv="151;1" rate="500"/>
+<ItemSpec id="102054" name="88000571" icon="FB_IC_huolidakai_SKILL" aoe_animation="helicopter_shoot" range="2" object="1" object_num="1" effect="151;45" effect_add="151;5" effect_alv="151;1" rate="400" status_rate="1000" status_times="1"/>
+<ItemSpec id="102055" name="88000547" icon="FB_IC_huoliquankai_SKILL" aoe_animation="fire_arrow" range="3" object="1" object_num="1" effect="151;44" effect_add="151;5" effect_alv="151;1" rate="500"/>
+<ItemSpec id="102060" name="88000574" icon="FB_IC_ruodiangongji_SKILL" aoe_animation="hit_aoe" range="4" object="2" object_num="2" effect="151;18" effect_add="151;2" effect_alv="151;.5" rate="400"/>
+<ItemSpec id="102061" name="88000537" icon="FB_IC_hengsao_SKILL" aoe_animation="fire_arrow" range="2" object="1" object_num="1" effect="151;42.5" effect_add="151;10" effect_alv="151;2.5" rate="550"/>
+<ItemSpec id="102062" name="88000564" icon="FB_IC_zhongquan_SKILL" aoe_animation="hit_aoe" range="3" object="2" object_num="2" effect="151;19" effect_add="151;8" effect_alv="151;1" rate="400"/>
+<ItemSpec id="102063" name="88000565" icon="FB_IC_yuanhu_SKILL" aoe_animation="hit_aoe" range="1" object="3" object_num="1" effect="151;0" effect_add="151;0" effect_alv="151;0" rate="300" rate_add="30" status_rate="1000" status_times="1"/>
+<ItemSpec id="102064" name="88000548" icon="FB_IC_zhangwo_SKILL" aoe_animation="fire_arrow" range="2" object="1" object_num="1" effect="151;52" effect_add="151;6" effect_alv="151;1.5" rate="450"/>
+<ItemSpec id="102065" name="88000575" icon="FB_IC_zhongquan_SKILL" aoe_animation="fire_arrow" range="1" object="1" object_num="1" effect="151;66" effect_add="151;7" effect_alv="151;2" rate="400"/>
+<ItemSpec id="102066" name="88000549" icon="FB_IC_xulidaji_SKILL" aoe_animation="helicopter_shoot" range="3" ready="1" object="1" object_num="1" effect="151;90" effect_add="151;7" effect_alv="151;2" rate="550"/>
+<ItemSpec id="102067" name="88000576" icon="FB_IC_nianya_SKILL" aoe_animation="hit_aoe" range="4" round="2;4;6" object="2" object_num="2" effect="151;50" effect_add="151;6" effect_alv="151;1.5" rate="650"/>
+<ItemSpec id="102068" name="88000550" icon="FB_IC_huolifugai2_SKILL" aoe_animation="hit_aoe" range="3" round="1;3;5" object="2" object_num="2" effect="151;44" effect_add="151;4" effect_alv="151;1.5" rate="700"/>
+<ItemSpec id="102069" name="88000577" icon="FB_IC_chequnti_SKILL" aoe_animation="hit_aoe" range="2" object="1" object_num="1" effect="151;50" effect_add="151;6" effect_alv="151;1.5" rate="500"/>
+<ItemSpec id="102070" name="88000551" icon="FB_IC_zhangwo_SKILL" aoe_animation="fire_arrow" range="2" object="1" object_num="1" effect="151;50" effect_add="151;6" effect_alv="151;1.5" rate="450"/>
+<ItemSpec id="102071" name="88000578" icon="FB_IC_zhongquan_SKILL" aoe_animation="fire_arrow" range="1" object="1" object_num="1" effect="151;64" effect_add="151;7" effect_alv="151;2" rate="400"/>
+<ItemSpec id="102072" name="88000552" icon="FB_IC_xulidaji_SKILL" aoe_animation="helicopter_shoot" range="3" ready="1" object="1" object_num="1" effect="151;63" effect_add="151;9" effect_alv="151;1.5" rate="750"/>
+<ItemSpec id="102073" name="161300" icon="FB_IC_nianya_SKILL" aoe_animation="hit_aoe" range="4" round="2;4;6" object="2" object_num="2" effect="151;50" effect_add="151;6" effect_alv="151;1.5" rate="600"/>
+<ItemSpec id="102074" name="88000553" icon="FB_IC_huolifugai2_SKILL" aoe_animation="hit_aoe" range="3" round="1;3;5" object="2" object_num="2" effect="151;44" effect_add="151;6" effect_alv="151;1" rate="650"/>
+<ItemSpec id="102075" name="161168" icon="FB_IC_chequnti_SKILL" aoe_animation="hit_aoe" range="2" object="1" object_num="1" effect="151;13" effect_add="151;8" effect_alv="151;2" rate="500"/>
+<ItemSpec id="102076" name="88000563" icon="FB_IC_hengsao_SKILL" aoe_animation="fire_arrow" range="4" object="1" object_num="1" effect="151;50" effect_add="151;17" effect_alv="151;4" rate="300" status_rate="1000" status_times="1"/>
+<ItemSpec id="102077" name="88000560" icon="FB_IC_hengsao_SKILL" aoe_animation="fire_arrow" range="5" ready="1" object="1" object_num="1" effect="151;59" effect_add="151;17.5" effect_alv="151;5" rate="300" status_rate="1000" status_times="2"/>
+<ItemSpec id="102078" name="88000557" icon="FB_IC_hengsao_SKILL" aoe_animation="hit_aoe" range="5" object="2" object_num="3" effect="151;-20" effect_add="151;8.5" effect_alv="151;2" rate="300"/>
+<ItemSpec id="102079" name="88000585" icon="FB_IC_hengsao_SKILL" aoe_animation="hit_aoe" range="5" ready="1" object="2" object_num="3" effect="151;10" effect_add="151;8" effect_alv="151;2" rate="400"/>
+<ItemSpec id="102080" name="88000567" icon="FB_IC_hengsao_SKILL" aoe_animation="hit_aoe" range="5" ready="1" object="2" object_num="3" effect="151;5" effect_add="151;5" effect_alv="151;1" rate="350" status_rate="1000" status_times="2"/>
+<ItemSpec id="102081" name="88000566" icon="FB_IC_hengsao_SKILL" aoe_animation="fire_arrow" range="2" object="1" object_num="1" effect="151;110" effect_add="151;20" effect_alv="151;3" rate="350" status_rate="1000" status_times="2"/>
+<ItemSpec id="102082" name="88000569" icon="FB_IC_hengsao_SKILL" aoe_animation="fire_arrow" range="3" object="1" object_num="1" effect="151;110" effect_add="151;20" effect_alv="151;3" rate="250" status_rate="1000" status_times="2"/>
+<ItemSpec id="102083" name="88000570" icon="FB_IC_hengsao_SKILL" aoe_animation="helicopter_shoot" range="5" object="2" object_num="2" effect="151;-56" effect_add="151;4" effect_alv="151;1" rate="800"/>
+<ItemSpec id="102084" name="88000572" icon="FB_IC_hengsao_SKILL" aoe_animation="hit_aoe" range="3" ready="1" object="1" object_num="1" effect="151;98" effect_add="151;22" effect_alv="151;5" rate="600"/>
+<ItemSpec id="102085" name="88000573" icon="FB_IC_hengsao_SKILL" aoe_animation="hit_aoe" range="3" ready="1" object="2" object_num="2" effect="151;5" effect_add="151;11" effect_alv="151;3" rate="500"/>
+<ItemSpec id="102086" name="88000490" icon="FB_IC_zhengfuzhe_SKILL" aoe_animation="fire_arrow" range="2" object="1" object_num="1" effect="151;1" effect_add="151;12" effect_alv="151;2.5" rate="600"/>
+<ItemSpec id="102087" name="88000493" icon="FB_IC_zuizhongfuchou_SKILL" aoe_animation="fire_arrow" range="2" object="1" object_num="1" effect="151;46" effect_add="151;16" effect_alv="151;4" rate="400"/>
+<ItemSpec id="102088" name="88000496" icon="FB_IC_sudanjinying_SKILL" aoe_animation="fire_arrow" range="2" object="1" object_num="1" effect="151;98" effect_add="151;22" effect_alv="151;5" rate="300"/>
+<ItemSpec id="102089" name="88000491" icon="FB_IC_zhengtu_SKILL" aoe_animation="fire_arrow" range="2" object="1" object_num="1" effect="151;-10" effect_add="151;10" effect_alv="151;2.5" rate="400" status_rate="1000" status_times="2"/>
+<ItemSpec id="102090" name="88000494" icon="FB_IC_chouhenzhihuo_SKILL" aoe_animation="fire_arrow" range="2" object="1" object_num="1" effect="151;-10" effect_add="151;10" effect_alv="151;2.5" rate="400" status_rate="1000" status_times="2"/>
+<ItemSpec id="102091" name="88000497" icon="FB_IC_baixinyue_SKILL" aoe_animation="fire_arrow" range="2" object="1" object_num="1" effect="151;-10" effect_add="151;10" effect_alv="151;2.5" rate="400" status_rate="1000" status_times="2"/>
+<ItemSpec id="102092" name="88000492" icon="FB_IC_shamofengbao_SKILL" aoe_animation="fire_arrow" range="2" object="1" object_num="1" effect="151;-10" effect_add="151;10" effect_alv="151;2.5" rate="400" status_rate="1000" status_times="2"/>
+<ItemSpec id="102093" name="88000495" icon="FB_IC_tieqi_SKILL" aoe_animation="fire_arrow" range="2" object="1" object_num="1" effect="151;-10" effect_add="151;10" effect_alv="151;2.5" rate="400" status_rate="1000" status_times="2"/>
+<ItemSpec id="102094" name="88000498" icon="FB_IC_tujuezhange_SKILL" aoe_animation="fire_arrow" range="2" object="1" object_num="1" effect="151;-10" effect_add="151;10" effect_alv="151;2.5" rate="400" status_rate="1000" status_times="2"/>
+<ItemSpec id="102095" name="88000335" icon="FB_IC_zhangwo_SKILL" aoe_animation="hit_aoe" range="5" object="1" object_num="1" effect="151;-36" effect_add="151;5.3" effect_alv="151;1" rate="500"/>
+<ItemSpec id="102096" name="88000335" icon="FB_IC_zhangwo_SKILL" aoe_animation="hit_aoe" range="5" object="1" object_num="1" effect="151;20" effect_add="151;10" effect_alv="151;1.8" rate="500"/>
+<ItemSpec id="102097" name="88000336" icon="FB_IC_zhangwo_SKILL" aoe_animation="hit_aoe" range="5" ready="1" object="1" object_num="1" effect="151;80" effect_add="151;15" effect_alv="151;2.7" rate="500"/>
+<ItemSpec id="102098" name="88000335" icon="FB_IC_zhangwo_SKILL" aoe_animation="hit_aoe" range="5" object="1" object_num="1" effect="151;60" effect_add="151;13.3" effect_alv="151;2.4" rate="500"/>
+<ItemSpec id="102099" name="88000336" icon="FB_IC_zhangwo_SKILL" aoe_animation="hit_aoe" range="5" ready="1" object="1" object_num="1" effect="151;140" effect_add="151;20" effect_alv="151;3.6" rate="500"/>
+<ItemSpec id="102100" name="88000337" icon="FB_IC_zhangwo_SKILL" aoe_animation="hit_aoe" range="5" object="1" object_num="1" effect="151;32" effect_add="151;11" effect_alv="151;2" rate="300" status_rate="1000" status_times="1"/>
+<ItemSpec id="102101" name="88000554" icon="FB_IC_zhangwo_SKILL" aoe_animation="fire_arrow" range="2" object="1" object_num="1" effect="151;50" effect_add="151;6" effect_alv="151;1.5" rate="450"/>
+<ItemSpec id="102102" name="88000580" icon="FB_IC_nianya_SKILL" aoe_animation="hit_aoe" range="4" round="2;4;6" object="2" object_num="2" effect="151;50" effect_add="151;6" effect_alv="151;1.5" rate="600"/>
+<ItemSpec id="102103" name="88000579" icon="FB_IC_huolifugai2_SKILL" aoe_animation="hit_aoe" range="3" round="1;3;5" object="2" object_num="2" effect="151;44" effect_add="151;6" effect_alv="151;1" rate="650"/>
+<ItemSpec id="102104" name="88000581" icon="FB_IC_huolifugai2_SKILL" aoe_animation="hit_aoe" range="3" round="1;3;5" object="2" object_num="2" effect="151;44" effect_add="151;6" effect_alv="151;1" rate="650"/>
+<ItemSpec id="102105" name="88000559" icon="FB_IC_huolidakai_SKILL" aoe_animation="hit_aoe" range="3" ready="1" object="2" object_num="2" effect="151;61" effect_add="151;7" effect_alv="151;2" rate="450"/>
+<ItemSpec id="102106" name="88000492" icon="FB_IC_shamofengbao_SKILL" range="2" round="0" object="4" object_num="2" rate="1000" status_rate="1000|1000" status_times="4"/>
+<ItemSpec id="102107" name="88000495" icon="FB_IC_tieqi_SKILL" range="2" round="0" object="4" object_num="2" rate="1000" status_rate="1000|1000" status_times="4"/>
+<ItemSpec id="102108" name="88000498" icon="FB_IC_tujuezhange_SKILL" range="2" round="0" object="4" object_num="2" rate="1000" status_rate="1000|1000" status_times="4"/>
+<ItemSpec id="102109" name="88000722" icon="FB_IC_zuorizhishi_SKILL" range="2" round="0" object="4" object_num="2" rate="1000" status_rate="1000" status_times="4"/>
+<ItemSpec id="102110" name="88000728" icon="FB_IC_gansidui_SKILL" range="2" round="0" object="4" object_num="2" rate="1000" status_rate="1000" status_times="4"/>
+<ItemSpec id="102111" name="88000725" icon="FB_IC_buzhiyouwuningsi_SKILL" range="2" round="0" object="4" object_num="2" rate="1000" status_rate="1000" status_times="4"/>
+<ItemSpec id="102112" name="88000720" icon="FB_IC_qiequ_SKILL" aoe_animation="hit_aoe" range="3" object="1" object_num="1" effect="151;-40" effect_add="151;4" effect_alv="151;0.8" rate="1000" status_rate="1000|1000" status_times="1"/>
+<ItemSpec id="102113" name="88000723" icon="FB_IC_ziyouxuangao_SKILL" range="2" round="0" object="4" object_num="3" rate="1000" status_rate="1000|1000"/>
+<ItemSpec id="102114" name="88000726" icon="FB_IC_yourenyouyu_SKILL" range="2" round="1;2;3;4" object="3" object_num="1" rate="1000" status_rate="1000|250" status_rate_add="0|50"/>
+<ItemSpec id="102115" name="88000729" icon="FB_IC_yemanchongzhuang_SKILL" aoe_animation="hit_aoe" range="5" object="2" object_num="2" effect="151;-35" effect_add="151;5" effect_alv="151;1" rate="400" status_rate="1000" status_times="2"/>
+<ItemSpec id="102116" name="88000730" icon="FB_IC_yuezhanyueyong_SKILL" range="0" round="0" object="3" object_num="1" rate="1000" status_rate="1000" status_times="8"/>
+<ItemSpec id="102117" name="88000731" icon="FB_IC_siwanglianhua_SKILL" range="5" ready="1" object="1" object_num="1" effect="151;-42" effect_add="151;6" effect_alv="151;1" rate="400" times="6"/>
+<ItemSpec id="102118" name="88000732" icon="FB_IC_xilizhihuo_SKILL" aoe_animation="fire_arrow" range="5" ready="1" object="2" object_num="3" effect="151;-10" effect_add="151;8" effect_alv="151;1.5" rate="300" status_rate="1000" status_times="2"/>
+<ItemSpec id="102119" name="88000733" icon="FB_IC_weiya_SKILL" range="5" round="0" object="2" object_num="2" rate="1000" status_rate="1000|450" status_rate_add="0|50"/>
+<ItemSpec id="102120" name="88000734" icon="FB_IC_tianjiangzhengyi_SKILL" aoe_animation="fire_arrow" range="5" object="2" object_num="3" effect="151;-51" effect_add="151;4" effect_alv="151;1" rate="400" status_rate="1000" status_times="2"/>
+<ItemSpec id="102121" name="88000735" icon="FB_IC_120mmhuopao_SKILL" range="0" round="0" object="3" object_num="1" rate="1000" status_rate="1000" status_times="8"/>
+<ItemSpec id="102122" name="88000736" icon="FB_IC_chuanjiapaodan_SKILL" aoe_animation="hit_aoe" range="5" object="1" object_num="1" effect="916;80" effect_add="916;15" effect_alv="916;3" rate="250" rate_add="10" status_rate="1000" status_times="1"/>
+<ItemSpec id="102123" name="88000737" icon="FB_IC_tianqishizhe_SKILL" aoe_animation="hit_aoe" range="5" object="1" object_num="1" effect="916;40" effect_add="916;12" effect_alv="916;2" rate="400" times="2"/>
+<ItemSpec id="102124" name="88000741" icon="FB_IC_zhengyishenpan_SKILL" aoe_animation="fire_arrow" range="4" ready="1" object="2" object_num="3" effect="151;-10" effect_add="151;9" effect_alv="151;1.5" rate="350" status_rate="1000" status_times="2"/>
+<ItemSpec id="102125" name="88000742" icon="FB_IC_shuzui_SKILL" aoe_animation="fire_arrow" range="4" object="2" object_num="2" effect="151;25" effect_add="151;13" effect_alv="151;2" rate="350" status_rate="50" status_rate_add="50" status_times="2"/>
+<ItemSpec id="102126" name="88000743" icon="FB_IC_renxingbene_SKILL" range="4" round="0" object="2" object_num="3" rate="1000" status_rate="1000" status_times="3"/>
+<ItemSpec id="102127" name="88000744" icon="FB_IC_mengshouchulong_SKILL" range="2" round="0" object="4" object_num="3" rate="1000" times="5" status_rate="1000" status_times="4"/>
+<ItemSpec id="102128" name="88000745" icon="FB_IC_baishoubenteng_SKILL" range="2" round="0" object="4" object_num="2" rate="1000" status_rate="1000" status_times="3"/>
+<ItemSpec id="102129" name="88000746" icon="FB_IC_kunshouzhidou_SKILL" range="2" round="0" object="4" object_num="1" rate="1000" status_rate="1000" status_times="3"/>
+<ItemSpec id="102130" name="88000739" icon="FB_IC_xiongshizhixin_SKILL" range="0" round="0" object="3" object_num="1" rate="1000" status_rate="1000|1000"/>
+<ItemSpec id="102131" name="88000740" icon="FB_IC_zuorishouhuzhe_SKILL" range="5" round="0" object="4" object_num="3" rate="1000" status_rate="1000|1000|1000"/>
+<ItemSpec id="102132" name="88000738" icon="FB_IC_buquyizhi_SKILL" aoe_animation="hit_aoe" range="4" object="2" object_num="3" effect="151;-35" effect_add="151;7" effect_alv="151;1.5" rate="300" status_rate="1000" status_times="1"/>
+<ItemSpec id="102133" name="88000721" icon="FB_IC_qiuyuhudun_SKILL" range="2" object="1" object_num="1" effect="151;110" effect_add="151;21" effect_alv="151;3" rate="300" status_rate="1000" status_times="2"/>
+<ItemSpec id="102134" name="88000727" icon="FB_IC_dianhou_SKILL" range="2" object="1" object_num="1" effect="151;110" effect_add="151;21" effect_alv="151;3" rate="300" status_rate="1000" status_times="2"/>
+<ItemSpec id="102135" name="88000724" icon="FB_IC_wuweichongfeng_SKILL" range="2" object="1" object_num="1" effect="151;110" effect_add="151;21" effect_alv="151;3" rate="300" status_rate="1000" status_times="2"/>
+<ItemSpec id="102136" name="88000916" icon="FB_IC_zhicandaji_SKILL" aoe_animation="hit_aoe" range="4" object="2" object_num="2" effect="151;0" effect_add="151;8.5" effect_alv="151;1.5" rate="300" status_rate="1000" status_times="1"/>
+<ItemSpec id="102137" name="88000917" icon="FB_IC_weishe_SKILL" range="4" round="0" object="2" object_num="2" rate="1000" status_rate="1000" status_times="4"/>
+<ItemSpec id="102138" name="88000918" icon="FB_IC_tuxi_SKILL" range="3" ready="1" object="1" object_num="1" effect="151;52" effect_add="151;13" effect_alv="151;2" rate="400" times="2"/>
+<ItemSpec id="102139" name="88000919" icon="FB_IC_zhanzhengpaoxiao_SKILL" aoe_animation="hit_aoe" range="2" ready="1" object="2" object_num="2" effect="151;124" effect_add="151;19" effect_alv="151;3" rate="350" status_rate="1000" status_times="2"/>
+<ItemSpec id="102140" name="88000920" icon="FB_IC_chongfenghaojiao_SKILL" range="2" object="4" object_num="2" rate="300" status_rate="1000" status_times="2"/>
+<ItemSpec id="102141" name="88000921" icon="FB_IC_diukuiqijia_SKILL" range="4" round="4;5;6" object="2" object_num="2" rate="250" rate_add="50" status_rate="1000" status_times="1"/>
+<ItemSpec id="102142" name="88000922" icon="FB_IC_wuqingzhuiji_SKILL" aoe_animation="fire_arrow" range="5" ready="1" object="1" object_num="1" effect="151;152" effect_add="151;21" effect_alv="151;4" rate="500"/>
+<ItemSpec id="102143" name="88000923" icon="FB_IC_jingqiningshen_SKILL" aoe_animation="fire_arrow" range="4" object="2" object_num="2" effect="151;-50" effect_add="151;4" effect_alv="151;1" rate="500" status_rate="1000" status_times="2"/>
+<ItemSpec id="102144" name="88000924" icon="FB_IC_zhansha_SKILL" aoe_animation="fire_arrow" range="5" object="1" object_num="1" effect="151;52" effect_add="151;13" effect_alv="151;2.5" rate="400" status_rate="1000" status_times="2"/>
+<ItemSpec id="102145" name="88000962" icon="FB_IC_namijiqiren_SKILL" range="2" round="0" object="4" object_num="3" rate="1000" status_rate="1000" status_times="8"/>
+<ItemSpec id="102146" name="88000963" icon="FB_IC_chuanshanjiahudun_SKILL" range="2" round="0" object="4" object_num="2" rate="1000" status_rate="1000" status_times="3"/>
+<ItemSpec id="102147" name="88000964" icon="FB_IC_leidaganrao_SKILL" range="4" ready="1" object="2" object_num="2" rate="230" rate_add="30" status_rate="1000" status_times="2"/>
+<ItemSpec id="102148" name="88000965" icon="FB_IC_chichao_SKILL" range="3" round="0" object="4" object_num="3" rate="1000" status_rate="1000|1000"/>
+<ItemSpec id="102149" name="88000966" icon="FB_IC_shandianzhan_SKILL" range="4" object="4" object_num="3" rate="120" rate_add="20" status_rate="1000" status_times="1"/>
+<ItemSpec id="102150" name="88000967" icon="FB_IC_binglinchengxia_SKILL" range="4" round="0" object="2" object_num="2" rate="1000" status_rate="1000|1000"/>
+<ItemSpec id="102151" name="88000968" icon="FB_IC_chuanshe_SKILL" aoe_animation="fire_arrow" range="3" object="2" object_num="2" effect="151;17" effect_add="151;12" effect_alv="151;2" rate="400" status_rate="1000" status_times="2"/>
+<ItemSpec id="102152" name="88000969" icon="FB_IC_ziyouzhihun_SKILL" range="4" round="0" object="2" object_num="2" rate="1000" status_rate="1000" status_times="2"/>
+<ItemSpec id="102153" name="88000969" icon="FB_IC_ziyouzhihun_SKILL" aoe_animation="fire_arrow" range="4" round="2" object="2" object_num="3" effect="151;68" effect_add="151;5.5" effect_alv="151;1" rate="1000"/>
+<ItemSpec id="102154" name="88000970" icon="FB_IC_shenshangxiansu_SKILL" aoe_animation="fire_arrow" range="3" ready="1" object="2" object_num="2" effect="151;43" effect_add="151;13" rate="500"/>
+<ItemSpec id="102155" name="88000970" icon="FB_IC_shenshangxiansu_SKILL" range="3" object="2" object_num="1" effect="313;70" effect_add="313;8" rate="1000"/>
+<ItemSpec id="102156" name="88000971" icon="FB_IC_qianggongyazhi_SKILL" aoe_animation="hit_aoe" range="4" object="2" object_num="2" effect="151;60" effect_add="151;5" effect_alv="151;1" rate="400" status_rate="1000" status_times="2"/>
+<ItemSpec id="102157" name="88000972" icon="FB_IC_lieyingzhiyan_SKILL" range="1" object="4" object_num="1" rate="550" rate_add="50" status_rate="1000" status_times="2"/>
+<ItemSpec id="102158" name="88000972" icon="FB_IC_lieyingzhiyan_SKILL" range="1" object="4" object_num="2" rate="550" rate_add="50" status_rate="1000" status_times="2"/>
+<ItemSpec id="102159" name="88000973" icon="FB_IC_EMP_SKILL" aoe_animation="hit_aoe" range="5" ready="1" object="2" object_num="3" effect="151;40" effect_add="151;3.5" effect_alv="151;0.5" rate="400" status_rate="1000" status_times="1"/>
+<ItemSpec id="102160" name="88000974" icon="FB_IC_sangzhongchuming_SKILL" aoe_animation="hit_aoe" range="5" ready="1" object="2" object_num="3" effect="151;92" effect_add="151;7.5" effect_alv="151;1.5" rate="350"/>
+<ItemSpec id="102161" name="88000975" icon="FB_IC_siqijiangzhi_SKILL" aoe_animation="hit_aoe" range="5" object="2" object_num="3" effect="151;60" effect_add="151;5" effect_alv="151;1" rate="300" status_rate="1000" status_times="2"/>
+<ItemSpec id="102162" name="88000976" icon="FB_IC_sangzhongzhihuan_SKILL" range="0" round="0" object="3" object_num="1" rate="1000" status_rate="1000" status_times="8"/>
+<ItemSpec id="102163" name="88000976" icon="FB_IC_sangzhongzhihuan_SKILL" aoe_animation="fire_arrow" range="4" round="1;2;3;4;5;6;7;8" object="3" object_num="1" effect="151;20" effect_add="151;9" effect_alv="151;2" rate="1000"/>
+<ItemSpec id="102164" name="88000977" icon="FB_IC_moshiqiehuan_SKILL" range="3" round="0" object="4" object_num="3" rate="1000" status_rate="1000" status_times="8"/>
+<ItemSpec id="102165" name="88000978" icon="FB_IC_kuaisuzhuangtian_SKILL" range="2" round="1;3;5;7" object="3" object_num="1" rate="550" rate_add="50" status_rate="1000|600"/>
+<ItemSpec id="102166" name="88000979" icon="FB_IC_canying_SKILL" range="0" round="0" object="3" object_num="1" rate="1000" status_rate="1000" status_times="2"/>
+<ItemSpec id="102177" name="88001047" icon="FB_IC_minmie_SKILL" range="5" round="0" object="2" object_num="3" rate="1000" status_rate="1000|1000|1000"/>
+<ItemSpec id="102178" name="88001048" icon="FB_IC_liangyaokukou_SKILL" range="3" round="5;6;7;8" object="4" object_num="2" effect="313;32" effect_add="313;3" effect_alv="313;0.5" rate="1000"/>
+<ItemSpec id="102179" name="88001049" icon="FB_IC_zhisiduwu_SKILL" aoe_animation="helicopter_shoot" range="5" object="1" object_num="1" effect="151;-4|138;1" effect_add="151;8" effect_alv="151;1.5" rate="1000"/>
+<ItemSpec id="102180" name="88001050" icon="FB_IC_yifudangguan_SKILL" range="2" round="0" object="4" object_num="3" rate="1000" status_rate="1000|1000"/>
+<ItemSpec id="102181" name="88001051" icon="FB_IC_dunji_SKILL" range="0" round="0" object="3" object_num="1" rate="1000" status_rate="1000" status_times="8"/>
+<ItemSpec id="102182" name="88001052" icon="FB_IC_niguolaia_SKILL" aoe_animation="hit_aoe" range="3" object="2" object_num="2" effect="151;-25" effect_add="151;6" effect_alv="151;1" rate="400" status_rate="1000" status_times="2"/>
+<ItemSpec id="102183" name="88001053" icon="FB_IC_v8zhihun_SKILL" range="4" round="0" object="2" object_num="3" rate="1000" status_rate="1000" status_times="8"/>
+<ItemSpec id="102184" name="88001054" icon="FB_IC_shenfengxiaodui_SKILL" range="5" ready="1" object="2" object_num="2" rate="120" rate_add="20" status_rate="1000" status_times="2"/>
+<ItemSpec id="102185" name="88001055" icon="FB_IC_dongxueningshi_SKILL" range="4" round="0" object="2" object_num="2" rate="1000" status_rate="1000" status_times="2"/>
+<ItemSpec id="102186" name="88001056" icon="FB_IC_kuaisulianshe_SKILL" aoe_animation="fire_arrow" range="5" object="2" object_num="2" effect="151;-44" effect_add="151;4" effect_alv="151;1" rate="400" times="2"/>
+<ItemSpec id="102187" name="88001057" icon="FB_IC_ruodianchuanshe_SKILL" aoe_animation="fire_arrow" range="5" ready="1" object="2" object_num="3" effect="151;20" effect_add="151;10" effect_alv="151;2" rate="300" status_rate="1000|1000|1000" status_times="1"/>
+<ItemSpec id="102188" name="88001058" icon="FB_IC_junengchuanshe_SKILL" aoe_animation="fire_arrow" range="5" ready="2" object="2" object_num="2" effect="151;252" effect_add="151;29" effect_alv="151;5" rate="600"/>
+<ItemSpec id="102189" name="88001060" icon="FB_IC_suiyuanbizhu_SKILL" range="2" round="0" object="4" object_num="3" rate="1000" status_rate="1000|1000"/>
+<ItemSpec id="102190" name="88001061" icon="FB_IC_tianwei_SKILL" range="5" round="0" object="2" object_num="2" rate="1000" status_rate="1000|1000"/>
+<ItemSpec id="102191" name="88001062" icon="FB_IC_pofuchenzhou_SKILL" range="0" round="0" object="3" object_num="1" status_rate="1000" status_times="8"/>
+<ItemSpec id="102192" name="88001063" icon="FB_IC_tianqi_SKILL" aoe_animation="fire_arrow" range="4" object="2" object_num="2" effect="151;-20" effect_add="151;7" effect_alv="151;1.5" rate="250" status_rate="1000" status_times="1"/>
+<ItemSpec id="102193" name="88001064" icon="FB_IC_yaposhidaji_SKILL" range="3" object="2" object_num="2" rate="300" status_rate="1000" status_times="2"/>
+<ItemSpec id="102194" name="88001065" icon="FB_IC_yidalipao_SKILL" range="2" round="0" object="4" object_num="3" rate="1000" status_rate="1000" status_times="8"/>
+<ItemSpec id="102195" name="88001408" icon="FB_IC_elangpushi_SKILL" aoe_animation="fire_arrow" range="3" object="2" object_num="2" rate="600" status_rate="1000" status_times="2"/>
+<ItemSpec id="102196" name="88001409" icon="FB_IC_wuluketao_SKILL" range="2" object="3" object_num="1" rate="230" rate_add="30" status_rate="1000" status_times="2"/>
+<ItemSpec id="102197" name="88001410" icon="FB_IC_sashoujian_SKILL" aoe_animation="hit_aoe" range="3" object="2" object_num="2" effect="916;20" effect_add="916;10" effect_alv="916;2" rate="300" status_rate="1000" status_times="2"/>
+<ItemSpec id="102198" name="88001411" icon="FB_IC_daqijingshen_SKILL" range="2" round="0" object="4" object_num="2" rate="1000" status_rate="1000" status_times="3"/>
+<ItemSpec id="102199" name="88001412" icon="FB_IC_liezhensheji_SKILL" aoe_animation="fire_arrow" range="5" ready="1" object="2" object_num="3" effect="151;-20" effect_add="151;10" effect_alv="151;1" rate="1000" status_rate="1000" status_times="2"/>
+<ItemSpec id="102200" name="88001413" icon="FB_IC_shangcidao_SKILL" range="2" round="0" object="3" object_num="1" rate="1000" status_rate="1000" status_times="3"/>
+<ItemSpec id="102201" name="88001414" icon="FB_IC_yuxuefenzhan_SKILL" range="1" round="0" object="3" object_num="1" rate="1000" status_rate="1000" status_times="8"/>
+<ItemSpec id="102202" name="88001415" icon="FB_IC_wangmingtianya_SKILL" aoe_animation="helicopter_shoot" range="2" object="1" object_num="1" effect="916;0" effect_add="916;8" effect_alv="916;1.5" rate="1000"/>
+<ItemSpec id="102203" name="88001416" icon="FB_IC_shisirugui_SKILL" range="1" round="0" object="3" object_num="1" rate="1000" status_rate="1000|1000"/>
+<ItemSpec id="102204" name="88001417" icon="FB_IC_dianguangshihuo_SKILL" range="3" round="0" object_num="1" rate="1000" status_rate="1000" status_times="2"/>
+<ItemSpec id="102205" name="88001418" icon="FB_IC_baopoxianjing_SKILL" range="4" round="0" object="2" object_num="2" rate="1000" status_rate="1000" status_times="3"/>
+<ItemSpec id="102206" name="88001419" icon="FB_IC_zhonghuolituxi_SKILL" range="2" round="0" object="4" object_num="2" rate="1000" status_rate="1000" status_times="3"/>
+<ItemSpec id="102207" name="88001420" icon="FB_IC_shenxianshizu_SKILL" aoe_animation="helicopter_shoot" range="4" round="0" object="4" object_num="2" effect="151;84" effect_add="151;15" effect_alv="151;3" rate="1000" status_rate="1000|1000"/>
+<ItemSpec id="102208" name="88001421" icon="FB_IC_touzhi_SKILL" range="4" object="2" object_num="2" rate="120" rate_add="20" status_rate="1000|1000" status_times="2"/>
+<ItemSpec id="102209" name="88001422" icon="FB_IC_dashasifang_SKILL" range="1" round="0" object="3" object_num="1" rate="1000" status_rate="1000|1000"/>
+<ItemSpec id="102210" name="88001423" icon="FB_IC_huoliyanhu_SKILL" range="1" round="0" object="3" object_num="1" rate="1000" status_rate="1000" status_times="2"/>
+<ItemSpec id="102211" name="88001424" icon="FB_IC_binglinchengxia_SKILL" range="4" object="2" object_num="2" rate="500" status_rate="1000|1000|1000" status_times="2"/>
+<ItemSpec id="102212" name="88001425" icon="FB_IC_haoxiangguorele_SKILL" aoe_animation="hit_aoe" range="3" object="2" object_num="2" effect="151;32" effect_add="151;11" effect_alv="151;2" rate="600"/>
+<ItemSpec id="102213" name="88001417" icon="FB_IC_dianguangshihuo_SKILL" aoe_animation="fire_arrow" range="4" round="2" object="4" object_num="2" effect="151;180" effect_add="151;23" effect_alv="151;4" rate="1000"/>
+<ItemSpec id="102214" name="88001477" icon="FB_IC_yingyongdaji_SKILL" aoe_animation="fire_arrow" range="4" object="2" object_num="2" effect="151;152" effect_add="151;21" effect_alv="151;4" rate="300" status_rate="1000|1000" status_times="2"/>
+<ItemSpec id="102215" name="88001478" icon="FB_IC_chelunzhan_SKILL" aoe_animation="helicopter_shoot" range="4" object="1" object_num="1" effect="151;60" effect_add="151;13" effect_alv="151;2.5" rate="350" status_rate="1000" status_times="1"/>
+<ItemSpec id="102216" name="88001479" icon="FB_IC_suijiyingbian_SKILL" range="1" round="0" object="3" object_num="1" rate="1000" status_rate="1000|1000|1000" status_times="1"/>
+<ItemSpec id="102217" name="88001480" icon="FB_IC_shengjixieyi_SKILL" range="2" round="0" object="4" object_num="2" rate="1000" status_rate="1000|1000"/>
+<ItemSpec id="102218" name="88001481" icon="FB_IC_yazhixieyi_SKILL" range="5" round="0" object="2" object_num="2" rate="1000" status_rate="1000|1000"/>
+<ItemSpec id="102219" name="88001482" icon="FB_IC_xianquxieyi_SKILL" range="4" object="1" object_num="1" rate="1000" status_rate="1000|1000" status_times="1"/>
+<ItemSpec id="102220" name="88001483" icon="FB_IC_chongfengxianzhen_SKILL" range="1" round="0" object="3" object_num="1" rate="1000" status_rate="1000" status_times="8"/>
+<ItemSpec id="102221" name="88001484" icon="FB_IC_tannangquwu_SKILL" range="5" ready="1" object="1" object_num="1" effect="151;140" effect_add="151;20" effect_alv="151;3.5" rate="400" status_times="1"/>
+<ItemSpec id="102222" range="5" object_num="1" effect="151;20" effect_add="151;10" effect_alv="151;2" rate="600" status_rate="1000" status_times="1"/>
+<ItemSpec id="102223" name="88001485" icon="FB_IC_hengsaoqianjun_SKILL" range="5" object="2" object_num="2" effect="151;-12" effect_add="151;7" effect_alv="151;1.5" rate="600"/>
+<ItemSpec id="102224" name="88001486" icon="FB_IC_yingjiwuzi_SKILL" range="3" object="4" object_num="2" effect="313;32" effect_add="313;3" effect_alv="313;0.5" rate="550"/>
+<ItemSpec id="102225" range="3" object_num="2" rate="1000"/>
+<ItemSpec id="102226" name="88001487" icon="FB_IC_huolixiyin_SKILL" range="4" object="2" object_num="2" rate="130" rate_add="30" status_rate="1000" status_times="2"/>
+<ItemSpec id="102227" name="88001488" icon="FB_IC_jinjizhuanyi_SKILL" range="2" object="4" object_num="3" rate="300" status_rate="1000|1000" status_times="2"/>
+<ItemSpec id="102228" name="88001513" icon="FB_IC_3xingdantigongji_SKILL_03" range="1" object_num="1" rate="1000" status_rate="1000" status_times="8"/>
+<ItemSpec id="102229" name="88001514" icon="FB_IC_hongji_SKILL" aoe_animation="hit_aoe" range="4" object_num="1" effect="151;60" effect_add="151;13" effect_alv="151;2.5" rate="500"/>
+<ItemSpec id="102230" name="88001515" icon="FB_IC_huolifugai_SKILL" aoe_animation="helicopter_shoot" range="4" object_num="2" effect="151;0" effect_add="151;8" effect_alv="151;1.5" rate="350" status_rate="1000" status_times="2"/>
+<ItemSpec id="102231" name="88001524" icon="FB_IC_youdongjuji_SKILL" range="1" object="3" object_num="1" rate="800" status_rate="1000" status_times="2"/>
+<ItemSpec id="102232" name="88001525" icon="FB_IC_yantifuji_SKILL" aoe_animation="fire_arrow" range="3" object="1" object_num="1" effect="916;20" effect_add="916;10" effect_alv="916;2" rate="500"/>
+<ItemSpec id="102233" range="1" object_num="1" effect="313;24" effect_add="313;2" effect_alv="313;0.5" rate="1000"/>
+<ItemSpec id="102234" name="88001526" icon="FB_IC_zidanyu_SKILL" range="3" object="4" object_num="2" rate="170" rate_add="20" status_rate="1000" status_times="2"/>
+<ItemSpec id="102235" name="88001527" icon="FB_IC_huanweituxi_SKILL" range="1" round="0" object="3" object_num="1" rate="1000" status_rate="1000" status_times="8"/>
+<ItemSpec id="102236" name="88001528" icon="FB_IC_shitansheji_SKILL" aoe_animation="helicopter_shoot" range="4" object="1" object_num="1" effect="151;70" effect_add="151;15" effect_alv="151;3" rate="400" status_rate="1000" status_times="1"/>
+<ItemSpec id="102237" name="88001529" icon="FB_IC_zhimangsheji_SKILL" aoe_animation="hit_aoe" range="5" object="1" object_num="1" effect="916;176" effect_add="916;24" effect_alv="916;5" rate="350" status_rate="1000" status_times="1"/>
+<ItemSpec id="102238" name="88001530" icon="FB_IC_fanjifengbao_SKILL" range="2" round="0" object="2" object_num="1" rate="1000" status_rate="1000" status_times="8"/>
+<ItemSpec id="102239" name="88001531" icon="FB_IC_shixue_SKILL" range="3" round="1;2;3;4;5;6;7;8" object="4" object_num="1" effect="313;40" effect_add="313;3.5" effect_alv="313;0.5" rate="1000"/>
+<ItemSpec id="102240" name="88001532" icon="FB_IC_yiqidangqian_SKILL" range="3" object="4" object_num="2" rate="400" status_rate="1000|1000" status_times="2"/>
+<ItemSpec id="102241" name="88001533" icon="FB_IC_baopoxieyi_SKILL" aoe_animation="fire_arrow" range="5" object="2" object_num="1" effect="151;-20" effect_add="151;7" effect_alv="151;1.5" rate="1000" status_rate="1000" status_times="2"/>
+<ItemSpec id="102242" name="88001534" icon="FB_IC_xueruoxieyi_SKILL" aoe_animation="helicopter_shoot" range="5" ready="1" object="2" object_num="3" effect="151;20" effect_add="151;10" effect_alv="151;2" rate="450"/>
+<ItemSpec id="102243" name="88001535" icon="FB_IC_zhongjiexieyi_SKILL" range="1" round="0" object="3" object_num="1" rate="1000" status_rate="1000|1000"/>
+<ItemSpec id="102244" name="88000281" icon="FB_IC_hengchongzhizhuang_SKILL" range="5" round="0" object_num="2" rate="1000" status_rate="1000|1000" status_times="2"/>
+<ItemSpec id="102245" name="88001583" icon="FB_IC_qiongzhuimengda_SKILL" range="5" round="0" object_num="3" rate="1000" status_rate="1000|1000"/>
+<ItemSpec id="102246" name="88001584" icon="FB_IC_mimiwuqi_SKILL" aoe_animation="fire_arrow" range="5" object="1" object_num="1" effect="151;40" effect_add="151;12" effect_alv="151;2" rate="400" times="2"/>
+<ItemSpec id="102247" name="88001585" icon="FB_IC_jiushifuyin_SKILL" range="2" object_num="1" effect="313;100" effect_add="313;8" effect_alv="313;1.5" rate="500"/>
+<ItemSpec id="102248" name="88001586" icon="FB_IC_shengguangxili_SKILL" aoe_animation="helicopter_shoot" range="3" object_num="1" effect="151;4" effect_add="151;9" effect_alv="151;1.5" rate="700" status_rate="1000" status_times="1"/>
+<ItemSpec id="102249" name="88001587" icon="FB_IC_qidao_SKILL" range="2" round="5" object="0" object_num="1" rate="1000" status_rate="1000" status_times="2"/>
+<ItemSpec id="102251" range="2" object="0" object_num="1" effect="313;100" effect_add="313;8" effect_alv="313;1.5" rate="1000"/>
+<ItemSpec id="102252" name="88000307" icon="FB_IC_3xingdantigongji_SKILL_01" aoe_animation="fire_arrow" range="2" object="1" object_num="1" effect="151;5" effect_add="151;5" effect_alv="151;0.5" rate="400"/>
+<ItemSpec id="102253" name="88001619" icon="FB_IC_chongfenghaojiao_SKILL" range="2" object="4" object_num="2" rate="300" status_rate="1000" status_times="2"/>
+<ItemSpec id="102254" name="88001654" icon="FB_IC_battle_yongyezhanfang_SKILL" aoe_animation="helicopter_shoot" range="5" object="2" object_num="3" effect="151;47" effect_add="151;17" effect_alv="151;2" rate="1000"/>
+<ItemSpec id="102255" name="88001655" icon="FB_IC_battle_qianxinglianji_SKILL" range="1" rate="170" rate_add="20" status_rate="1000"/>
+<ItemSpec id="102256" name="88001656" icon="FB_IC_battle_zhimingqingxi_SKILL" range="5" object="1" object_num="1" rate="1000" status_rate="1000|1000|1000|1000|1000"/>
+<ItemSpec id="102257" name="88001651" icon="FB_IC_battle_yinghuapifu_SKILL" range="0" round="0" rate="1000" status_rate="1000|1000"/>
+<ItemSpec id="102258" name="88001652" icon="FB_IC_battle_jiusufanbao_SKILL" range="5" rate="1000" status_rate="440|250" status_rate_add="40|50"/>
+<ItemSpec id="102259" name="88001653" icon="FB_IC_battle_tanshizhiyu_SKILL" range="2" round="0" object="4" object_num="3" rate="1000" status_rate="1000|1000|1000"/>
+<ItemSpec id="102260" name="88003068" icon="FB_IC_battle_chongnengfantan_SKILL" aoe_animation="skill_guangquan" range="5" object_num="3" rate="1000" status_rate="1000|120" status_rate_add="0|20"/>
+<ItemSpec id="102261" name="88003069" icon="FB_IC_battle_dizhen_SKILL" aoe_animation="helicopter_shoot" range="5" effect="151;-87" effect_add="151;5" effect_alv="151;1" rate="1000"/>
+<ItemSpec id="102262" name="88003070" icon="FB_IC_battle_djijiubao_SKILL" range="5" round="0" object_num="3" rate="1000" status_rate="1000|1000|1000|1000|1000"/>
+<ItemSpec id="102263" name="88003065" icon="FB_IC_battle_chuansuo_SKILL" range="2" round="0" object="4" object_num="1" rate="550" rate_add="50" status_rate="1000"/>
+<ItemSpec id="102264" name="88003066" icon="FB_IC_battle_gejue_SKILL" range="2" round="0" object="4" object_num="3" rate="1000" status_rate="1000"/>
+<ItemSpec id="102265" name="88003067" icon="FB_IC_battle_qianghua_SKILL" range="2" round="0" object="4" object_num="3" rate="1000" status_rate="1000|1000|1000"/>
+<ItemSpec id="102266" range="5" object_num="1" rate="1000" status_rate="120" status_rate_add="20"/>
+<ItemSpec id="102267" name="88003069" icon="FB_IC_battle_dizhen_SKILL" aoe_animation="helicopter_shoot" range="5" object_num="3" effect="151;-90" effect_add="15;-2" rate="1000"/>
+<ItemSpec id="102268" name="88003066" icon="FB_IC_battle_gejue_SKILL" aoe_animation="fire_arrow" range="4" round="1;4" object_num="1" effect="151;80" effect_add="151;20" effect_alv="151;3" rate="1000"/>
+<ItemSpec id="102269" name="88003095" icon="FB_IC_nvqiangyi_SKILL" aoe_animation="fire_arrow" range="5" object="2" effect="151;19" effect_add="15;9" effect_alv="151;1" rate="1000"/>
+<ItemSpec id="102270" aoe_animation="fire_arrow" range="5" effect="151;30" effect_add="151;30" effect_alv="151;2" rate="220" rate_add="20"/>
+<ItemSpec id="102271" name="88003096" icon="FB_IC_nvqianger_SKILL" range="5" aoe_animation="helicopter_shoot" effect="151;-20" effect_add="151;5" effect_alv="151;0.5" rate="400"/>
+<ItemSpec id="102272" name="88003097" icon="FB_IC_nvqiangsan_SKILL" range="6" rate="1000" status_rate="1000"/>
+<ItemSpec id="102273" name="88003101" icon="FB_IC_tuiyinyi_SKILL" range="1" rate="1000"/>
+<ItemSpec id="102274" name="88003102" icon="FB_IC_tuiyiner_SKILL" range="2" rate="220" rate_add="20"/>
+<ItemSpec id="102275" name="88003103" icon="FB_IC_tuiyinsan_SKILL" range="4" rate="1000" status_rate="70" status_rate_add="20"/>
+<ItemSpec id="102276" name="88003111" icon="FB_IC_baonvyi_SKILL" range="1" round="0" object="3" object_num="1" rate="1000" status_rate="1000|1000|1000"/>
+<ItemSpec id="102277" name="88003113" icon="FB_IC_baonvsan_SKILL" range="5" object="1" object_num="1" effect="151;230" effect_add="151;30" effect_alv="151;2" rate="170" rate_add="20" status_rate="1000"/>
+<ItemSpec id="102278" name="88003112" icon="FB_IC_baonver_SKILL" range="5" object="1" object_num="1" effect="151;120" effect_add="151;20" effect_alv="151;1" rate="230" rate_add="30"/>
+<ItemSpec id="102279" name="88003119" icon="FB_IC_zhanbuyi_SKILL" range="5" rate="1000" status_rate="1000"/>
+<ItemSpec id="102280" name="88003120" icon="FB_IC_zhanbuer_SKILL" range="5" rate="230" rate_add="30" status_rate="1000"/>
+<ItemSpec id="102281" name="88003121" icon="FB_IC_zhanbusan_SKILL" range="5" effect="151;190" effect_add="151;40" effect_alv="151;2" rate="1000" status_rate="1000"/>
+
+<ItemSpec id="102282" name="88003141" icon="FB_IC_xiaofangyi_SKILL" range="5" object_num="1" rate="1000"/>
+<ItemSpec id="102283" name="88003142" icon="FB_IC_xiaofanger_SKILL" range="2" object_num="1" effect="313;130" effect_add="313;10" effect_alv="313;1" rate="230" rate_add="30"/>
+<ItemSpec id="102286" name="88003143" icon="FB_IC_xiaofangsan_SKILL" range="2" object_num="1" rate="1000"/>
+
+
+
+<ItemSpec id="102287" name="88003144" icon="FB_IC_aimuyi_SKILL" aoe_animation="fire_arrow" range="5" object="2" object_num="2" effect="151;-30" effect_add="151;20" effect_alv="151;1" rate="170" rate_add="20" status_rate="1000"/>
+<ItemSpec id="102288" name="88003145" icon="FB_IC_aimuer_SKILL" aoe_animation="fire_arrow" range="5" object="2" object_num="2" effect="151;70" effect_add="151;20" effect_alv="151;2" rate="230" rate_add="30" status_rate="1000"/>
+<ItemSpec id="102289" name="88003146" icon="FB_IC_aimusan_SKILL" aoe_animation="helicopter_shoot" range="5" effect="151;60" effect_add="151;10"  rate="1000"/>
+<ItemSpec id="102290" name="88003146" icon="FB_IC_aimusan_SKILL" range="5" rate="1000"/>
+
+
+<ItemSpec id="102291" name="88003161" icon="FB_IC_huamulanyi_SKILL" aoe_animation="fire_arrow" range="4" object_num="2" effect="151;90" effect_add="151;20" effect_alv="151;1" rate="230" rate_add="30"/>
+<ItemSpec id="102292" name="88003163" icon="FB_IC_huamulaner_SKILL" range="2" object_num="1" rate="220" rate_add="20" status_rate="1000"/>
+<ItemSpec id="102293" name="88003164" icon="FB_IC_huamulansan_SKILL" aoe_animation="helicopter_shoot" range="4" object_num="3" effect="151;-10" effect_add="151;10" effect_alv="151;1" rate="230" rate_add="30"/>
+
+<ItemSpec id="102294" name="88003173" icon="FB_IC_beidiyi_SKILL" range="2" />
+<ItemSpec id="102295" name="88003174" icon="FB_IC_beidier_SKILL" range="2" object_num="3" effect="151;-80" effect_add="151;5" effect_alv="151;0.5" rate="550" rate_add="50"/>
+<ItemSpec id="102296" name="88003175" icon="FB_IC_beidisan_SKILL" range="5" object_num="3"/>
+
+<ItemSpec id="102297" name="88003181" icon="FB_IC_huaxueyi_SKILL" range="5" object_num="1" rate="230" rate_add="30"/>
+<ItemSpec id="102298" name="88003182" icon="FB_IC_huaxueer_SKILL" range="5" object_num="1" rate="220" rate_add="20" status_rate="1000"/>
+<ItemSpec id="102299" name="88003183" icon="FB_IC_huaxuesan_SKILL" aoe_animation="helicopter_shoot" range="5" object_num="1" effect="151;-15" effect_add="151;5" effect_alv="151;1" rate="230" rate_add="30"/>
+
+<ItemSpec id="102301" name="88003209" icon="FB_IC_fengmoyi_SKILL" range="2" object_num="3" rate="1000"/>
+<ItemSpec id="102302" name="88003210" icon="FB_IC_fengmoer_SKILL" range="2" object_num="3" rate="1000"/>
+<ItemSpec id="102303" name="88003211" icon="FB_IC_fengmosan_SKILL" range="5" effect="151;160" effect_add="151;10" effect_alv="151;1" object_num="1" rate="1000"/>
+<ItemSpec id="102304" name="88003212" icon="FB_IC_lieyanyi_SKILL" range="5" object_num="1" rate="1000"/>
+<ItemSpec id="102305" name="88003213" icon="FB_IC_lieyaner_SKILL" range="1" object_num="1" rate="1000"/>
+<ItemSpec id="102306" name="88003214" icon="FB_IC_lieyansan_SKILL" range="5" object_num="1" rate="1000" effect="151;70" effect_add="151;20"/>
+<ItemSpec id="102307" name="88003214" icon="FB_IC_lieyansan_SKILL" range="5" object_num="1" rate="1000"/>
+
+
+<ItemSpec id="103000" name="91003009" icon="FB_IC_sheshougongji_SKILL" aoe_animation="fire_arrow" range="5" object="1" object_num="1" effect="151;0" effect_add="151;0" effect_alv="151;0" rate="1000"/>
+<ItemSpec id="103001" name="91003010" icon="FB_IC_tuji_SKILL" aoe_animation="fire_arrow" range="5" object="1" object_num="1" effect="151;30" effect_add="151;10" effect_alv="151;0" rate="1000"/>
+<ItemSpec id="103002" name="91003011" icon="FB_IC_daji_SKILL" aoe_animation="fire_arrow" range="2" object="1" object_num="1" effect="151;30" effect_add="151;10" effect_alv="151;0" rate="1000"/>
+<ItemSpec id="103003" name="91003012" icon="FB_IC_xulidaji_SKILL" aoe_animation="fire_arrow" range="5" object="1" object_num="1" effect="151;30" effect_add="151;10" effect_alv="151;0" rate="1000"/>
+<ItemSpec id="103004" name="91003013" icon="FB_IC_tianjiangzhengyi_SKILL" aoe_animation="hit_aoe" range="5" object="2" object_num="3" effect="151;-5" effect_add="151;5" effect_alv="151;0" rate="1000"/>
+<ItemSpec id="103005" name="91003015" icon="FB_IC_shibingyongshi_SKILL" range="5" object="4" object_num="3" rate="1000" status_rate="1000" status_times="1"/>
+<ItemSpec id="103006" name="91003014" icon="FB_IC_shibingsheshou_SKILL" range="5" object="4" object_num="3" rate="1000" status_rate="1000" status_times="1"/>
+<ItemSpec id="103007" name="91003016" icon="FB_IC_shibingche_SKILL" range="5" object="4" object_num="3" rate="1000" status_rate="1000" status_times="1"/>
+<ItemSpec id="103008" name="91003017" icon="FB_IC_weiya_SKILL" range="5" object="4" object_num="3" rate="1000" status_rate="1000" status_times="1"/>
+<ItemSpec id="104001" name="90821339" icon="FB_IC_buqu_SKILL" range="5" object="3" object_num="1" effect="312;60"/>
+<ItemSpec id="104002" name="90821339" icon="FB_IC_buqu_SKILL" range="5" object="3" object_num="1" effect="312;100"/>
+<ItemSpec id="104003" name="90821541" icon="FB_IC_qianggong_SKILL" range="5" round="0" object="4" object_num="3"/>
+<ItemSpec id="104004" name="90821541" icon="FB_IC_qianggong_SKILL" range="5" round="0" object="4" object_num="3"/>
+<ItemSpec id="104005" name="90821640" icon="FB_IC_nianya_SKILL" range="5" object="2" object_num="3" effect="1063;-70|1064;-70"/>
+<ItemSpec id="104006" name="90821640" icon="FB_IC_nianya_SKILL" range="5" object="2" object_num="3" effect="1063;-40|1064;-40"/>
+
+  </Group>
+</tns:database>

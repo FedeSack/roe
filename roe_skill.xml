@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<Group id="skill">
+  <ItemSpec id="102000" name="90900035" icon="ROE_hs_yingxiongyiji_zhandou" />
+  <ItemSpec id="102001" name="90900036" icon="ROE_hs_yingxiongyiji_zhandou" />
+  <ItemSpec id="102002" name="90900037" icon="ROE_hs_yingxiongyiji_zhandou" />
+  <ItemSpec id="102006" name="88000530" icon="ROE_hs_zhanhou_zhandou" />
+  <ItemSpec id="102007" name="88000582" icon="ROE_hs_tiexueshixin_zhandou" />
+  <ItemSpec id="102008" name="88000528" icon="ROE_hs_zhisichanrao_zhandou" />
+  <ItemSpec id="102010" name="88000555" icon="ROE_hs_kuangfengsaoyue_zhandou" />
+  <ItemSpec id="102011" name="88000529" icon="ROE_hs_wuqingjiaosha_zhandou" />
+  <ItemSpec id="102012" name="88000556" icon="ROE_hs_tiexuezhansha_zhandou" />
+  <ItemSpec id="102013" name="88000583" icon="ROE_hs_minmie_zhandou" />
+  <ItemSpec id="102014" name="88000533" icon="ROE_hs_jiefang_zhandou" />
+  <ItemSpec id="102015" name="88000531" icon="ROE_hs_zhanfu_zhandou" />
+  <ItemSpec id="102016" name="88000532" icon="ROE_hs_kuaiqiang_zhandou" />
+  <ItemSpec id="102017" name="88000558" icon="ROE_hs_bopi_zhandou" />
+  <ItemSpec id="102020" name="88000584" icon="ROE_hs_tieshouwuqing_zhandou" />
+  <ItemSpec id="102021" name="88000536" icon="ROE_hs_tiemenbishan_zhandou" />
+  <ItemSpec id="102022" name="88000562" icon="ROE_hs_shibacengdiyu_zhandou" />
+  <ItemSpec id="102023" name="88000535" icon="ROE_hs_duopo_zhandou" />
+  <ItemSpec id="102024" name="88000561" icon="ROE_hs_shihun_zhandou" />
+  <ItemSpec id="102025" name="88000534" icon="ROE_hs_zhuiji_zhandou" />
+  <ItemSpec id="102026" name="83420013" icon="ROE_hs_zhanmo_zhandou" />
+  <ItemSpec id="102031" name="88000539" icon="ROE_hs_youji_zhandou" />
+  <ItemSpec id="102032" name="88000586" icon="ROE_hs_wuweichongfeng_zhandou" />
+  <ItemSpec id="102033" name="88000540" icon="ROE_hs_tiangang_zhandou" />
+  <ItemSpec id="102034" name="88000587" icon="ROE_hs_renwang_zhandou" />
+  <ItemSpec id="102035" name="qq000039" icon="ROE_hs_jueshengshenqiang_zhandou" />
+  <ItemSpec id="102040" name="qq000041" icon="ROE_hs_yizhanchengming_zhandou" />
+  <ItemSpec id="102041" name="88000543" icon="ROE_hs_taifeng_zhandou" />
+  <ItemSpec id="102042" name="88000589" icon="ROE_hs_dajiahuo_zhandou" />
+  <ItemSpec id="102043" name="88000545" icon="ROE_hs_baonu_zhandou" />
+  <ItemSpec id="102044" name="88000590" icon="ROE_hs_weilebeifang_zhandou" />
+  <ItemSpec id="102045" name="88000546" icon="ROE_hs_jianrenluanwu_zhandou" />
+  <ItemSpec id="102050" name="88000591" icon="ROE_hs_dashasifang_zhandou" />
+  <ItemSpec id="102051" name="88000541" icon="ROE_hs_kuaidaozhanma_zhandou" />
+  <ItemSpec id="102052" name="88000568" icon="ROE_hs_zhuixingganyue_zhandou" />
+  <ItemSpec id="102053" name="88000544" icon="ROE_hs_hanwei_zhandou" />
+  <ItemSpec id="102054" name="88000571" icon="ROE_hs_zhizhong_zhandou" />
+  <ItemSpec id="102055" name="88000547" icon="ROE_hs_kuangyezhixi_zhandou" />
+  <ItemSpec id="102060" name="88000574" icon="ROE_hs_wusuoweiju_zhandou" />
+  <ItemSpec id="102061" name="88000537" icon="ROE_hs_siwangxuanpan_zhandou" />
+  <ItemSpec id="102062" name="88000564" icon="ROE_hs_liguixingxing_zhandou" />
+  <ItemSpec id="102063" name="88000565" icon="ROE_hs_guruojintang_zhandou" />
+  <ItemSpec id="102064" name="88000548" icon="ROE_hs_wujinzhihai_zhandou" />
+  <ItemSpec id="102065" name="88000575" icon="ROE_hs_weilehewala_zhandou" />
+  <ItemSpec id="102066" name="88000549" icon="ROE_hs_zhancha_zhandou" />
+  <ItemSpec id="102067" name="88000576" icon="ROE_hs_kuangben_zhandou" />
+  <ItemSpec id="102068" name="88000550" icon="ROE_hs_qibingtuxi_zhandou" />
+  <ItemSpec id="102069" name="88000577" icon="ROE_hs_zhanshoushizhong_zhandou" />
+  <ItemSpec id="102070" name="88000551" icon="ROE_hs_aoxiang_zhandou" />
+  <ItemSpec id="102071" name="88000578" icon="ROE_hs_lizhua_zhandou" />
+  <ItemSpec id="102072" name="88000552" icon="ROE_hs_jingzhunsheji_zhandou" />
+  <ItemSpec id="102074" name="88000553" icon="ROE_hs_handizhe_zhandou" />
+  <ItemSpec id="102076" name="88000563" icon="ROE_hs_tiexiufufeng_zhandou" />
+  <ItemSpec id="102077" name="88000560" icon="ROE_hs_xuegao_zhandou" />
+  <ItemSpec id="102078" name="88000557" icon="ROE_hs_shiquntuxi_zhandou" />
+  <ItemSpec id="102079" name="88000585" icon="ROE_hs_huangquanzhilu_zhandou" />
+  <ItemSpec id="102080" name="88000567" icon="ROE_hs_disha_zhandou" />
+  <ItemSpec id="102081" name="88000566" icon="ROE_hs_chelunzhan_zhandou" />
+  <ItemSpec id="102082" name="qq000040" icon="ROE_hs_xuesezhanjia_zhandou" />
+  <ItemSpec id="102083" name="88000570" icon="ROE_hs_baoyu_zhandou" />
+  <ItemSpec id="102084" name="88000572" icon="ROE_hs_weilediguo_zhandou" />
+  <ItemSpec id="102085" name="88000573" icon="ROE_hs_daojianwuying_zhandou" />
+  <ItemSpec id="102086" name="88000490" icon="ROE_hs_zhengfuzhe_zhandou" />
+  <ItemSpec id="102087" name="88000493" icon="ROE_hs_zuizhongfuchou_zhandou" />
+  <ItemSpec id="102088" name="88000496" icon="ROE_hs_ziyouxuangao_zhandou" />
+  <ItemSpec id="102089" name="88000491" icon="ROE_hs_zhengtu_zhandou" />
+  <ItemSpec id="102090" name="88000494" icon="ROE_hs_chouhenzhihuo_zhandou" />
+  <ItemSpec id="102091" name="88000497" icon="ROE_hs_ziyouzhixing_zhandou" />
+  <ItemSpec id="102092" name="88000492" />
+  <ItemSpec id="102093" name="88000495" />
+  <ItemSpec id="102094" name="88000498" />
+  <ItemSpec id="102101" name="88000554" icon="ROE_hs_xuebeng_zhandou" />
+  <ItemSpec id="102102" name="88000580" icon="ROE_hs_dizhen_zhandou" />
+  <ItemSpec id="102103" name="88000579" icon="ROE_hs_jihuo_zhandou" />
+  <ItemSpec id="102104" name="88000581" icon="ROE_hs_baoxue_zhandou" />
+  <ItemSpec id="102105" name="88000559" icon="ROE_hs_weihezhe_zhandou" />
+  <ItemSpec id="102106" name="88000492" icon="ROE_hs_gebifengbao_junshi" />
+  <ItemSpec id="102107" name="88000495" icon="ROE_hs_tieqijianta_junshi" />
+  <ItemSpec id="102108" name="88000498" icon="ROE_hs_buluozhanqi_junshi" />
+  <ItemSpec id="102109" name="88000722" icon="ROE_hs_wuweizhishi_zhandou" />
+  <ItemSpec id="102110" name="88000728" icon="ROE_hs_gansidui_zhandou" />
+  <ItemSpec id="102111" name="88000725" icon="ROE_hs_buziyouwuningsi_zhandou" />
+  <ItemSpec id="102112" name="88000720" icon="ROE_hs_guli_zhandou" />
+  <ItemSpec id="102113" name="88000723" icon="ROE_hs_xuanyan_zhandou" />
+  <ItemSpec id="102114" name="88000726" icon="ROE_hs_kuaigong_zhandou" />
+  <ItemSpec id="102115" name="88000729" icon="ROE_hs_luoye_zhandou" />
+  <ItemSpec id="102116" name="88000730" icon="ROE_hs_qiufeng_zhandou" />
+  <ItemSpec id="102117" name="88000731" icon="ROE_hs_yulian_zhandou" />
+  <ItemSpec id="102118" name="88000732" icon="ROE_hs_xilizhihuo_zhandou" />
+  <ItemSpec id="102119" name="88000733" icon="ROE_hs_weiya_zhandou" />
+  <ItemSpec id="102120" name="88000734" icon="ROE_hs_tianjiangzhengyi_zhandou" />
+  <ItemSpec id="102121" name="88000735" icon="ROE_hs_buxiushenjiang_zhandou" />
+  <ItemSpec id="102122" name="88000736" icon="ROE_hs_suijia_zhandou" />
+  <ItemSpec id="102123" name="88000737" icon="ROE_hs_changqiangtuxi_zhandou" />
+  <ItemSpec id="102124" name="88000741" icon="ROE_hs_zhengyishenpan_zhandou" />
+  <ItemSpec id="102125" name="88000742" icon="ROE_hs_shuzui_zhandou" />
+  <ItemSpec id="102126" name="88000743" icon="ROE_hs_renxingbene_zhandou" />
+  <ItemSpec id="102127" name="88000744" icon="ROE_hs_mengshouchulong_zhandou" />
+  <ItemSpec id="102128" name="88000745" icon="ROE_hs_baishoubenteng_zhandou" />
+  <ItemSpec id="102129" name="88000746" icon="ROE_hs_kunshouzhidou_zhandou" />
+  <ItemSpec id="102130" name="88000739" icon="ROE_hs_huguoshenyin_zhandou" />
+  <ItemSpec id="102131" name="88000740" icon="ROE_hs_pingluanzhe_zhandou" />
+  <ItemSpec id="102132" name="88000738" icon="ROE_hs_buquzhizhi_zhandou" />
+  <ItemSpec id="102133" name="88000721" icon="ROE_hs_jianshou_zhandou" />
+  <ItemSpec id="102134" name="88000727" icon="ROE_hs_yiqidangqian_zhandou" />
+  <ItemSpec id="102135" name="88000724" icon="ROE_hs_yiwufangu_zhandou" />
+  <ItemSpec id="102136" name="88000916" icon="ROE_hs_wusuzhiren_zhandou" />
+  <ItemSpec id="102137" name="88000917" icon="ROE_hs_weishe_zhandou" />
+  <ItemSpec id="102138" name="88000918" icon="ROE_hs_qinjinqichu_zhandou" />
+  <ItemSpec id="102139" name="88000919" icon="ROE_hs_suoming_zhandou" />
+  <ItemSpec id="102140" name="88000920" icon="ROE_hs_eguipushi_zhandou" />
+  <ItemSpec id="102141" name="88000921" icon="ROE_hs_hunshou_zhandou" />
+  <ItemSpec id="102142" name="qq000036" icon="ROE_hs_jianwuxufa_zhandou" />
+  <ItemSpec id="102143" name="qq000037" icon="ROE_hs_huangjinshengjia_zhandou" />
+  <ItemSpec id="102144" name="qq000038" icon="ROE_hs_quanlizhengfu_zhandou" />
+  <ItemSpec id="102145" icon="ROE_hs_wanmabengteng_zhandou" />
+  <ItemSpec id="102146" icon="ROE_hs_youmuliangfang_zhandou" />
+  <ItemSpec id="102147" icon="ROE_hs_yuhuizhanshu_zhandou" />
+  <ItemSpec id="102148" icon="ROE_hs_dianguanghuoshi_zhandou" />
+  <ItemSpec id="102149" icon="ROE_hs_qingchaoerchu_zhandou" />
+  <ItemSpec id="102150" icon="ROE_hs_weicheng_zhandou" />
+  <ItemSpec id="102151" icon="ROE_hs_huangyezhinu_zhandou" />
+  <ItemSpec id="102153" icon="ROE_hs_dashanzhihun_zhandou" />
+  <ItemSpec id="102154" icon="ROE_hs_shenlinzhixi_zhandou" />
+  <ItemSpec id="102156" icon="ROE_hs_yezhang_zhandou" />
+  <ItemSpec id="102158" icon="ROE_hs_jilejingtu_zhandou" />
+  <ItemSpec id="102159" icon="ROE_hs_tehuazizaitian_zhandou" />
+  <ItemSpec id="102160" icon="ROE_hs_shengguangshenpan_zhandou" />
+  <ItemSpec id="102161" icon="ROE_hs_tieqiyuanzheng_zhandou" />
+  <ItemSpec id="102163" icon="ROE_hs_shenweijianglin_zhandou" />
+  <ItemSpec id="102164" icon="ROE_hs_tuodaoji_zhandou" />
+  <ItemSpec id="102165" icon="ROE_hs_chixuebaoma_zhandou" />
+  <ItemSpec id="102166" icon="ROE_hs_zhanshenjianglin_zhandou" />
+  <ItemSpec id="102167" icon="ROE_hs_kuaisulianji_zhandou" />
+  <ItemSpec id="102168" icon="ROE_hs_zhanzhengnuhou_zhandou" />
+  <ItemSpec id="102169" icon="ROE_hs_shengdunshenpan_zhandou" />
+  <ItemSpec id="102170" icon="ROE_hs_paibingbuzhen_zhandou" />
+  <ItemSpec id="102171" icon="ROE_hs_wanjianqifa_zhandou" />
+  <ItemSpec id="102172" icon="ROE_hs_shensheshou_zhandou" />
+  <ItemSpec id="102173" icon="ROE_hs_hengchongzhizhuang_zhandou" />
+  <ItemSpec id="102175" icon="ROE_hs_wuyingwuzong_zhandou" />
+  <ItemSpec id="102176" icon="ROE_hs_ziyouwujian_zhandou" />
+  <ItemSpec id="102177" name="88001047" icon="ROE_hs_wujinjiaotu_zhandou" />
+  <ItemSpec id="102178" name="88001048" icon="ROE_hs_jixingjun_zhandou" />
+  <ItemSpec id="102179" name="88001049" icon="ROE_hs_shabao_zhandou" />
+  <ItemSpec id="102180" name="88001050" icon="ROE_hs_damotiewei_zhandou" />
+  <ItemSpec id="102181" name="88001051" icon="ROE_hs_tieqituxi_zhandou" />
+  <ItemSpec id="102182" name="88001052" icon="ROE_hs_miaoshi_zhandou" />
+  <ItemSpec id="102183" name="88001053" icon="ROE_hs_dongtutiehun_zhandou" />
+  <ItemSpec id="102184" name="88001054" icon="ROE_hs_buzaihuitou_zhandou" />
+  <ItemSpec id="102185" name="88001055" icon="ROE_hs_dongxuezhishi_zhandou" />
+  <ItemSpec id="102186" name="88001056" icon="ROE_hs_lianhuntouzhi_zhandou" />
+  <ItemSpec id="102187" name="88001057" icon="ROE_hs_chuanxinzhiji_zhandou" />
+  <ItemSpec id="102188" name="88001058" icon="ROE_hs_yuyingzhuoshi_zhandou" />
+  <ItemSpec id="102189" name="88001060" icon="ROE_hs_buxiuzhanhun_zhandou" />
+  <ItemSpec id="102190" name="88001061" icon="ROE_hs_shaomozhinv_zhandou" />
+  <ItemSpec id="102191" name="88001062" icon="ROE_hs_youquwuhui_zhandou" />
+  <ItemSpec id="102192" name="88001063" icon="ROE_hs_weitian_zhandou" />
+  <ItemSpec id="102193" name="88001064" icon="ROE_hs_weidi_zhandou" />
+  <ItemSpec id="102194" name="88001065" icon="ROE_hs_weimin_zhandou" />
+  <ItemSpec id="102195" name="88001409" icon="ROE_hs_zhongzhang_zhandou" />
+  <ItemSpec id="102196" name="88001410" icon="ROE_hs_xiemu_zhandou" />
+  <ItemSpec id="102197" name="88001408" icon="ROE_hs_kaichang_zhandou" />
+  <ItemSpec id="102198" name="88001413" icon="ROE_hs_shangcidao_zhandou" />
+  <ItemSpec id="102199" name="88001412" icon="ROE_hs_jitikaihuo_zhandou" />
+  <ItemSpec id="102200" name="88001411" icon="ROE_hs_daqijingshen_zhandou" />
+  <ItemSpec id="102201" name="88001414" icon="ROE_hs_yujiaqinzheng_zhandou" />
+  <ItemSpec id="102202" name="88001415" icon="ROE_hs_zhenlongtianjiang_zhandou" />
+  <ItemSpec id="102203" name="88001416" icon="ROE_hs_bumielongwei_zhandou" />
+  <ItemSpec id="102205" name="88001418" icon="ROE_hs_sanliancanghuo_zhandou" />
+  <ItemSpec id="102206" name="88001419" icon="ROE_hs_wanqianliehuo_zhandou" />
+  <ItemSpec id="102207" name="88001422" icon="ROE_hs_dashsifang_zhandou" />
+  <ItemSpec id="102208" name="88001421" icon="ROE_hs_zouni_zhandou" />
+  <ItemSpec id="102209" name="88001420" icon="ROE_hs_shenxianshizu_zhandou" />
+  <ItemSpec id="102210" name="88001423" icon="ROE_hs_shunshouqianyang_zhandou" />
+  <ItemSpec id="102211" name="88001425" icon="ROE_hs_gentamenpinle_zhandou" />
+  <ItemSpec id="102212" name="88001424" icon="ROE_hs_laizhuawoa_zhandou" />
+  <ItemSpec id="102213" name="88001417" icon="ROE_hs_qianbenying_zhandou" />
+  <ItemSpec id="102260" icon="ROE_hs_fantanzhuangjia_zhandou" />
+  <ItemSpec id="102261" icon="ROE_hs_tainbengdilie_zhandou" ROE_NEW="1" range="5" effect="151;-87" effect_add="151;5" effect_alv="151;1" rate="1000" name="88003069" aoe_animation="helicopter_shoot" />
+  <ItemSpec id="102262" icon="ROE_hs_leitingzhiji_zhandou" />
+  <ItemSpec id="102263" icon="ROE_hs_AspectoftheEagle_zhandou" />
+  <ItemSpec id="102264" icon="ROE_hs_AspectoftheTurtle_zhandou" />
+  <ItemSpec id="102265" icon="ROE_hs_AspectoftheTiger_zhandou" />
+  <ItemSpec id="102276" name="88003111" icon="ROE_hs_yulinjuedou_zhandou" />
+  <ItemSpec id="102277" name="88003113" icon="ROE_hs_akeliusizhizhong_zhandou" />
+  <ItemSpec id="102278" name="88003112" icon="ROE_hs_jueduiqianzhi_zhandou" />
+  <ItemSpec id="102279" name="88003119" icon="ROE_hs_dianshichengjin_zhandou" />
+  <ItemSpec id="102280" name="88003120" icon="ROE_hs_xuezushilu_zhandou" />
+  <ItemSpec id="102281" name="88003121" icon="ROE_hs_linghunxianji_zhandou" />
+  <ItemSpec id="102282" name="88003141" icon="ROE_hs_xuemengzhishi_zhandou" />
+  <ItemSpec id="102283" name="88003142" icon="ROE_hs_yingyongguwu_zhandou" />
+  <ItemSpec id="102286" name="88003143" icon="ROE_hs_yuhuochongsheng_zhandou" />
+  <ItemSpec id="102287" name="88003144" icon="ROE_hs_cuiduzhizhen_zhandou" />
+  <ItemSpec id="102288" name="88003145" icon="ROE_hs_miqingqianying_zhandou" />
+  <ItemSpec id="102289" name="88003146" icon="ROE_hs_huohuanzhiyuan_zhandou" />
+  <ItemSpec id="102290" name="88003146" icon="ROE_hs_huohuanzhiyuan_zhandou" />
+  <ItemSpec id="102291" ROE_NEW="1" range="4" rate="230" rate_add="30" name="91050684" icon="ROE_hs_yingwufengzi" />
+  <ItemSpec id="102292" ROE_NEW="1" range="2" rate="220" rate_add="20" status_rate="1000" name="91050685" icon="ROE_hs_haoqiyingfeng" />
+  <ItemSpec id="102293" ROE_NEW="1" range="4" ready="1" rate="230" rate_add="30" name="91050686" icon="ROE_hs_jinguoyignxiong" />
+  <ItemSpec id="102295" range="2" object="112" object_num="3" effect="151;-78" effect_add="151;2" effect_alv="151;0.2" rate="550" rate_add="50" name="88003174" icon="FB_IC_beidier_SKILL" />
+  <ItemSpec id="102301" icon="ROE_hs_gzyi" />
+  <ItemSpec id="102302" icon="ROE_hs_gzer" />
+  <ItemSpec id="102303" icon="ROE_hs_gzsan" />
+  <ItemSpec id="102304" icon="ROE_hs_wzyi" />
+  <ItemSpec id="102305" icon="ROE_hs_wzer" />
+  <ItemSpec id="102306" icon="ROE_hs_wzsan" />
+  <ItemSpec id="102307" icon="ROE_hs_wzsan" />
+  <ItemSpec id="110011" ROE_NEW="1" range="4" object="1" object_num="1" effect="800031;-65.5" effect_add="800031;4" effect_alv="800031;0.25" rate="700" times="6" name="5610300" icon="ROE_hs_fengbaozhizhu_zhandou" aoe_animation="fire_arrow" status_times="1" />
+  <ItemSpec id="110012" ROE_NEW="1" range="2" rate="1000" status_rate="1000" name="5610300" icon="ROE_hs_fengbaozhizhu_zhandou" />
+  <ItemSpec id="110013" ROE_NEW="1" range="4" round="3;4;5;6;7;8" object="2" object_num="2" effect="800031;-4" effect_add="800031;10" effect_alv="800031;1" rate="700" status_rate="1000|1000" name="5610303" icon="ROE_hs_xuehuotongyuan_zhandou" aoe_animation="fire_arrow" />
+  <ItemSpec id="110014" ROE_NEW="1" range="2" rate="1000" status_rate="1000" />
+  <ItemSpec id="110015" ROE_NEW="1" range="4" object="3" object_num="1" effect="313;160" effect_add="313;16" rate="1000" status_rate="1000" name="5610306" icon="ROE_hs_busilongyan_zhandou" status_times="1" />
+  <ItemSpec id="110023" ROE_NEW="1" range="0" round="0" object="3" object_num="1" rate="1000" status_rate="1000|1000|1000|1000" name="5610707" icon="ROE_hs_mingyuntunshi_zhandou" />
+  <ItemSpec id="110024" ROE_NEW="1" range="3" object="1" object_num="1" effect="916;320" effect_add="916;20" effect_alv="916;2" rate="500" status_rate="1000" name="5610708" icon="ROE_hs_shizhongjian_zhandou" />
+  <ItemSpec id="110026" ROE_NEW="1" range="3" round="5;6;7;8" object_num="1" effect="916;600" rate="1000" status_rate="1000" name="5610708" icon="ROE_hs_shizhongjian_zhandou" />
+  <ItemSpec id="110027" ROE_NEW="1" range="0" object="3" object_num="1" rate="1000" status_rate="1000|1000" name="5610709" icon="ROE_hs_wangzhezhufu_zhandou" />
+  <ItemSpec id="110016" ROE_NEW="1" range="20" round="2;4;6;8" object="2" object_num="3" effect="151;-10" effect_add="151;5" rate="1000" name="5609272" />
+  <ItemSpec id="110017" ROE_NEW="1" range="20" round="2;4;6;8" object="2" object_num="3" effect="151;15" effect_add="151;5" rate="1000" name="5609272" />
+  <ItemSpec id="110018" ROE_NEW="1" range="20" round="2;4;6;8" object="2" object_num="3" effect="151;40" effect_add="151;5" rate="1000" name="5609272" />
+  <ItemSpec id="110031" ROE_NEW="1" range="5" round="1;2;3;4" object="4" object_num="1" effect="151;90" effect_add="151;10" effect_alv="151;1" rate="1000" status_rate="1000" name="5610722" icon="ROE_hs_xingmangbiji_zhandou" status_times="1" />
+  <ItemSpec id="110032" ROE_NEW="1" range="5" round="5;6;7;8" effect="151;90" effect_add="151;10" effect_alv="151;1" rate="1000" name="5610722" icon="ROE_hs_xingmangbiji_zhandou" aoe_animation="fire_arrow" />
+  <ItemSpec id="110033" ROE_NEW="1" range="5" round="0" object="2" object_num="3" rate="1000" status_rate="1000" name="5610723" icon="ROE_hs_kuangbiaomeiying_zhandou" status_times="1" />
+  <ItemSpec id="110034" ROE_NEW="1" range="5" object="2" object_num="3" effect="151;90" effect_add="151;15" rate="1000" status_rate="1000" name="5610724" icon="ROE_hs_shapoyinhun_zhandou" status_times="2" />
+  <ItemSpec id="110035" ROE_NEW="1" range="5" effect="151;90" effect_add="151;15" rate="500" name="5610724" icon="ROE_hs_shapoyinhun_zhandou" aoe_animation="helicopter_shoot" />
+  <ItemSpec id="190001" ROE_NEW="1" range="5" round="4;5;6;7;8" object="1" object_num="2" effect="151;3000" rate="1000" times="10" status_rate="1000" name="10000015" icon="worldboss_skill1" />
+  <ItemSpec id="190002" ROE_NEW="1" range="5" round="0" object="4" rate="1000" status_rate="1000" name="10000016" icon="worldboss_skill2" />
+  <ItemSpec id="190003" ROE_NEW="1" range="5" object="2" object_num="3" rate="300" status_rate="1000" name="10000017" icon="worldboss_skill3" />
+  <ItemSpec id="190004" ROE_NEW="1" range="5" round="4;5;6;7;8" object="1" object_num="2" effect="151;300" rate="1000" times="10" status_rate="1000" name="10000074" icon="worldboss_skill1" />
+  <ItemSpec id="190005" ROE_NEW="1" range="5" round="0" object="4" rate="1000" status_rate="1000" name="10000076" icon="worldboss_skill2" />
+  <ItemSpec id="190006" ROE_NEW="1" range="5" object="2" object_num="3" rate="500" status_rate="1000|1000" name="10000075" icon="worldboss_skill3" />
+  <ItemSpec id="190007" ROE_NEW="1" range="5" round="0" object="4" object_num="3" status_rate="1000" name="10000065" icon="worldboss_skill4" />
+  <ItemSpec id="190008" ROE_NEW="1" range="5" object="2" object_num="3" effect="151;300" rate="1000" status_rate="1000" name="10000066" icon="worldboss_skill5" />
+  <ItemSpec id="190009" ROE_NEW="1" range="5" round="0" object="4" object_num="3" status_rate="1000" name="10000067" icon="worldboss_skill6" />
+  <ItemSpec id="191001" ROE_NEW="1" range="5" isSet="1" round="0" name="ZQ11000013" icon="dragongear_activeskill2" />
+  <ItemSpec id="104007" ROE_NEW="1" range="5" object="3" object_num="1" name="90821339" icon="FB_IC_buqu_SKILL" />
+  <ItemSpec id="104008" ROE_NEW="1" range="5" round="0" object="4" object_num="3" name="90821541" icon="FB_IC_qianggong_SKILL" />
+  <ItemSpec id="104009" ROE_NEW="1" range="5" object="2" object_num="3" name="90821640" icon="FB_IC_nianya_SKILL" />
+  <ItemSpec id="110041" ROE_NEW="1" range="10" rate="150" status_rate="1000" />
+  <ItemSpec id="110042" ROE_NEW="1" range="10" rate="150" status_rate="1000" />
+  <ItemSpec id="110043" ROE_NEW="1" range="10" rate="150" status_rate="1000" />
+  <ItemSpec id="110044" ROE_NEW="1" range="10" rate="150" status_rate="1000" />
+  <ItemSpec id="110045" ROE_NEW="1" range="10" rate="150" status_rate="1000" />
+  <ItemSpec id="110046" ROE_NEW="1" range="10" rate="150" status_rate="1000" />
+  <ItemSpec id="110047" ROE_NEW="1" range="10" rate="150" status_rate="1000" />
+  <ItemSpec id="110048" ROE_NEW="1" range="10" rate="150" status_rate="1000" />
+  <ItemSpec id="110049" ROE_NEW="1" range="3" object="1" object_num="1" effect="151;75|31024;55" effect_add="151;25|31024;5" effect_alv="151;2" rate="800" name="5610967" icon="ROE_hs_xide1_zhandou" aoe_animation="fire_arrow" />
+  <ItemSpec id="110050" ROE_NEW="1" range="3" ready="1" object="2" object_num="2" effect="151;75" effect_add="151;25" effect_alv="151;2" rate="450" status_rate="1000" name="5610968" icon="ROE_hs_xide2_zhandou" aoe_animation="hit_aoe" />
+  <ItemSpec id="110051" ROE_NEW="1" range="3" round="1;2;3;4;5;6;7;8" object="4" object_num="2" rate="700" status_rate="1000|1000" name="5610969" icon="ROE_hs_xide3_zhandou" />
+  <ItemSpec id="110052" ROE_NEW="1" range="5" object="1" object_num="1" effect="151;-24" effect_add="151;9" effect_alv="151;1" rate="750" status_rate="1000" name="5610970" icon="ROE_hs_beilisaliu1_zhandou" />
+  <ItemSpec id="110053" ROE_NEW="1" range="5" object="1" object_num="1" effect="151;-24" effect_add="151;9" effect_alv="151;1" rate="1000" status_rate="1000" name="5610970" icon="ROE_hs_beilisaliu1_zhandou" />
+  <ItemSpec id="110054" ROE_NEW="1" range="5" round="1;2;3;4;5;6;7;8" object="1" object_num="1" effect="151;21|800017;21" effect_add="151;12|800017;12" effect_alv="151;1|800017;1" rate="700" status_rate="1000|1000" name="5610971" icon="ROE_hs_beilisaliu2_zhandou" aoe_animation="hit_aoe" />
+  <ItemSpec id="110055" ROE_NEW="1" range="0" round="1;2;3;4;5;6;7;8" object="3" object_num="1" rate="1000" status_rate="1000" name="5610972" icon="ROE_hs_beilisaliu3_zhandou" />
+  <ItemSpec id="110057" ROE_NEW="1" range="4" object="2" object_num="2" effect="151;55" effect_add="151;5" effect_alv="151;0.5" rate="600" status_rate="1000" name="qq000024" icon="ROE_hs_piping2_zhandou" />
+  <ItemSpec id="110058" ROE_NEW="1" range="2" object="4" object_num="2" rate="1000" status_rate="1000" name="qq000027" icon="ROE_hs_piping3_zhandou" />
+  <ItemSpec id="110059" ROE_NEW="1" range="4" round="1;2;3" object="4" object_num="3" effect="313;22" effect_add="313;2" rate="1000" status_rate="1000" name="qq000030" icon="ROE_hs_piping1_zhandou" />
+  <ItemSpec id="110060" ROE_NEW="1" range="4" round="4;5;6;7;8" effect="151;80" effect_add="151;5" rate="1000" status_rate="1000" name="qq000024" icon="ROE_hs_piping2_zhandou" />
+  <ItemSpec id="110061" ROE_NEW="1" range="4" ready="1" object="2" object_num="2" effect="151;120" effect_add="151;30" rate="500" status_rate="1000" name="jl0061" icon="ROE_hs_heitaizi1_zhandou" />
+  <ItemSpec id="110062" ROE_NEW="1" range="3" object="2" object_num="2" rate="600" status_rate="1000|1000" name="jl0062" icon="ROE_hs_heitaizi2_zhandou" />
+  <ItemSpec id="110063" ROE_NEW="1" range="4" object="2" object_num="2" rate="170" rate_add="20" times="2" status_rate="333:333:334" name="jl0063" icon="ROE_hs_heitaizi3_zhandou" />
+  <ItemSpec id="110064" ROE_NEW="1" range="4" ready="1" object="2" object_num="2" effect="151;40" effect_add="151;10" effect_alv="151;2" rate="450" name="jl0064" icon="ROE_hs_junshitanding1_zhandou" />
+  <ItemSpec id="110065" ROE_NEW="1" range="4" object="2" object_num="2" effect="151;-10" effect_add="151;7" effect_alv="151;1" rate="400" status_rate="1000" name="jl0065" icon="ROE_hs_junshitanding2_zhandou" />
+  <ItemSpec id="110066" ROE_NEW="1" range="4" object="1" object_num="1" effect="151;60" effect_add="151;16" rate="800" name="jl0066" icon="ROE_hs_junshitanding3_zhandou" />
+  <ItemSpec id="110067" ROE_NEW="1" range="4" object="2" object_num="2" effect="151;10" effect_add="151;10" effect_alv="151;1" rate="400" status_rate="1000" name="jl0067" icon="ROE_hs_shixingwang1_zhandou" />
+  <ItemSpec id="110068" ROE_NEW="1" range="5" ready="1" object="2" object_num="2" effect="151;30" effect_add="151;12" effect_alv="151;1" rate="500" name="jl0068" icon="ROE_hs_shixingwang2_zhandou" />
+  <ItemSpec id="110069" ROE_NEW="1" range="5" object="1" object_num="1" effect="151;30" effect_add="151;12" effect_alv="151;1" rate="1000" name="jl0068" icon="ROE_hs_shixingwang2_zhandou" />
+  <ItemSpec id="110070" ROE_NEW="1" range="5" ready="1" object="2" object_num="3" effect="151;90" effect_add="151;17" rate="600" name="jl0069" icon="ROE_hs_shixingwang3_zhandou" aoe_animation="hit_aoe" />
+  <ItemSpec id="110071" ROE_NEW="1" range="5" object="3" object_num="1" rate="1000" status_rate="1000" />
+  <ItemSpec id="110072" ROE_NEW="1" range="0" object="3" object_num="1" rate="800" status_rate="1000" name="jl0070" icon="ROE_hs_muhanmode1_zhandou" />
+  <ItemSpec id="110073" ROE_NEW="1" range="0" round="0" object="3" object_num="1" rate="1000" status_rate="1000" name="jl0071" icon="ROE_hs_muhanmode2_zhandou" />
+  <ItemSpec id="110074" ROE_NEW="1" range="0" round="1;2;3;4" object="3" object_num="1" rate="1000" status_rate="1000" name="jl0072" icon="ROE_hs_muhanmode3_zhandou" />
+  <ItemSpec id="110075" ROE_NEW="1" range="3" object="4" object_num="3" rate="1000" status_rate="1000|1000" name="jl0073" icon="ROE_hs_aidehua1_zhandou" />
+  <ItemSpec id="110076" ROE_NEW="1" range="3" object="1" object_num="1" effect="151;100" effect_add="151;20" effect_alv="151;2" rate="350" status_rate="1000" name="jl0074" icon="ROE_hs_aidehua2_zhandou" />
+  <ItemSpec id="110077" ROE_NEW="1" range="3" round="3;4;5;6;7;8" object="4" object_num="2" rate="1000" status_rate="1000" name="jl0075" icon="ROE_hs_aidehua3_zhandou" />
+  <ItemSpec id="110078" ROE_NEW="1" range="4" object="2" object_num="2" effect="151;15" effect_add="151;10" effect_alv="151;1" rate="400" status_rate="1000" name="jl0076" icon="ROE_hs_chaliman1_zhandou" />
+  <ItemSpec id="110079" ROE_NEW="1" range="3" round="1;2;3;4" object="4" object_num="2" rate="1000" status_rate="1000" name="jl0077" icon="ROE_hs_chaliman2_zhandou" />
+  <ItemSpec id="110080" ROE_NEW="1" range="4" object="1" object_num="1" effect="151;140" effect_add="151;30" rate="500" status_rate="1000" name="jl0078" icon="ROE_hs_chaliman3_zhandou" />
+  <ItemSpec id="110081" ROE_NEW="1" range="5" object="2" object_num="2" effect="151;-40" effect_add="151;8" effect_alv="151;0.5" rate="800" name="jl0079" icon="ROE_hs_caochao1_zhandou" />
+  <ItemSpec id="110082" ROE_NEW="1" range="0" object="3" object_num="1" rate="1000" status_rate="1000" name="jl0080" icon="ROE_hs_caochao2_zhandou" />
+  <ItemSpec id="110083" ROE_NEW="1" range="5" object="1" object_num="1" effect="151;80" effect_add="151;24" rate="500" status_rate="1000" name="jl0081" icon="ROE_hs_caochao3_zhandou" aoe_animation="fire_arrow" />
+  <ItemSpec id="110084" ROE_NEW="1" range="4" ready="1" object="2" object_num="3" rate="500" status_rate="1000" name="jl0082" icon="ROE_hs_chengjisihan1_zhandou" />
+  <ItemSpec id="110085" ROE_NEW="1" range="5" object="2" object_num="2" effect="151;-20" effect_add="151;8" effect_alv="151;1" rate="500" name="jl0083" icon="ROE_hs_chengjisihan2_zhandou" />
+  <ItemSpec id="110086" ROE_NEW="1" range="5" object="3" object_num="3" effect="151;-20" effect_add="151;8" effect_alv="151;1" rate="500" name="jl0083" icon="ROE_hs_chengjisihan2_zhandou" aoe_animation="hit_aoe" />
+  <ItemSpec id="110087" ROE_NEW="1" range="3" object="4" object_num="2" effect="313;80" effect_add="313;8" rate="1000" name="jl0084" icon="ROE_hs_chengjisihan3_zhandou" />
+  <ItemSpec id="110088" ROE_NEW="1" range="3" object="2" object_num="3" effect="151;-30" effect_add="151;8" effect_alv="151;1" rate="400" name="jl0085" icon="ROE_hs_qijiguang1_zhandou" />
+  <ItemSpec id="110089" ROE_NEW="1" range="4" object="2" object_num="2" effect="151;-20" effect_add="151;10" effect_alv="151;1" rate="400" status_rate="1000" name="jl0086" icon="ROE_hs_qijiguang2_zhandou" />
+  <ItemSpec id="110090" ROE_NEW="1" range="3" object="3" object_num="1" rate="1000" status_rate="1000" name="jl0087" icon="ROE_hs_qijiguang3_zhandou" />
+  <ItemSpec id="110092" ROE_NEW="1" range="4" object="2" object_num="2" effect="151;41" effect_add="151;16" effect_alv="151;1" rate="350" status_rate="1000|1000" name="jl0125" icon="ROE_hs_aerfuleide1_zhandou" aoe_animation="fire_arrow" />
+  <ItemSpec id="110093" ROE_NEW="1" range="4" object="2" object_num="3" effect="151;108" effect_add="151;26" effect_alv="151;1" rate="300" name="jl0126" icon="ROE_hs_aerfuleide2_zhandou" aoe_animation="fire_arrow" />
+  <ItemSpec id="110094" ROE_NEW="1" range="4" object="4" object_num="3" effect="151;-60" effect_add="151;5" effect_alv="151;0.2" rate="1000" name="jl0126" icon="ROE_hs_aerfuleide2_zhandou" />
+  <ItemSpec id="110095" ROE_NEW="1" range="0" object="3" object_num="1" rate="1000" status_rate="1000|1000" name="jl0127" icon="ROE_hs_aerfuleide3_zhandou" />
+  <ItemSpec id="110096" ROE_NEW="1" range="5" object="2" object_num="3" rate="1000" status_rate="1000" name="jl0128" icon="ROE_hs_ruoang1_zhandou" />
+  <ItemSpec id="110097" ROE_NEW="1" range="5" object="2" object_num="3" effect="151;61" effect_add="151;19" effect_alv="151;1" rate="1000" name="jl0128" icon="ROE_hs_ruoang1_zhandou" aoe_animation="fire_arrow" />
+  <ItemSpec id="110098" ROE_NEW="1" range="5" object="4" object_num="3" effect="151;-60" effect_add="151;5" effect_alv="151;0.2" rate="1000" name="jl0128" icon="ROE_hs_ruoang1_zhandou" aoe_animation="fire_arrow" />
+  <ItemSpec id="110099" ROE_NEW="1" range="5" object="2" object_num="2" effect="151;73" effect_add="151;22" effect_alv="151;1" rate="400" name="jl0129" icon="ROE_hs_ruoang2_zhandou" aoe_animation="fire_arrow" />
+  <ItemSpec id="110100" ROE_NEW="1" range="5" name="jl0129" icon="ROE_hs_ruoang2_zhandou" />
+  <ItemSpec id="110101" ROE_NEW="1" range="3" object="4" object_num="3" rate="1000" status_rate="1000" name="jl0130" icon="ROE_hs_ruoang3_zhandou" />
+  <ItemSpec id="110102" ROE_NEW="1" range="3" object="4" object_num="3" rate="1000" status_rate="1000|1000" name="jl0130" icon="ROE_hs_ruoang3_zhandou" />
+  <ItemSpec id="110103" ROE_NEW="1" range="3" object="2" object_num="2" effect="151;-20" effect_add="151;11" effect_alv="151;0.2" rate="400" status_rate="1000" name="jl0131" icon="ROE_hs_daliushi1_zhandou" />
+  <ItemSpec id="110104" ROE_NEW="1" range="3" round="0" object="4" object_num="3" rate="1000" status_rate="1000" name="jl0132" icon="ROE_hs_daliushi2_zhandou" />
+  <ItemSpec id="110105" ROE_NEW="1" range="3" object="2" object_num="2" effect="151;50" effect_add="151;18" rate="450" status_rate="1000" name="jl0133" icon="ROE_hs_daliushi3_zhandou" aoe_animation="fire_arrow" />
+
+
+<ItemSpec id="110106" ROE_NEW="1" range="3" cooldown="1" object="1" object_num="1" effect="151;-21" effect_add="151;9" effect_alv="151;1" rate="600" times="5" name="jl0153" icon="ROE_hs_ayuwang1_zhandou" />
+<ItemSpec id="110107" ROE_NEW="1" range="3" cooldown="1" object="2" object_num="2" effect="151;70" effect_add="151;22" effect_alv="151;2" rate="650" status_rate="1000" name="jl0154" icon="ROE_hs_ayuwang2_zhandou" aoe_animation="fire_arrow" />
+<ItemSpec id="110108" ROE_NEW="1" range="2" object="4" object_num="2" effect="313;105" effect_add="313;9" rate="1000" status_rate="1000" name="jl0155" icon="ROE_hs_ayuwang3_zhandou" />
+<ItemSpec id="110109" ROE_NEW="1" range="5" object="2" object_num="3" effect="151;14" effect_add="151;12" effect_alv="151;1" rate="900" status_rate="1000" name="jl0156" icon="ROE_hs_aisaierfulaide1_zhandou" aoe_animation="fire_arrow" />
+<ItemSpec id="110110" ROE_NEW="1" range="4" object="2" object_num="2" effect="151;36" effect_add="151;13" effect_alv="151;1" rate="600" status_rate="1000" name="jl0157" icon="ROE_hs_aisaierfulaide2_zhandou" aoe_animation="fire_arrow" />
+<ItemSpec id="110111" ROE_NEW="1" range="4" object="2" object_num="2" effect="151;60" effect_add="151;10" effect_alv="151;1" rate="600" status_rate="1000" name="jl0157" icon="ROE_hs_aisaierfulaide2_zhandou" aoe_animation="fire_arrow" />
+<ItemSpec id="110112" ROE_NEW="1" range="5" object="1" object_num="1" effect="151;134" effect_add="151;32" rate="650" name="jl0158" icon="ROE_hs_aisaierfulaide3_zhandou" />
+<ItemSpec id="110113" ROE_NEW="1" range="5" object="3" object_num="1" rate="1000" status_rate="1000" name="jl0158" icon="ROE_hs_aisaierfulaide3_zhandou" />
+  <ItemSpec id="110114" ROE_NEW="1" range="6" round="0" object="4" object_num="3" rate="1000" status_rate="1000|1000" name="jl0159" icon="ROE_hs_lameixisiershi1_zhandou" />
+  <ItemSpec id="110115" ROE_NEW="1" range="2" round="0" object="4" object_num="3" rate="1000" status_rate="1000" />
+  <ItemSpec id="110116" ROE_NEW="1" range="2" round="0" object="4" object_num="3" rate="1000" status_rate="1000" name="jl0160" icon="ROE_hs_lameixisiershi2_zhandou" />
+  <ItemSpec id="110117" ROE_NEW="1" range="2" object="4" object_num="3" effect="313;103" effect_add="313;15" rate="1000" status_rate="1000" name="jl0161" icon="ROE_hs_lameixisiershi3_zhandou" />
+  <ItemSpec id="110118" ROE_NEW="1" range="4" ready="1" object="2" object_num="2" effect="151;70" effect_add="151;23" effect_alv="151;2" rate="500" status_rate="1000" name="jl0162" icon="ROE_hs_zhende1_zhandou" aoe_animation="fire_arrow" />
+  <ItemSpec id="110119" ROE_NEW="1" range="2" ready="1" object="4" object_num="2" rate="650" status_rate="1000" name="jl0163" icon="ROE_hs_zhende2_zhandou" />
+  <ItemSpec id="110120" ROE_NEW="1" range="2" object="4" object_num="3" rate="1000" status_rate="1000" name="jl0164" icon="ROE_hs_zhende3_zhandou" round="0" />
+  <ItemSpec id="110121" ROE_NEW="1" range="2" object="4" object_num="3" rate="800" status_rate="1000" name="jl0164" icon="ROE_hs_zhende3_zhandou" />
+
+<ItemSpec id="192001" ROE_NEW="1" range="5" round="0" object="4" object_num="3" rate="1000" status_rate="1000" name="12000137" icon="soldier_skill_1" />
+<ItemSpec id="192002" ROE_NEW="1" range="5" round="0" object="4" object_num="3" rate="1000" status_rate="1000" name="12000138" icon="soldier_skill_2" />
+<ItemSpec id="192003" ROE_NEW="1" range="5" round="0" object="4" object_num="3" rate="1000" status_rate="1000" name="12000139" icon="soldier_skill_3" />
+<ItemSpec id="192004" ROE_NEW="1" range="5" round="0" object="4" object_num="3" rate="1000" status_rate="1000" name="12000137" icon="soldier_skill_4" />
+<ItemSpec id="192005" ROE_NEW="1" range="5" round="0" object="4" object_num="3" rate="1000" status_rate="1000" name="12000138" icon="soldier_skill_5" />
+<ItemSpec id="192006" ROE_NEW="1" range="5" round="0" object="4" object_num="3" rate="1000" status_rate="1000" name="12000139" icon="soldier_skill_6" />
+<ItemSpec id="110019" ROE_NEW="1" range="20" round="2;4;6;8" object="2" object_num="3" effect="151;65" effect_add="151;5" rate="1000" name="5609272" />
+<ItemSpec id="190010" ROE_NEW="1" range="5" round="1;4" ready="2" object="2" object_num="3" effect="151;3000" rate="1000" times="3" name="10000114" icon="worldboss_skill7" />
+<ItemSpec id="190011" ROE_NEW="1" range="5" round="0" object="4" object_num="3" rate="1000" status_rate="1000|1000" name="10000115" icon="worldboss_skill8" />
+<ItemSpec id="190012" ROE_NEW="1" range="5" round="0" object="2" object_num="3" status_rate="1000|1000|1000" name="10000116" icon="worldboss_skill9" />
+  <ItemSpec id="110122" ROE_NEW="1" range="2" round="0" object="4" object_num="1" rate="1000" status_rate="1000" name="jl0175" icon="ROE_wanshouzhihou1_pifu" status_times="3" />
+  <ItemSpec id="110123" ROE_NEW="1" range="3" round="1;2;3;4;5;6;7;8" object="124" object_num="1" effect="313;51" effect_add="313;4.5" effect_alv="313;0.5" rate="1000" status_rate="500:500" name="jl0193" icon="ROE_zhifaren1_pifu" />
+  <ItemSpec id="110124" ROE_NEW="1" range="2" round="0" object="4" object_num="3" rate="1000" name="jl0177" icon="ROE_huoli_pifu" />
+<ItemSpec id="110020" ROE_NEW="1" range="20" round="2;4;6;8" object="2" object_num="3" effect="151;90" effect_add="151;5" rate="1000" status_rate="1000" name="12004004" />
+  <ItemSpec id="400000" ROE_NEW="1" range="5" object="4" object_num="2" rate="1000" status_rate="1000" name="jl0199" icon="FB_hanxuema1_pifu" status_times="3" round="0" />
+  <ItemSpec id="400001" ROE_NEW="1" range="5" object="2" object_num="2" rate="1000" status_rate="1000" name="jl0199" icon="FB_hanxuema1_pifu" status_times="3" round="0" />
+  <ItemSpec id="400002" ROE_NEW="1" range="2" round="0" object="4" object_num="3" rate="1000" status_rate="1000|1000" name="jl0179" icon="ROE_yuhe_pifu" />
+  <ItemSpec id="400003" ROE_NEW="1" range="5" object="2" object_num="3" effect="151;109" effect_add="151;18" rate="1000" status_rate="1000" name="jl0207" icon="FB_aijiyanhou3_pifu" status_times="2" />
+  <ItemSpec id="400004" ROE_NEW="1" range="5" effect="151;109" effect_add="151;18" rate="500" name="jl0207" icon="FB_aijiyanhou3_pifu" aoe_animation="helicopter_shoot" />
+  <ItemSpec id="400005" ROE_NEW="1" range="0" object="3" object_num="1" rate="1000" status_rate="1000" />
+  <ItemSpec id="400006" ROE_NEW="1" range="2" round="0" object="4" object_num="3" rate="1000" status_rate="1000|1000" name="jl0179" icon="ROE_kongju_pifu" />
+  <ItemSpec id="400007" ROE_NEW="1" range="4" object="4" object_num="3" rate="120" rate_add="20" status_rate="1000" name="jl0203" icon="FB_qiangweijian2_pifu" status_times="1" />
+  <ItemSpec id="400008" ROE_NEW="1" range="2" round="0" object="4" object_num="3" rate="1000" status_rate="1000|1000" name="jl0178" icon="ROE_xinnian_pifu" />
+<ItemSpec id="400009" ROE_NEW="1" range="5" ready="1" object="2" object_num="2" effect="151;172" effect_add="151;19" rate="600" name="jl0223" icon="FB_xuebeng2_pifu" />
+<ItemSpec id="400010" ROE_NEW="1" range="2" round="0" object="4" object_num="3" rate="1000" status_rate="1000|1000" name="jl0176" icon="ROE_zhuanzhu_pifu" />
+<ItemSpec id="190013" ROE_NEW="1" range="5" round="1;2" object="2" object_num="2" effect="151;200" rate="1000" status_rate="1000" name="12008010" icon="worldboss_skill10" />
+<ItemSpec id="190014" ROE_NEW="1" range="5" round="0" object="3" rate="1000" status_rate="1000" name="12008011" icon="worldboss_skill11" />
+<ItemSpec id="190015" ROE_NEW="1" range="5" object="1" object_num="1" effect="151;300" rate="500" status_rate="1000" name="12008012" icon="worldboss_skill12" />
+<ItemSpec id="400011" ROE_NEW="1" range="5" object="2" object_num="1" effect="916;91" effect_add="916;23" rate="400" times="2" status_rate="1000" name="jl0227" icon="FB_bumiezhe2_pifu" aoe_animation="hit_aoe" />
+<ItemSpec id="400012" ROE_NEW="1" range="2" round="0" object="4" object_num="3" rate="1000" status_rate="1000|1000" name="jl0197" icon="ROE_yongqi_pifu" />
+<ItemSpec id="400013" ROE_NEW="1" range="2" object="4" object_num="3" rate="1000" status_rate="1000|1000" name="jl0231" icon="FB_changsheng2_pifu" />
+<ItemSpec id="400014" ROE_NEW="1" range="5" cooldown="1" object="2" object_num="1" effect="151;-8" effect_add="151;9" rate="400" times="5" status_rate="1000|1000|1000" name="jl0234" icon="FB_xinghong2_pifu" aoe_animation="helicopter_shoot" />
+<ItemSpec id="400015" ROE_NEW="1" range="4" object="2" object_num="1" effect="916;217" effect_add="916;34" rate="400" status_rate="1000" name="jl0237" icon="FB_suominggui3_pifu" aoe_animation="helicopter_shoot" status_times="1" />
+<ItemSpec id="400016" ROE_NEW="1" range="2" round="0" object="4" object_num="3" rate="1000" status_rate="1000|1000" name="jl0181" icon="ROE_menggong_pifu" />
+<ItemSpec id="400017" ROE_NEW="1" range="2" object="4" object_num="3" rate="1000" status_rate="1000|1000|1000" name="jl0240" icon="FB_shouwangzhe3_pifu" />
+<ItemSpec id="400018" ROE_NEW="1" range="2" round="0" object="4" object_num="3" rate="1000" status_rate="1000|1000" name="jl0184" icon="ROE_tiaohe_pifu" />
+<ItemSpec id="400019" ROE_NEW="1" range="1" object="3" object_num="1" rate="1000" status_rate="1000|1000|1000|1000" name="jl0243" icon="FB_yulinyouxia2_pifu" />
+<ItemSpec id="400020" ROE_NEW="1" range="2" round="1;3;5;6;7" object="4" object_num="1" rate="550" rate_add="50" status_rate="1000|700" name="jl0246" icon="FB_wuzun2_pifu" />
+<ItemSpec id="400021" ROE_NEW="1" range="2" round="0" object="4" object_num="3" rate="1000" status_rate="1000|1000" name="jl0178" icon="ROE_xinnian_pifu" />
+<ItemSpec id="400022" ROE_NEW="1" range="5" object="2" object_num="3" rate="1000" status_rate="1000|1000|1000" name="jl0249" icon="FB_shamofengbao2_pifu" />
+<ItemSpec id="400023" ROE_NEW="1" range="5" object="2" object_num="1" rate="340" rate_add="40" status_rate="1000" name="jl0252" icon="FB_yongdudashi3_pifu" />
+<ItemSpec id="400024" ROE_NEW="1" range="2" round="0" object="4" object_num="3" rate="1000" status_rate="1000|1000" name="jl0176" icon="ROE_xinyan_pifu" />
+<ItemSpec id="400025" ROE_NEW="1" range="5" cooldown="1" object="1" object_num="1" effect="151;119" effect_add="151;28" rate="800" status_rate="1000" name="jl0256" icon="FB_caocao2_pifu" aoe_animation="fire_arrow" />
+<ItemSpec id="400026" ROE_NEW="1" range="0" round="0" object="3" object_num="1" rate="1000" status_rate="1000|1000|1000|1000" name="jl0259" icon="FB_yasewang3_pifu" />
+<ItemSpec id="400027" ROE_NEW="1" range="0" round="4" object="3" object_num="1" rate="1000" status_rate="1000" />
+<ItemSpec id="400028" ROE_NEW="1" range="2" round="0" object="4" object_num="3" rate="1000" status_rate="1000|1000" name="jl0183" icon="ROE_bihu_pifu" />
+<ItemSpec id="400029" ROE_NEW="1" range="5" ready="1" object="2" object_num="3" effect="151;121" effect_add="151;21" rate="650" name="jl0262" icon="FB_shixinwang2_pifu" aoe_animation="hit_aoe" />
+<ItemSpec id="400030" ROE_NEW="1" range="5" object="3" object_num="1" rate="1000" status_rate="1000" />
+<ItemSpec id="400031" ROE_NEW="1" range="5" round="1;2;3;4;5;6;7;8" object="2" effect="151;-5" effect_add="151;7" rate="1000" times="2" name="jl0265" icon="FB_lilisi3_pifu" aoe_animation="helicopter_shoot" />
+<ItemSpec id="400032" ROE_NEW="1" range="5" object="4" object_num="3" rate="1000" status_rate="1000|1000" name="jl0265" icon="FB_lilisi3_pifu" />
+<ItemSpec id="400033" ROE_NEW="1" range="3" ready="1" object="2" object_num="2" effect="151;40" effect_add="151;16" rate="600" status_rate="1000|1000" name="jl0273" icon="FB_heitaizi2_pifu" />
+<ItemSpec id="110125" ROE_NEW="1" range="5" object="1" object_num="1" effect="916;144" effect_add="916;30" rate="700" status_rate="1000" name="PQ10000035" icon="ROE_hs_mandingxiongshi3_zhandou" />
+<ItemSpec id="110126" ROE_NEW="1" range="5" round="0" object="3" object_num="1" rate="1000" status_rate="1000" name="PQ10000035" icon="ROE_hs_mandingxiongshi3_zhandou" />
+<ItemSpec id="110127" ROE_NEW="1" range="5" object="1" object_num="1" effect="916;103" effect_add="916;26" effect_alv="916;2" rate="400" status_rate="1000" name="PQ10000033" icon="ROE_hs_mandingxiongshi1_zhandou" />
+<ItemSpec id="110128" ROE_NEW="1" range="5" object="2" object_num="1" effect="916;48" effect_add="916;18" effect_alv="916;2" rate="450" times="2" name="PQ10000034" icon="ROE_hs_mandingxiongshi2_zhandou" aoe_animation="fire_arrow" />
+<ItemSpec id="110129" ROE_NEW="1" range="5" object="2" object_num="1" effect="916;122" effect_add="916;27" effect_alv="916;3" rate="1000" name="PQ10000034" icon="ROE_hs_mandingxiongshi2_zhandou" aoe_animation="fire_arrow" />
+<ItemSpec id="110130" ROE_NEW="1" range="5" cooldown="1" object="2" object_num="1" effect="151;-26" effect_add="151;9" effect_alv="151;0.5" rate="600" times="3" status_rate="500|500" name="PQ10000036" icon="ROE_hs_keluoweiyishi1_zhandou" />
+<ItemSpec id="110131" ROE_NEW="1" range="3" object="4" object_num="1" effect="313;81" effect_add="313;11" rate="400" times="3" name="PQ10000037" icon="ROE_hs_keluoweiyishi2_zhandou" />
+<ItemSpec id="110132" ROE_NEW="1" range="4" object="1" object_num="1" rate="1000" status_rate="1000" name="PQ10000038" icon="ROE_hs_keluoweiyishi3_zhandou" />
+<ItemSpec id="190016" ROE_NEW="1" range="5" round="0" object="4" object_num="3" rate="1000" status_rate="1000" name="12027000" icon="worldboss_skill13" />
+<ItemSpec id="190017" ROE_NEW="1" range="5" object="2" object_num="2" effect="916;200" rate="1000" status_rate="1000" name="12027001" icon="worldboss_skill14" />
+<ItemSpec id="190018" ROE_NEW="1" range="5" round="0" object="4" object_num="3" rate="1000" status_rate="1000" name="12027002" icon="worldboss_skill15" />
+<ItemSpec id="110133" ROE_NEW="1" range="3" object="1" object_num="1" effect="151;-4|31024;13" effect_add="151;6|31024;3" effect_alv="151;1" rate="700" times="3" name="qq000386" icon="ROE_hs_budika1_zhandou" aoe_animation="helicopter_shoot" />
+<ItemSpec id="110134" ROE_NEW="1" range="3" round="0" object="3" object_num="1" rate="1000" status_rate="1000" name="qq000387" icon="ROE_hs_budika2_zhandou" />
+<ItemSpec id="110135" ROE_NEW="1" range="3" round="1;2;3;4;5;6;7;8" object="3" object_num="1" rate="1000" status_rate="1000|1000" name="qq000387" icon="ROE_hs_budika2_zhandou" />
+<ItemSpec id="110136" ROE_NEW="1" range="3" object="2" object_num="1" effect="151;40" effect_add="151;40" rate="600" status_rate="1000" name="qq000388" icon="ROE_hs_budika3_zhandou" aoe_animation="helicopter_shoot" />
+<ItemSpec id="110137" ROE_NEW="1" range="3" round="0" object="2" object_num="2" rate="1000" status_rate="1000" name="qq000388" icon="ROE_hs_budika3_zhandou" />
+
+<ItemSpec id="400034" ROE_NEW="1" range="2" ready="1" object="4" object_num="3" rate="650" status_rate="1000" name="XGMsn10022" icon="ROE_hs_zhende2_zhandou" />
+<ItemSpec id="400035" ROE_NEW="1" range="4" round="2" object="4" object_num="3" effect="151;180" effect_add="151;23" effect_alv="151;4" rate="1000" name="XGMsn10023" icon="FB_luoyingshengong2_pifu" aoe_animation="fire_arrow" />
+<ItemSpec id="400036" ROE_NEW="1" range="3" round="0" object_num="1" rate="1000" status_rate="1000" name="XGMsn10023" icon="FB_luoyingshengong2_pifu" status_times="2" />
+<ItemSpec id="510000" ROE_NEW="1" range="10" round="0" object="4" object_num="3" rate="1000" />
+<ItemSpec id="510111" ROE_NEW="1" range="10" object="0" object_num="1" rate="500" status_rate="1000|1000" />
+<ItemSpec id="510215" ROE_NEW="1" range="10" round="0" object="0" object_num="3" rate="1000" status_rate="1000" />
+<ItemSpec id="510311" ROE_NEW="1" range="10" round="6" object="0" object_num="1" rate="80" />
+<ItemSpec id="510315" ROE_NEW="1" range="10" round="3;4;5;6" object="0" object_num="3" rate="1000" status_rate="1000" />
+<ItemSpec id="510411" ROE_NEW="1" range="10" round="4" object="0" object_num="3" rate="1000" status_rate="1000" />
+<ItemSpec id="510415" ROE_NEW="1" range="10" round="1;2;3;4" object="0" object_num="1" rate="200" status_rate="1000" />
+<ItemSpec id="510519" ROE_NEW="1" range="10" object="0" object_num="1" effect="313;30" rate="350" isBattleskill="1" />
+<ItemSpec id="510125" ROE_NEW="1" range="10" round="1;2;3;4" object="0" object_num="1" rate="200" status_rate="1000" />
+<ItemSpec id="510225" ROE_NEW="1" range="10" round="1;2;3;4;5;6;7;8" object="0" object_num="3" rate="1000" status_rate="1000" />
+<ItemSpec id="510325" ROE_NEW="1" range="10" round="0" object="0" object_num="3" rate="1000" status_rate="1000" />
+<ItemSpec id="510421" ROE_NEW="1" range="10" round="6" object="0" object_num="3" rate="1000" status_rate="1000" />
+<ItemSpec id="510529" ROE_NEW="1" range="10" round="2;4;6;8" object="0" object_num="1" rate="200" status_rate="1000" isBattleskill="1" />
+<ItemSpec id="510131" ROE_NEW="1" range="10" object="0" object_num="1" rate="500" status_rate="1000|1000" />
+<ItemSpec id="510235" ROE_NEW="1" range="10" round="1;2;3;4" object="0" object_num="1" rate="200" status_rate="1000" />
+<ItemSpec id="510331" ROE_NEW="1" range="10" round="4" object="0" object_num="1" rate="80" />
+<ItemSpec id="510335" ROE_NEW="1" range="10" round="3;4;5;6" object="0" object_num="3" rate="1000" status_rate="1000" />
+<ItemSpec id="510431" ROE_NEW="1" range="10" round="2" object="0" object_num="3" rate="1000" status_rate="1000" />
+<ItemSpec id="510435" ROE_NEW="1" range="10" round="0" object="0" object_num="3" rate="1000" status_rate="1000" />
+<ItemSpec id="510539" ROE_NEW="1" range="10" round="1;2;3;4;5;6;7;8" object="0" object_num="3" rate="350" status_rate="1000" isBattleskill="1" />
+<ItemSpec id="510145" ROE_NEW="1" range="10" round="0" object="0" object_num="3" rate="1000" status_rate="1000" />
+<ItemSpec id="510245" ROE_NEW="1" range="10" round="0" object="0" object_num="3" rate="1000" status_rate="1000" />
+<ItemSpec id="510345" ROE_NEW="1" range="10" round="1;2;3;4" object="0" object_num="1" rate="200" status_rate="1000" />
+<ItemSpec id="510441" ROE_NEW="1" range="10" round="4" object="0" object_num="3" rate="1000" status_rate="1000" />
+<ItemSpec id="510549" ROE_NEW="1" range="10" round="2;4;6;8" object="0" object_num="3" rate="200" status_rate="1000" isBattleskill="1" />
+<ItemSpec id="520000" ROE_NEW="1" range="10" round="0" object="0" object_num="3" rate="1000" />
+<ItemSpec id="520111" ROE_NEW="1" range="10" object="0" object_num="1" rate="500" status_rate="1000" />
+<ItemSpec id="520215" ROE_NEW="1" range="10" round="0" object="0" object_num="3" rate="1000" status_rate="1000" />
+<ItemSpec id="520311" ROE_NEW="1" range="10" round="4" object="0" object_num="1" rate="80" status_rate="1000" />
+<ItemSpec id="520315" ROE_NEW="1" range="10" round="2;3;4" object="0" object_num="3" rate="1000" status_rate="1000" />
+<ItemSpec id="520411" ROE_NEW="1" range="10" round="5" object="0" object_num="3" rate="1000" status_rate="1000" />
+<ItemSpec id="520415" ROE_NEW="1" range="10" round="5;6;7;8" object="0" object_num="3" rate="200" status_rate="1000" />
+<ItemSpec id="520519" ROE_NEW="1" range="10" object="0" object_num="1" effect="313;120" rate="1000" isBattleskill="1" />
+<ItemSpec id="520125" ROE_NEW="1" range="10" round="2;4;6;8" object="0" object_num="3" rate="200" status_rate="1000" />
+<ItemSpec id="520225" ROE_NEW="1" range="10" round="1;2;3;4;5;6;7;8" object="0" object_num="3" rate="1000" status_rate="1000|1000" />
+<ItemSpec id="520325" ROE_NEW="1" range="10" round="0" object="0" object_num="3" rate="1000" status_rate="1000" />
+<ItemSpec id="520421" ROE_NEW="1" range="10" round="4" object="0" object_num="3" rate="200" status_rate="1000" />
+<ItemSpec id="520529" ROE_NEW="1" range="10" round="5;6;7;8" object="0" object_num="1" rate="80" status_rate="1000" isBattleskill="1" />
+<ItemSpec id="520131" ROE_NEW="1" range="10" object="0" object_num="1" rate="500" status_rate="1000" />
+<ItemSpec id="520235" ROE_NEW="1" range="10" round="2;4;6;8" object="0" object_num="3" rate="200" status_rate="1000" />
+<ItemSpec id="520331" ROE_NEW="1" range="10" round="2" object="0" object_num="1" rate="80" status_rate="1000" />
+<ItemSpec id="520335" ROE_NEW="1" range="10" round="5;6;7" object="0" object_num="3" rate="1000" status_rate="1000" />
+<ItemSpec id="520431" ROE_NEW="1" range="10" round="3" object="0" object_num="3" rate="1000" status_rate="1000" />
+<ItemSpec id="520435" ROE_NEW="1" range="10" round="0" object="0" object_num="3" rate="1000" status_rate="1000" />
+<ItemSpec id="520539" ROE_NEW="1" range="10" round="1;2;3;4;5;6;7;8" object="0" object_num="3" rate="350" status_rate="1000|1000" isBattleskill="1" />
+<ItemSpec id="520145" ROE_NEW="1" range="10" round="0" object="0" object_num="3" rate="1000" status_rate="1000" />
+<ItemSpec id="520245" ROE_NEW="1" range="10" round="1;2;3;4;5;6;7;8" object="0" object_num="3" rate="1000" status_rate="1000" />
+<ItemSpec id="520345" ROE_NEW="1" range="10" round="5;6;7;8" object="0" object_num="3" rate="200" status_rate="1000" />
+<ItemSpec id="520441" ROE_NEW="1" range="10" round="2" object="0" object_num="3" rate="200" status_rate="1000" />
+<ItemSpec id="520549" ROE_NEW="1" range="10" round="5;6;7;8" object="0" object_num="3" rate="150" status_rate="1000" isBattleskill="1" />
+<ItemSpec id="530000" ROE_NEW="1" range="10" round="0" object="0" object_num="3" rate="1000" />
+<ItemSpec id="530111" ROE_NEW="1" range="10" object="0" object_num="1" rate="500" status_rate="1000" />
+<ItemSpec id="530215" ROE_NEW="1" range="10" round="0" object="0" object_num="3" rate="1000" status_rate="1000" />
+<ItemSpec id="530311" ROE_NEW="1" range="10" round="5" object="0" object_num="2" rate="80" status_rate="1000" />
+<ItemSpec id="530315" ROE_NEW="1" range="10" round="2;3;4" object="0" object_num="3" rate="1000" status_rate="1000" />
+<ItemSpec id="530411" ROE_NEW="1" range="10" round="4" object="0" object_num="3" rate="1000" status_rate="1000" />
+<ItemSpec id="530415" ROE_NEW="1" range="10" round="3;4;5;6" object="0" object_num="1" rate="200" status_rate="1000" />
+<ItemSpec id="531415" ROE_NEW="1" range="10" object="0" object_num="1" rate="1000" status_rate="1000" />
+<ItemSpec id="530519" ROE_NEW="1" range="10" round="1;2;3;4" object="0" object_num="1" rate="80" status_rate="1000" isBattleskill="1" />
+<ItemSpec id="531519" ROE_NEW="1" range="10" object="0" object_num="1" rate="1000" status_rate="1000" isBattleskill="1" />
+<ItemSpec id="530125" ROE_NEW="1" range="10" round="3;4;5;6" object="0" object_num="1" rate="200" status_rate="1000" />
+<ItemSpec id="531125" ROE_NEW="1" range="10" object="0" object_num="1" rate="1000" status_rate="1000" />
+<ItemSpec id="530225" ROE_NEW="1" range="10" round="0" object="0" object_num="3" rate="1000" status_rate="1000" />
+<ItemSpec id="530325" ROE_NEW="1" range="10" round="0" object="0" object_num="3" rate="1000" status_rate="1000" />
+<ItemSpec id="530421" ROE_NEW="1" range="10" round="5" object="0" object_num="1" rate="200" status_rate="1000" />
+<ItemSpec id="530529" ROE_NEW="1" range="10" round="1;3;5;7" object="0" object_num="3" rate="350" status_rate="1000" isBattleskill="1" />
+<ItemSpec id="530131" ROE_NEW="1" range="10" object="0" object_num="1" rate="500" status_rate="1000" />
+<ItemSpec id="530235" ROE_NEW="1" range="10" round="1;3;5;7" object="0" object_num="1" rate="200" status_rate="1000" />
+<ItemSpec id="531235" ROE_NEW="1" range="10" object="0" object_num="1" rate="1000" status_rate="1000" />
+<ItemSpec id="530331" ROE_NEW="1" range="10" round="3" object="0" object_num="2" rate="80" status_rate="1000" />
+<ItemSpec id="530335" ROE_NEW="1" range="10" round="5;6;7" object="0" object_num="3" rate="1000" status_rate="1000" />
+<ItemSpec id="530431" ROE_NEW="1" range="10" round="2" object="0" object_num="3" rate="1000" status_rate="1000" />
+<ItemSpec id="530435" ROE_NEW="1" range="10" round="0" object="0" object_num="3" rate="1000" status_rate="1000" />
+<ItemSpec id="530539" ROE_NEW="1" range="10" round="1;2;3;4;5;6;7;8" object="0" object_num="3" rate="350" status_rate="1000" isBattleskill="1" />
+<ItemSpec id="530145" ROE_NEW="1" range="10" round="0" object="0" object_num="3" rate="1000" status_rate="1000" />
+<ItemSpec id="530245" ROE_NEW="1" range="10" round="0" object="0" object_num="3" rate="1000" status_rate="1000" />
+<ItemSpec id="530345" ROE_NEW="1" range="10" round="1;3;5;7" object="0" object_num="1" rate="200" status_rate="1000" />
+<ItemSpec id="531345" ROE_NEW="1" range="10" object="0" object_num="1" rate="1000" status_rate="1000" />
+<ItemSpec id="530441" ROE_NEW="1" range="10" round="3" object="0" object_num="1" rate="200" status_rate="1000" />
+<ItemSpec id="530549" ROE_NEW="1" range="10" round="2;3;4" object="0" object_num="1" rate="150" status_rate="1000" isBattleskill="1" />
+<ItemSpec id="120011" ROE_NEW="1" range="4" object="2" object_num="2" effect="151;-65" effect_add="151;10" effect_alv="151;2.5" rate="400" status_rate="1000" name="jl0067" icon="ROE_hs_shixingwang1_zhandou" />
+<ItemSpec id="120012" ROE_NEW="1" range="5" ready="1" object="2" object_num="2" effect="151;-42" effect_add="151;20" effect_alv="151;1" rate="500" name="jl0068" icon="ROE_hs_shixingwang2_zhandou" />
+<ItemSpec id="120013" ROE_NEW="1" range="5" object="1" object_num="1" effect="151;-42" effect_add="151;20" effect_alv="151;1" rate="1000" name="jl0068" icon="ROE_hs_shixingwang2_zhandou" />
+<ItemSpec id="120014" ROE_NEW="1" range="5" ready="1" object="2" object_num="3" effect="151;-18" effect_add="151;29" rate="330" rate_add="30" name="jl0069" icon="ROE_hs_shixingwang3_zhandou" aoe_animation="hit_aoe" />
+<ItemSpec id="120015" ROE_NEW="1" range="5" object="3" object_num="1" rate="1000" status_rate="1000" />
+<ItemSpec id="120021" ROE_NEW="1" range="0" object="3" object_num="1" rate="350" rate_add="50" status_rate="1000" name="jl0070" icon="ROE_hs_muhanmode1_zhandou" />
+<ItemSpec id="120022" ROE_NEW="1" range="0" round="0" object="3" object_num="1" rate="1000" status_rate="1000" name="jl0071" icon="ROE_hs_muhanmode2_zhandou" />
+<ItemSpec id="120023" ROE_NEW="1" range="0" round="1;2;3;4" object="3" object_num="1" rate="1000" status_rate="1000" name="jl0072" icon="ROE_hs_muhanmode3_zhandou" />
+<ItemSpec id="120031" ROE_NEW="1" range="5" object="2" object_num="2" effect="151;-63" effect_add="151;5" effect_alv="151;1.5" rate="350" rate_add="50" name="jl0079" icon="ROE_hs_caochao1_zhandou" />
+<ItemSpec id="120032" ROE_NEW="1" range="0" object="3" object_num="1" rate="1000" status_rate="1000" name="jl0080" icon="ROE_hs_caochao2_zhandou" />
+<ItemSpec id="120033" ROE_NEW="1" range="5" object="1" object_num="1" effect="151;-55" effect_add="151;39" rate="500" status_rate="1000" name="jl0081" icon="ROE_hs_caochao3_zhandou" aoe_animation="fire_arrow" />
+<ItemSpec id="120041" ROE_NEW="1" range="4" ready="1" object="2" object_num="3" rate="500" status_rate="1000" name="jl0082" icon="ROE_hs_chengjisihan1_zhandou" />
+<ItemSpec id="120042" ROE_NEW="1" range="5" object="2" object_num="2" effect="151;-83" effect_add="151;15" effect_alv="151;1" rate="500" name="jl0083" icon="ROE_hs_chengjisihan2_zhandou" />
+<ItemSpec id="120043" ROE_NEW="1" range="5" object="3" object_num="3" effect="151;-83" effect_add="151;15" effect_alv="151;1" rate="500" name="jl0083" icon="ROE_hs_chengjisihan2_zhandou" aoe_animation="hit_aoe" />
+<ItemSpec id="120044" ROE_NEW="1" range="3" object="4" object_num="2" effect="313;17" effect_add="313;15" rate="1000" name="jl0084" icon="ROE_hs_chengjisihan3_zhandou" />
+<ItemSpec id="120051" ROE_NEW="1" range="4" ready="1" object="2" object_num="2" effect="151;-55" effect_add="151;15" effect_alv="151;3" rate="450" name="jl0064" icon="ROE_hs_junshitanding1_zhandou" />
+<ItemSpec id="120052" ROE_NEW="1" range="4" object="2" object_num="2" effect="151;-82" effect_add="151;15" effect_alv="151;1" rate="400" status_rate="1000" name="jl0065" icon="ROE_hs_junshitanding2_zhandou" />
+<ItemSpec id="120053" ROE_NEW="1" range="4" object="1" object_num="1" effect="151;-30" effect_add="151;26" rate="350" rate_add="50" name="jl0066" icon="ROE_hs_junshitanding3_zhandou" />
+<ItemSpec id="120061" ROE_NEW="1" range="4" object="2" object_num="2" effect="151;-78" effect_add="151;12" effect_alv="151;2.5" rate="400" status_rate="1000" name="jl0076" icon="ROE_hs_chaliman1_zhandou" />
+<ItemSpec id="120062" ROE_NEW="1" range="3" round="1;2;3;4" object="4" object_num="2" rate="1000" status_rate="1000" name="jl0077" icon="ROE_hs_chaliman2_zhandou" />
+<ItemSpec id="120063" ROE_NEW="1" range="4" object="1" object_num="1" effect="151;-40" effect_add="151;50" rate="500" status_rate="1000" name="jl0078" icon="ROE_hs_chaliman3_zhandou" />
+<ItemSpec id="120071" ROE_NEW="1" range="3" object="2" object_num="3" effect="151;-73" effect_add="151;10" effect_alv="151;1.5" rate="400" name="jl0085" icon="ROE_hs_qijiguang1_zhandou" />
+<ItemSpec id="120072" ROE_NEW="1" range="4" object="2" object_num="2" effect="151;-65" effect_add="151;15" effect_alv="151;1" rate="400" status_rate="1000" name="jl0086" icon="ROE_hs_qijiguang2_zhandou" />
+<ItemSpec id="120073" ROE_NEW="1" range="3" object="3" object_num="1" rate="1000" status_rate="1000" name="jl0087" icon="ROE_hs_qijiguang3_zhandou" />
+<ItemSpec id="120081" ROE_NEW="1" range="3" object="4" object_num="3" rate="1000" status_rate="1000|1000" name="jl0073" icon="ROE_hs_aidehua1_zhandou" />
+<ItemSpec id="120082" ROE_NEW="1" range="3" object="1" object_num="1" effect="151;-53" effect_add="151;37" effect_alv="151;2" rate="350" status_rate="1000" name="jl0074" icon="ROE_hs_aidehua2_zhandou" />
+<ItemSpec id="120083" ROE_NEW="1" range="3" round="3;4;5;6;7;8" object="4" object_num="2" rate="1000" status_rate="1000" name="jl0075" icon="ROE_hs_aidehua3_zhandou" />
+<ItemSpec id="120091" ROE_NEW="1" range="4" object="2" object_num="2" rate="170" rate_add="20" times="2" status_rate="333:333:334" name="jl0063" icon="ROE_hs_heitaizi3_zhandou" />
+<ItemSpec id="120092" ROE_NEW="1" range="3" object="2" object_num="2" rate="600" status_rate="1000|1000" name="jl0062" icon="ROE_hs_heitaizi2_zhandou" />
+<ItemSpec id="120093" ROE_NEW="1" range="4" ready="1" object="2" object_num="2" effect="151;-33" effect_add="151;47" rate="500" status_rate="1000" name="jl0061" icon="ROE_hs_heitaizi1_zhandou" />
+<ItemSpec id="400037" ROE_NEW="1" range="2" round="0" object="4" object_num="3" rate="1000" status_rate="1000|1000" name="jl0178" icon="ROE_xinnian_pifu" />
+<ItemSpec id="110138" ROE_NEW="1" range="4" object="2" object_num="2" effect="916;-72" effect_add="916;22" effect_alv="916;4" rate="500" name="ST91051057" icon="ROE_hs_pangpei1_zhandou" aoe_animation="fire_arrow" />
+<ItemSpec id="110139" ROE_NEW="1" range="2" round="5;6;7;8" object="4" object_num="1" rate="1000" status_rate="1000" name="ST91051058" icon="ROE_hs_pangpei2_zhandou" />
+<ItemSpec id="110140" ROE_NEW="1" range="2" object="4" object_num="3" rate="1000" status_rate="1000" name="ST91051059" icon="ROE_hs_pangpei3_zhandou" />
+<ItemSpec id="110141" ROE_NEW="1" range="2" object="3" object_num="1" effect="313;38" effect_add="313;30" rate="1000" name="ST91051059" icon="ROE_hs_pangpei3_zhandou" />
+<ItemSpec id="110142" ROE_NEW="1" range="5" round="1;2" object="2" object_num="2" effect="800031;-9" effect_add="800031;11" effect_alv="800031;3.5" rate="340" rate_add="40" status_rate="1000" name="ST91051054" icon="ROE_hs_feitelie1_zhandou" aoe_animation="fire_arrow" />
+<ItemSpec id="110143" ROE_NEW="1" range="5" object="2" object_num="1" effect="800031;20" effect_add="800031;37.5" effect_alv="800031;2.25" rate="340" rate_add="40" times="2" name="ST91051055" icon="ROE_hs_feitelie2_zhandou" aoe_animation="fire_arrow" />
+<ItemSpec id="110144" ROE_NEW="1" range="5" object="1" object_num="1" effect="800031;-20" effect_add="800031;25" effect_alv="800031;1.5" rate="1000" name="ST91051055" icon="ROE_hs_feitelie2_zhandou" aoe_animation="fire_arrow" />
+<ItemSpec id="110145" ROE_NEW="1" range="5" object="1" object_num="1" effect="800031;-70" effect_add="800031;24" rate="1000" name="ST91051056" icon="ROE_hs_feitelie3_zhandou" />
+<ItemSpec id="110146" ROE_NEW="1" range="5" object="2" object_num="3" effect="800031;-55" effect_add="800031;35" rate="1000" name="ST91051056" icon="ROE_hs_feitelie3_zhandou" aoe_animation="fire_arrow" />
+<ItemSpec id="400038" ROE_NEW="1" range="4" round="0" object="4" object_num="2" effect="151;175" effect_add="151;15" effect_alv="151;3" rate="1000" status_rate="1000|1000" name="ST91051066" icon="FB_menghan8_pifu" aoe_animation="helicopter_shoot" />
+<ItemSpec id="400039" ROE_NEW="1" range="2" round="0" object="4" object_num="3" rate="1000" status_rate="1000|1000" name="jl0177" icon="ROE_huoli_pifu" />
+<ItemSpec id="400040" ROE_NEW="1" range="0" object="3" object_num="1" rate="1000" rate_add="0" status_rate="1000" name="ST91051096" icon="ROE_fatihe2_pifu" />
+<ItemSpec id="400041" ROE_NEW="1" range="3" round="1;2;3;4" object="4" object_num="3" rate="1000" status_rate="1000" name="ST91051098" icon="ROE_chaliman5_pifu" />
+<ItemSpec id="400042" ROE_NEW="1" range="6" round="0" object="4" object_num="6" rate="1000" status_rate="1000|1000|1000|1000" name="ST91051060" icon="ROE_lameixisi2_pifu" />
+<ItemSpec id="400043" ROE_NEW="1" range="2" round="0" object="4" object_num="3" rate="1000" status_rate="1000|1000" name="jl0197" icon="ROE_yongqi_pifu" />
+<ItemSpec id="400044" ROE_NEW="1" range="5" object="2" object_num="3" effect="151;-62" effect_add="151;5" effect_alv="151;1" rate="1000" name="XGMsn10024" icon="FB_zhanchui2_pifu" aoe_animation="helicopter_shoot" />
+<ItemSpec id="400045" ROE_NEW="1" range="2" object="2" object_num="3" rate="1000" name="XGMsn10024" icon="FB_zhanchui2_pifu" aoe_animation="helicopter_shoot" />
+<ItemSpec id="400046" ROE_NEW="1" range="4" object="2" object_num="2" effect="151;15" effect_add="151;7" effect_alv="151;1" rate="450" status_rate="1000" name="XGMsn10028" icon="FB_junshitanding1_pifu" />
+<ItemSpec id="400047" ROE_NEW="1" range="5" object="2" object_num="3" effect="151;80" effect_add="151;5" effect_alv="151;1" rate="350" status_rate="1000" name="XGMsn10027" icon="FB_huoshengren2_pifu" aoe_animation="hit_aoe" status_times="2" />
+<ItemSpec id="400048" ROE_NEW="1" range="2" round="0" object="4" object_num="3" rate="1000" status_rate="1000|1000" name="jl0179" icon="ROE_yuhe_pifu" />
+<ItemSpec id="400049" ROE_NEW="1" range="3" object="2" object_num="2" effect="151;17" effect_add="151;12" effect_alv="151;2" rate="400" status_rate="1000|250" name="XGMsn10025" icon="FB_liekong2_pifu" aoe_animation="fire_arrow" status_times="2" />
+<ItemSpec id="400050" ROE_NEW="1" range="5" round="1;2;3" object="2" object_num="3" effect="151;-10" effect_add="151;8" effect_alv="151;1.5" rate="600" status_rate="1000" name="XGMsn10026" icon="FB_nvwulieren2_pifu" aoe_animation="fire_arrow" status_times="2" />
+<ItemSpec id="400051" ROE_NEW="1" range="5" round="4;5;6;7;8" object="2" object_num="3" effect="151;-10" effect_add="151;8" effect_alv="151;1.5" rate="300" status_rate="1000" name="XGMsn10026" icon="FB_nvwulieren2_pifu" aoe_animation="fire_arrow" status_times="2" />
+<ItemSpec id="400052" ROE_NEW="1" range="5" round="1;2;3;4;5;6;7;8" object="3" object_num="1" rate="1000" status_rate="1000" name="XGMsn10031" icon="FB_budika3_pifu" status_times="1" />
+<ItemSpec id="400053" ROE_NEW="1" range="2" round="0" object="4" object_num="3" rate="1000" status_rate="1000|1000" name="jl0183" icon="ROE_bihu_pifu" />
+<ItemSpec id="400054" ROE_NEW="1" range="3" round="0" object="3" object_num="1" rate="1000" status_rate="1000" name="XGMsn10031" icon="FB_budika3_pifu" />
+<ItemSpec id="400055" ROE_NEW="1" range="3" round="1;2;3;4;5;6;7;8" object="3" object_num="1" rate="1000" status_rate="1000|1000" name="XGMsn10031" icon="FB_budika3_pifu" />
+<ItemSpec id="110147" ROE_NEW="1" range="3" round="3;4;5;6;7;8" cooldown="99" object="4" object_num="3" rate="400" status_rate="1000|1000" name="ST91051116" icon="ROE_hs_kaisa1_zhandou" />
+<ItemSpec id="110148" ROE_NEW="1" range="3" round="3" object="4" object_num="1" rate="1000" status_rate="1000" name="ST91051116" icon="ROE_hs_kaisa1_zhandou" />
+<ItemSpec id="110149" ROE_NEW="1" range="5" cooldown="1" object="2" object_num="2" effect="916;-45|31024;23" effect_add="916;25|31024;3" effect_alv="916;4" rate="600" name="ST91051117" icon="ROE_hs_kaisa2_zhandou" aoe_animation="fire_arrow" />
+<ItemSpec id="110150" ROE_NEW="1" range="5" object="2" object_num="3" effect="916;-60" effect_add="916;30" rate="500" name="ST91051119" icon="ROE_hs_kaisa3_zhandou" aoe_animation="fire_arrow" />
+<ItemSpec id="110151" ROE_NEW="1" range="5" object="3" object_num="1" rate="1000" status_rate="1000" />
+<ItemSpec id="110152" ROE_NEW="1" range="1" object="3" object_num="1" rate="350" rate_add="50" status_rate="1000" name="ST91051122" icon="ROE_hs_wudawei1_zhandou" />
+<ItemSpec id="110153" ROE_NEW="1" range="1" round="1" object="3" object_num="1" rate="1000" status_rate="1000" />
+<ItemSpec id="110154" ROE_NEW="1" range="3" object="4" object_num="1" rate="1000" status_rate="1000" name="ST91051121" icon="ROE_hs_wudawei2_zhandou" />
+<ItemSpec id="110155" ROE_NEW="1" range="3" round="0" object="3" object_num="1" rate="1000" status_rate="1000" name="ST91051121" icon="ROE_hs_wudawei2_zhandou" />
+<ItemSpec id="110156" ROE_NEW="1" range="5" object="4" object_num="3" rate="1000" status_rate="1000" name="ST91051124" icon="ROE_hs_wudawei3_zhandou" />
+<ItemSpec id="110157" ROE_NEW="1" range="5" object="2" object_num="3" effect="916;-56" effect_add="916;34" rate="1000" name="ST91051124" icon="ROE_hs_wudawei3_zhandou" aoe_animation="fire_arrow" />
+<ItemSpec id="110158" ROE_NEW="1" range="5" object="2" object_num="3" effect="916;-56" effect_add="916;34" rate="1000" name="ST91051124" icon="ROE_hs_wudawei3_zhandou" aoe_animation="fire_arrow" />
+<ItemSpec id="110159" ROE_NEW="1" range="5" object="3" object_num="1" rate="1000" status_rate="1000" />
+<ItemSpec id="120101" ROE_NEW="1" range="5" ready="1" object="1" object_num="1" effect="916;-76" effect_add="916;7" effect_alv="916;1.5" rate="400" times="6" name="88000731" icon="ROE_hs_yulian_zhandou" />
+<ItemSpec id="120102" ROE_NEW="1" range="1" round="0" object="3" object_num="1" rate="1000" status_rate="1000" name="88000730" icon="ROE_hs_qiufeng_zhandou" status_times="8" />
+<ItemSpec id="120103" ROE_NEW="1" range="5" object="2" object_num="2" effect="916;-75" effect_add="916;15" rate="400" status_rate="1000" name="88000729" icon="ROE_hs_luoye_zhandou" aoe_animation="hit_aoe" status_times="2" />
+<ItemSpec id="120111" ROE_NEW="1" range="5" object="2" object_num="3" effect="151;-62" effect_add="151;11" effect_alv="151;2" rate="300" status_rate="1000" name="88000732" icon="ROE_hs_xilizhihuo_zhandou" aoe_animation="fire_arrow" status_times="2" />
+<ItemSpec id="120112" ROE_NEW="1" range="5" round="0" object="2" object_num="2" rate="1000" status_rate="1000|450" status_rate_add="0|50" name="88000733" icon="ROE_hs_weiya_zhandou" />
+<ItemSpec id="120113" ROE_NEW="1" range="5" object="2" object_num="3" effect="151;-84" effect_add="151;14" rate="400" status_rate="1000" name="88000734" icon="ROE_hs_tianjiangzhengyi_zhandou" aoe_animation="fire_arrow" status_times="2" />
+<ItemSpec id="120121" ROE_NEW="1" range="5" object="1" object_num="1" effect="916;-46" effect_add="916;16" effect_alv="916;3" rate="400" times="2" name="88000737" icon="ROE_hs_changqiangtuxi_zhandou" aoe_animation="hit_aoe" />
+<ItemSpec id="120122" ROE_NEW="1" range="5" object="1" object_num="1" effect="916;-50" effect_add="916;35" effect_alv="916;2" rate="250" rate_add="10" status_rate="1000" name="88000736" icon="ROE_hs_suijia_zhandou" aoe_animation="hit_aoe" status_times="1" />
+<ItemSpec id="120123" ROE_NEW="1" range="1" round="0" object="3" object_num="1" rate="1000" status_rate="1000" name="88000735" icon="ROE_hs_buxiushenjiang_zhandou" status_times="8" />
+<ItemSpec id="120131" ROE_NEW="1" range="1" round="0" object="3" object_num="1" rate="1000" status_rate="1000|1000" name="88000739" icon="ROE_hs_huguoshenyin_zhandou" />
+<ItemSpec id="120132" ROE_NEW="1" range="5" round="0" object="4" object_num="3" rate="1000" status_rate="1000|1000|1000" name="88000740" icon="ROE_hs_pingluanzhe_zhandou" />
+<ItemSpec id="120133" ROE_NEW="1" range="4" round="0" object="2" object_num="2" effect="916;-77" effect_add="916;20" rate="1000" status_rate="1000" name="88000738" icon="ROE_hs_buquzhizhi_zhandou" aoe_animation="hit_aoe" status_times="1" />
+<ItemSpec id="120141" ROE_NEW="1" range="4" ready="1" object="2" object_num="3" effect="151;-53" effect_add="151;11" effect_alv="151;2" rate="350" status_rate="1000" name="88000741" icon="ROE_hs_zhengyishenpan_zhandou" aoe_animation="fire_arrow" status_times="2" />
+<ItemSpec id="120142" ROE_NEW="1" range="4" round="0" object="2" object_num="3" rate="1000" status_rate="1000" name="88000743" icon="ROE_hs_renxingbene_zhandou" status_times="3" />
+<ItemSpec id="120143" ROE_NEW="1" range="4" object="2" object_num="2" effect="151;-64" effect_add="151;34" rate="350" status_rate="50" status_rate_add="50" name="88000742" icon="ROE_hs_shuzui_zhandou" aoe_animation="fire_arrow" status_times="2" />
+<ItemSpec id="120151" ROE_NEW="1" range="2" round="0" object="4" object_num="3" rate="1000" times="5" status_rate="1000" name="88000744" icon="ROE_hs_mengshouchulong_zhandou" status_times="4" />
+<ItemSpec id="120152" ROE_NEW="1" range="2" round="0" object="4" object_num="2" rate="1000" status_rate="1000" name="88000745" icon="ROE_hs_baishoubenteng_zhandou" status_times="3" />
+<ItemSpec id="120153" ROE_NEW="1" range="2" round="0" object="4" object_num="1" rate="1000" status_rate="1000" name="88000746" icon="ROE_hs_kunshouzhidou_zhandou" status_times="3" />
+<ItemSpec id="120161" ROE_NEW="1" range="2" round="0" object="4" object_num="2" rate="1000" status_rate="1000" name="88000963" icon="ROE_hs_youmuliangfang_zhandou" status_times="3" />
+<ItemSpec id="120162" ROE_NEW="1" range="4" ready="1" object="2" object_num="2" rate="50" rate_add="50" status_rate="1000" name="88000964" icon="ROE_hs_yuhuizhanshu_zhandou" status_times="2" />
+<ItemSpec id="120163" ROE_NEW="1" range="2" round="0" object="4" object_num="3" rate="1000" status_rate="1000" name="88000962" icon="ROE_hs_wanmabengteng_zhandou" status_times="8" />
+<ItemSpec id="120171" ROE_NEW="1" range="6" round="0" object="4" object_num="6" rate="1000" status_rate="1000|1000" name="jl0159" icon="ROE_hs_lameixisiershi1_zhandou" />
+<ItemSpec id="120172" ROE_NEW="1" range="2" round="0" object="4" object_num="3" rate="1000" status_rate="1000" />
+<ItemSpec id="120173" ROE_NEW="1" range="2" round="0" object="4" object_num="3" rate="1000" status_rate="1000" name="jl0160" icon="ROE_hs_lameixisiershi2_zhandou" />
+<ItemSpec id="120174" ROE_NEW="1" range="2" object="4" object_num="3" effect="313;31" effect_add="313;23" rate="1000" status_rate="1000" name="jl0161" icon="ROE_hs_lameixisiershi3_zhandou" />
+<ItemSpec id="400056" ROE_NEW="1" range="6" object_num="1" rate="1000" status_rate="1000" name="XGMsn10030" icon="FB_aersilan2_pifu" />
+<ItemSpec id="400057" ROE_NEW="1" range="1" round="0" object_num="1" rate="1000" name="XGMsn10030" icon="FB_aersilan2_pifu" />
+<ItemSpec id="400058" ROE_NEW="1" range="2" object="112" object_num="3" effect="151;-78" effect_add="151;2" effect_alv="151;0.5" rate="550" rate_add="50" status_rate="1000" name="XGMsn10029" icon="FB_shengmingzhiguang2_pifu" />
+<ItemSpec id="400059" ROE_NEW="1" range="2" object="118" object_num="1" effect="313;50" rate="500" name="XGMsn10029" icon="FB_shengmingzhiguang2_pifu" />
+<ItemSpec id="400060" ROE_NEW="1" range="5" cooldown="1" object="1" object_num="1" effect="151;-16" effect_add="151;43" rate="800" status_rate="1000" name="jl0256" icon="FB_caocao2_pifu" aoe_animation="fire_arrow" />
+<ItemSpec id="400061" ROE_NEW="1" range="5" ready="1" object="2" object_num="3" effect="151;49" effect_add="151;29" rate="380" rate_add="30" name="jl0262" icon="FB_shixinwang2_pifu" aoe_animation="hit_aoe" />
+<ItemSpec id="400062" ROE_NEW="1" range="5" object="3" object_num="1" rate="1000" status_rate="1000" />
+<ItemSpec id="400063" ROE_NEW="1" range="3" ready="1" object="2" object_num="2" effect="151;40" effect_add="151;16" rate="600" status_rate="1000|1000" name="jl0273" icon="FB_heitaizi2_pifu" />
+<ItemSpec id="400064" ROE_NEW="1" range="0" object="3" object_num="1" rate="550" rate_add="50" status_rate="1000" name="ST91051096" icon="ROE_fatihe2_pifu" />
+<ItemSpec id="400065" ROE_NEW="1" range="3" round="1;2;3;4" object="4" object_num="3" rate="1000" status_rate="1000" name="ST91051098" icon="ROE_chaliman5_pifu" />
+<ItemSpec id="400066" ROE_NEW="1" range="4" object="2" object_num="2" effect="151;-57" effect_add="151;15" effect_alv="151;1" rate="450" status_rate="1000" name="XGMsn10028" icon="FB_junshitanding1_pifu" />
+<ItemSpec id="190019" ROE_NEW="1" range="5" round="1;2;3;4;5;6;7;8" object="1" object_num="1" effect="151;1000" rate="1000" status_rate="1000" name="14000207" icon="worldboss_skill16" />
+<ItemSpec id="190020" ROE_NEW="1" range="5" round="0" object="2" object_num="3" rate="1000" status_rate="1000" name="14000208" icon="worldboss_skill17" />
+<ItemSpec id="190021" ROE_NEW="1" range="5" round="0" object="3" rate="1000" status_rate="1000" name="14000209" icon="worldboss_skill18" />
+<ItemSpec id="400067" ROE_NEW="1" range="2" round="0" object_num="1" rate="1000" status_rate="1000|1000|1000" name="XGMsn10034" icon="FB_diyuzhihuo2_pifu" />
+<ItemSpec id="400068" ROE_NEW="1" range="2" round="0" object="4" object_num="3" rate="1000" status_rate="1000|1000" name="jl0177" icon="ROE_huoli_pifu" />
+<ItemSpec id="400069" ROE_NEW="1" range="2" round="0" object="4" object_num="3" rate="1000" status_rate="1000|1000" name="jl0176" icon="ROE_zhuanzhu_pifu" />
+<ItemSpec id="400070" ROE_NEW="1" range="5" object="2" object_num="1" effect="916;91" effect_add="916;23" rate="400" times="2" status_rate="1000" name="XGMsn10035" icon="FB_bumiezhe2_pifuhh1" aoe_animation="hit_aoe" />
+<ItemSpec id="400071" ROE_NEW="1" range="5" round="1;3;5" object="2" object_num="3" effect="151;-5" effect_add="151;10" effect_alv="151;1" rate="1000" status_rate="1000" name="XGMsn10063" icon="FB_tuolu2_pifu" aoe_animation="fire_arrow" status_times="2" />
+<ItemSpec id="400072" ROE_NEW="1" range="5" round="0" object="3" object_num="1" rate="1000" status_rate="1000" name="XGMsn10063" icon="FB_tuolu2_pifu" />
+<ItemSpec id="400073" ROE_NEW="1" range="3" object="4" object_num="2" effect="313;80" effect_add="313;8" rate="1000" name="TH000544" icon="FB_chengjisihan2_pifu" />
+<ItemSpec id="400074" ROE_NEW="1" range="3" object="4" object_num="2" effect="313;17" effect_add="313;15" rate="1000" name="TH000544" icon="FB_chengjisihan2_pifu" />
+<ItemSpec id="110161" ROE_NEW="1" range="5" object="2" object_num="2" effect="916;-45|31024;23" effect_add="916;25|31024;3" effect_alv="916;4" rate="1000" name="ST91051117" icon="ROE_hs_kaisa2_zhandou" aoe_animation="fire_arrow" />
+<ItemSpec id="110162" ROE_NEW="1" range="5" round="5;6;7;8" object="4" object_num="3" rate="1000" status_rate="1000" name="88001053" icon="ROE_hs_dongtutiehun_zhandou" status_times="8" />
+<ItemSpec id="104010" ROE_NEW="1" range="5" round="0" object="3" object_num="1" rate="1000" status_rate="1000" name="ST91051435" icon="equipment_skill_cloth5" isBattleskill="1" />
+<ItemSpec id="104011" ROE_NEW="1" range="5" round="0" object="3" object_num="1" status_rate="1000" name="ST91051436" icon="equipment_skill_boots5" isBattleskill="1" />
+<ItemSpec id="104012" ROE_NEW="1" range="5" round="0" object="3" object_num="1" status_rate="1000" name="ST91051437" icon="equipment_skill_ring5" isBattleskill="1" />
+<ItemSpec id="104013" ROE_NEW="1" range="5" round="0" object="3" object_num="1" status_rate="1000" name="ST91051438" icon="equipment_skill_necklace5" isBattleskill="1" />
+<ItemSpec id="104014" ROE_NEW="1" range="5" round="0" object="3" object_num="1" status_rate="1000" name="ST91051439" icon="equipment_skill_weapon5" isBattleskill="1" />
+<ItemSpec id="104015" ROE_NEW="1" range="5" round="0" object="3" object_num="1" status_rate="1000" name="ST91051440" icon="equipment_skill_helmet5" isBattleskill="1" />
+<ItemSpec id="104016" ROE_NEW="1" range="5" round="0" object="4" object_num="2" rate="1000" status_rate="1000" name="ST91051435" icon="equipment_skill_cloth10" isBattleskill="1" />
+<ItemSpec id="104017" ROE_NEW="1" range="5" round="0" object="4" object_num="2" status_rate="1000" name="ST91051436" icon="equipment_skill_boots10" isBattleskill="1" />
+<ItemSpec id="104018" ROE_NEW="1" range="5" round="0" object="4" object_num="2" status_rate="1000" name="ST91051437" icon="equipment_skill_ring10" isBattleskill="1" />
+<ItemSpec id="104019" ROE_NEW="1" range="5" round="0" object="4" object_num="2" status_rate="1000" name="ST91051438" icon="equipment_skill_necklace10" isBattleskill="1" />
+<ItemSpec id="104020" ROE_NEW="1" range="5" round="0" object="4" object_num="2" status_rate="1000" name="ST91051439" icon="equipment_skill_weapon10" isBattleskill="1" />
+<ItemSpec id="104021" ROE_NEW="1" range="5" round="0" object="4" object_num="2" status_rate="1000" name="ST91051440" icon="equipment_skill_helmet10" isBattleskill="1" />
+<ItemSpec id="104022" ROE_NEW="1" range="5" round="0" object="4" object_num="3" rate="1000" status_rate="1000" name="ST91051435" icon="equipment_skill_cloth20" isBattleskill="1" />
+<ItemSpec id="104023" ROE_NEW="1" range="5" round="0" object="4" object_num="3" status_rate="1000" name="ST91051436" icon="equipment_skill_boots20" isBattleskill="1" />
+<ItemSpec id="104024" ROE_NEW="1" range="5" round="0" object="4" object_num="3" status_rate="1000" name="ST91051437" icon="equipment_skill_ring20" isBattleskill="1" />
+<ItemSpec id="104025" ROE_NEW="1" range="5" round="0" object="4" object_num="3" status_rate="1000" name="ST91051438" icon="equipment_skill_necklace20" isBattleskill="1" />
+<ItemSpec id="104026" ROE_NEW="1" range="5" round="0" object="4" object_num="3" status_rate="1000" name="ST91051439" icon="equipment_skill_weapon20" isBattleskill="1" />
+<ItemSpec id="104027" ROE_NEW="1" range="5" round="0" object="4" object_num="3" status_rate="1000" name="ST91051440" icon="equipment_skill_helmet20" isBattleskill="1" />
+<ItemSpec id="104028" ROE_NEW="1" range="5" round="0" object="4" object_num="3" rate="1000" status_rate="1000" name="ST91051435" icon="equipment_skill_cloth30" isBattleskill="1" />
+<ItemSpec id="104029" ROE_NEW="1" range="5" round="0" object="4" object_num="3" status_rate="1000" name="ST91051436" icon="equipment_skill_boots30" isBattleskill="1" />
+<ItemSpec id="104030" ROE_NEW="1" range="5" round="0" object="4" object_num="3" status_rate="1000" name="ST91051437" icon="equipment_skill_ring30" isBattleskill="1" />
+<ItemSpec id="104031" ROE_NEW="1" range="5" round="0" object="4" object_num="3" status_rate="1000" name="ST91051438" icon="equipment_skill_necklace30" isBattleskill="1" />
+<ItemSpec id="104032" ROE_NEW="1" range="5" round="0" object="4" object_num="3" status_rate="1000" name="ST91051439" icon="equipment_skill_weapon30" isBattleskill="1" />
+<ItemSpec id="104033" ROE_NEW="1" range="5" round="0" object="4" object_num="3" status_rate="1000" name="ST91051440" icon="equipment_skill_helmet30" isBattleskill="1" />
+<ItemSpec id="400075" ROE_NEW="1" range="5" cooldown="1" object="1" object_num="1" effect="151;119" effect_add="151;28" rate="800" status_rate="1000" name="ST91051503" icon="FB_caocao2_pifuhh1" aoe_animation="fire_arrow" />
+<ItemSpec id="400076" ROE_NEW="1" range="5" cooldown="1" object="1" object_num="1" effect="151;-16" effect_add="151;43" rate="800" status_rate="1000" name="ST91051503" icon="FB_caocao2_pifuhh1" aoe_animation="fire_arrow" />
+<ItemSpec id="400079" ROE_NEW="1" range="2" round="0" object="4" object_num="3" rate="1000" status_rate="1000|1000" name="jl0179" icon="ROE_yuhe_pifu" />
+</Group>
+
+</tns:database>
